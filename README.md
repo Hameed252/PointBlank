@@ -6,8 +6,6 @@ Visit our forums and Discord to keep in touch with the latest developments.
 
 **Forums:** https://pointblank.pw/
 
-**Discord:** https://discord.gg/uKMtX
-
 **Install Guide:** https://github.com/foxovsky/PointBlank/wiki
 
 Bug Reports
