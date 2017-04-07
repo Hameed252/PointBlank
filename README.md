@@ -27,4 +27,4 @@ About
 This is Open-Source Server Emulator. 
 
 Help enterprise? 
-Send your github-nickname to [foxovsky@yandex.com](mailto:foxovsky@yandex.com) . Im check and add you to contributors.
+Send your github-nickname to [foxovsky@outlook.com](mailto:foxovsky@outlook.com) . Im check and add you to contributors.
