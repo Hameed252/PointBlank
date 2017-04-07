@@ -2,7 +2,11 @@
 /*
 	Входная точка приложения
 */
-session_start();
+
+if(!isset($_SESSION))
+{
+   session_start();
+}
 
 include("app/config.php");
 
