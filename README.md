@@ -22,6 +22,10 @@ Remember to check back for any feedback, and drop a comment once requested chang
 
 Please *test your code* before committing changes/submitting a pull request.
 
+Official Files
+========
+I publish official [documents](https://github.com/foxovsky/PointBlank/tree/master/docs), [utils](https://github.com/foxovsky/PointBlank/tree/master/tools_official) and [design files](https://github.com/foxovsky/PointBlank/tree/master/design).
+
 About
 ========
 This is Open-Source Server Emulator. 
