@@ -17,6 +17,11 @@ $RECYCLE.BIN/
 # Windows shortcuts
 *.lnk
 
+/server/Auth/bin/
+/server/Battle/bin/
+/server/Core/bin/
+/server/Game/bin/
+
 # =========================
 # Operating System Files
 # =========================
