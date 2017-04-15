@@ -1,0 +1,353 @@
+-- COMPILE DATE : Ver:3/18, BuildDate:Mar 17 2011 16:01:55 --
+[00:15]AccountKick Success- serverId(1) sessionIdx(1724), uid(1841969), 
+[00:35]PROTOCOL_ALIVE_USER_REQ NonUser : Server:0, SID:23370, DB(UID):1819534
+[00:36]AccountKick Success- serverId(0) sessionIdx(11307), uid(560977), 
+[00:40]AccountKick Success- serverId(0) sessionIdx(11080), uid(231027), 
+[00:42]AccountKick Success- serverId(0) sessionIdx(11402), uid(1336551), 
+[00:45]AccountKick Success- serverId(9) sessionIdx(4035), uid(1842513), 
+[00:49]AccountKick Success- serverId(8) sessionIdx(1758), uid(1459537), 
+[00:53]AccountKick Success- serverId(7) sessionIdx(1008), uid(1800993), 
+[00:58]AccountKick Success- serverId(0) sessionIdx(10230), uid(1839644), 
+[01:25]Kill User AlivePacket TimeOut Server = 0 SessionIdx = 6088 UID = 1346022
+[01:31]Kill User AlivePacket TimeOut Server = 0 SessionIdx = 4693 UID = 1410760
+[01:50]Kill User AlivePacket TimeOut Server = 0 SessionIdx = 6386 UID = 1740333
+[01:54]Kill User AlivePacket TimeOut Server = 0 SessionIdx = 5704 UID = 1721470
+[01:59]AccountKick Success- serverId(0) sessionIdx(11451), uid(1571528), 
+[02:06]Kill User AlivePacket TimeOut Server = 0 SessionIdx = 6284 UID = 909950
+[02:08]AccountKick Success- serverId(0) sessionIdx(11511), uid(866648), 
+[02:22]AccountKick Success- serverId(0) sessionIdx(11642), uid(1205804), 
+[02:24]AccountKick Success- serverId(0) sessionIdx(11594), uid(1336551), 
+[02:29]AccountKick Success- serverId(5) sessionIdx(1809), uid(1825484), 
+[02:35]AccountKick Success- serverId(4) sessionIdx(693), uid(1217929), 
+[02:39]AccountKick Success- serverId(0) sessionIdx(10255), uid(1800852), 
+[02:45]Kill User AlivePacket TimeOut Server = 0 SessionIdx = 5540 UID = 1519682
+[02:51]PROTOCOL_ALIVE_USER_REQ NonUser : Server:0, SID:614, DB(UID):1816587
+[02:52]AccountKick Success- serverId(1) sessionIdx(2561), uid(1842588), 
+[02:55]AccountKick Success- serverId(0) sessionIdx(11634), uid(1842513), 
+[03:00]Kill User AlivePacket TimeOut Server = 0 SessionIdx = 5620 UID = 605317
+[03:00]Kill User AlivePacket TimeOut Server = 0 SessionIdx = 6482 UID = 1842628
+[03:05]Kill User AlivePacket TimeOut Server = 0 SessionIdx = 5751 UID = 1842035
+[03:10]Kill User AlivePacket TimeOut Server = 0 SessionIdx = 6544 UID = 1644015
+[03:14]Kill User AlivePacket TimeOut Server = 1 SessionIdx = 172 UID = 1191949
+[03:24]AccountKick Success- serverId(0) sessionIdx(10798), uid(1741996), 
+[03:30]Kill User AlivePacket TimeOut Server = 0 SessionIdx = 5846 UID = 1250240
+[03:34]Kill User AlivePacket TimeOut Server = 0 SessionIdx = 5338 UID = 1759030
+[03:51]Kill User AlivePacket TimeOut Server = 0 SessionIdx = 6844 UID = 1412783
+[03:58]AccountKick Success- serverId(1) sessionIdx(2720), uid(1841969), 
+[04:00]AccountKick Success- serverId(1) sessionIdx(2756), uid(1842536), 
+[04:01]Kill User AlivePacket TimeOut Server = 0 SessionIdx = 6394 UID = 1485325
+[04:03]AccountKick Success- serverId(0) sessionIdx(11827), uid(1227604), 
+[04:06]AccountKick Success- serverId(0) sessionIdx(11559), uid(1344980), 
+[04:10]AccountKick Success- serverId(0) sessionIdx(11747), uid(1528942), 
+[04:11]AccountKick Success- serverId(2) sessionIdx(940), uid(1174326), 
+[04:12]AccountKick Success- serverId(1) sessionIdx(2697), uid(1842670), 
+[04:54]AccountKick Success- serverId(0) sessionIdx(11257), uid(273697), 
+[05:26]AccountKick Success- serverId(5) sessionIdx(1839), uid(1825484), 
+[05:30]AccountKick Success- serverId(0) sessionIdx(12047), uid(1210032), 
+[05:30]PROTOCOL_ALIVE_USER_REQ NonUser : Server:0, SID:2067, DB(UID):1403178
+[05:37]AccountKick Success- serverId(0) sessionIdx(11872), uid(1658883), 
+[05:54]AccountKick Success- serverId(1) sessionIdx(3740), uid(269890), 
+[06:00]AccountKick Success- serverId(0) sessionIdx(11061), uid(837761), 
+[06:00]AccountKick Success- serverId(5) sessionIdx(432), uid(1700666), 
+[06:02]AccountKick Success- serverId(0) sessionIdx(11936), uid(1437645), 
+[06:09]AccountKick Success- serverId(0) sessionIdx(7391), uid(1842639), 
+[06:15]AccountKick Success- serverId(0) sessionIdx(11082), uid(198770), 
+[06:29]AccountKick Success- serverId(4) sessionIdx(125), uid(1803864), 
+[06:31]AccountKick Success- serverId(1) sessionIdx(3169), uid(1842588), 
+[06:46]AccountKick Success- serverId(0) sessionIdx(12238), uid(1391565), 
+[06:48]Kill User AlivePacket TimeOut Server = 0 SessionIdx = 7121 UID = 1721441
+[06:50]Kill User AlivePacket TimeOut Server = 0 SessionIdx = 6121 UID = 42255
+[07:06]AccountKick Success- serverId(0) sessionIdx(12048), uid(1654953), 
+[07:12]AccountKick Success- serverId(0) sessionIdx(12293), uid(1174326), 
+[07:17]AccountKick Success- serverId(1) sessionIdx(3557), uid(1842670), 
+[07:22]AccountKick Success- serverId(0) sessionIdx(12350), uid(846724), 
+[07:33][ERROR]USER_LEAVE UID Error Server=0, iUID=1403178
+[07:33][ERROR]PROTOCOL_AUTH_LOGOUT_REQ UserNone Server:0, SID:2067, UID:1403178
+[07:33]AccountKick Success- serverId(0) sessionIdx(12372), uid(1205804), 
+[07:39]AccountKick Success- serverId(0) sessionIdx(12160), uid(1473431), 
+[07:41]AccountKick Success- serverId(1) sessionIdx(3436), uid(1842536), 
+[07:44][ERROR]USER_ENTER UID Error Server=3, iUID=1403178
+[07:44][ERROR]PROTOCOL_AUTH_LOGOUT_REQ UserNone Server:3, SID:2498, UID:1403178
+[07:45]AccountKick Success- serverId(0) sessionIdx(12427), uid(837761), 
+[08:03]AccountKick Success- serverId(1) sessionIdx(2805), uid(1788598), 
+[08:29]Kill User AlivePacket TimeOut Server = 0 SessionIdx = 6519 UID = 1336167
+[08:39]AccountKick Success- serverId(2) sessionIdx(3232), uid(359388), 
+[08:41]AccountKick Success- serverId(0) sessionIdx(12506), uid(1240131), 
+[08:44][ERROR]USER_LEAVE UID Error Server=0, iUID=1819534
+[08:44][ERROR]PROTOCOL_AUTH_LOGOUT_REQ UserNone Server:0, SID:23370, UID:1819534
+[08:46][ERROR]USER_ENTER UID Error Server=3, iUID=1819534
+[08:46][ERROR]PROTOCOL_AUTH_LOGOUT_REQ UserNone Server:3, SID:2522, UID:1819534
+[08:46]AccountKick Success- serverId(0) sessionIdx(12515), uid(1788350), 
+[08:55]Kill User AlivePacket TimeOut Server = 0 SessionIdx = 6723 UID = 1746732
+[08:57]Kill User AlivePacket TimeOut Server = 0 SessionIdx = 7808 UID = 1688019
+[09:04]AccountKick Success- serverId(0) sessionIdx(11857), uid(941456), 
+[09:22]AccountKick Success- serverId(0) sessionIdx(9834), uid(1369576), 
+[09:22]AccountKick Success- serverId(2) sessionIdx(3694), uid(933424), 
+[09:26]AccountKick Success- serverId(0) sessionIdx(12687), uid(1096115), 
+[09:33]AccountKick Success- serverId(0) sessionIdx(12638), uid(1654953), 
+[09:54]AccountKick Success- serverId(0) sessionIdx(12203), uid(1833851), 
+[09:55]Kill User AlivePacket TimeOut Server = 0 SessionIdx = 6825 UID = 1793717
+[09:57]AccountKick Success- serverId(1) sessionIdx(1800), uid(1508196), 
+[09:58]AccountKick Success- serverId(1) sessionIdx(3985), uid(1842588), 
+[10:01]Kill User AlivePacket TimeOut Server = 0 SessionIdx = 6673 UID = 1817747
+[10:08]Kill User AlivePacket TimeOut Server = 0 SessionIdx = 7347 UID = 1154514
+[10:12]Kill User AlivePacket TimeOut Server = 0 SessionIdx = 7642 UID = 874203
+[10:17]PROTOCOL_ALIVE_USER_REQ NonUser : Server:0, SID:4693, DB(UID):1410760
+[10:17]Kill User AlivePacket TimeOut Server = 2 SessionIdx = 423 UID = 1842177
+[10:25]AccountKick Success- serverId(2) sessionIdx(4235), uid(235850), 
+[10:27]Kill User AlivePacket TimeOut Server = 0 SessionIdx = 8150 UID = 644987
+[10:44]Kill User AlivePacket TimeOut Server = 0 SessionIdx = 7376 UID = 457792
+[11:01]Kill User AlivePacket TimeOut Server = 0 SessionIdx = 7595 UID = 1795796
+[11:03]AccountKick Success- serverId(0) sessionIdx(12837), uid(175321), 
+[11:05]Kill User AlivePacket TimeOut Server = 0 SessionIdx = 7594 UID = 1264828
+[11:05]AccountKick Success- serverId(1) sessionIdx(123), uid(1842536), 
+[11:09]AccountKick Success- serverId(0) sessionIdx(11292), uid(1147773), 
+[11:14]Kill User AlivePacket TimeOut Server = 0 SessionIdx = 7210 UID = 1512048
+[11:36]AccountKick Success- serverId(6) sessionIdx(2445), uid(1830532), 
+[11:38]AccountKick Success- serverId(0) sessionIdx(12097), uid(1757503), 
+[11:50]PROTOCOL_ALIVE_USER_REQ NonUser : Server:0, SID:5540, DB(UID):1519682
+[12:31]AccountKick Success- serverId(0) sessionIdx(11952), uid(956127), 
+[13:03]AccountKick Success- serverId(1) sessionIdx(498), uid(1842588), 
+[13:33]PROTOCOL_ALIVE_USER_REQ NonUser : Server:0, SID:6482, DB(UID):1842628
+[13:33]AccountKick Success- serverId(0) sessionIdx(12777), uid(1201481), 
+[13:37]PROTOCOL_ALIVE_USER_REQ NonUser : Server:0, SID:6519, DB(UID):1336167
+[13:56]AccountKick Success- serverId(0) sessionIdx(13256), uid(992289), 
+[13:59][ERROR]USER_LEAVE UID Error Server=0, iUID=644987
+[13:59][ERROR]PROTOCOL_AUTH_LOGOUT_REQ UserNone Server:0, SID:8150, UID:644987
+[14:00][ERROR]USER_ENTER UID Error Server=1, iUID=644987
+[14:01][ERROR]PROTOCOL_AUTH_LOGOUT_REQ UserNone Server:1, SID:1088, UID:644987
+[14:23]AccountKick Success- serverId(0) sessionIdx(12952), uid(328553), 
+[14:39]AccountKick Success- serverId(1) sessionIdx(3440), uid(1841969), 
+[14:52]AccountKick Success- serverId(0) sessionIdx(13335), uid(1741996), 
+[15:02]AccountKick Success- serverId(0) sessionIdx(12764), uid(1840827), 
+[15:07]AccountKick Success- serverId(0) sessionIdx(10877), uid(957038), 
+[15:07]PROTOCOL_ALIVE_USER_REQ NonUser : Server:0, SID:7347, DB(UID):1154514
+[15:10]AccountKick Success- serverId(0) sessionIdx(11860), uid(1704592), 
+[15:17]AccountKick Success- serverId(0) sessionIdx(13376), uid(1608595), 
+[15:18][ERROR]PROTOCOL_AUTH_LOGOUT_REQ UserNone Server:0, SID:5540, UID:1519682
+[15:25]AccountKick Success- serverId(0) sessionIdx(13370), uid(1841874), 
+[15:39]Kill User AlivePacket TimeOut Server = 0 SessionIdx = 8422 UID = 1734592
+[15:45]AccountKick Success- serverId(0) sessionIdx(13136), uid(620758), 
+[16:05]AccountKick Success- serverId(0) sessionIdx(13353), uid(782142), 
+[16:17]AccountKick Success- serverId(1) sessionIdx(1077), uid(1842588), 
+[16:18]AccountKick Success- serverId(0) sessionIdx(12969), uid(192196), 
+[16:35]AccountKick Success- serverId(0) sessionIdx(13364), uid(960615), 
+[16:53]Kill User AlivePacket TimeOut Server = 0 SessionIdx = 9252 UID = 1037179
+[17:09]Kill User AlivePacket TimeOut Server = 0 SessionIdx = 8985 UID = 856768
+[17:16]Kill User AlivePacket TimeOut Server = 0 SessionIdx = 8086 UID = 1174907
+[17:28]AccountKick Success- serverId(2) sessionIdx(204), uid(583622), 
+[17:44]Kill User AlivePacket TimeOut Server = 0 SessionIdx = 9430 UID = 927363
+[17:45]Kill User AlivePacket TimeOut Server = 0 SessionIdx = 8899 UID = 821019
+[17:49]Kill User AlivePacket TimeOut Server = 0 SessionIdx = 8898 UID = 1138403
+[17:55]AccountKick Success- serverId(0) sessionIdx(13488), uid(1361703), 
+[17:57]PROTOCOL_ALIVE_USER_REQ NonUser : Server:0, SID:8899, DB(UID):821019
+[18:06]AccountKick Success- serverId(1) sessionIdx(1364), uid(1841969), 
+[18:10]Kill User AlivePacket TimeOut Server = 1 SessionIdx = 1689 UID = 908696
+[18:18]Kill User AlivePacket TimeOut Server = 0 SessionIdx = 8989 UID = 915635
+[18:20]AccountKick Success- serverId(0) sessionIdx(10377), uid(993549), 
+[18:20]Kill User AlivePacket TimeOut Server = 0 SessionIdx = 8833 UID = 1841553
+[18:21]Kill User AlivePacket TimeOut Server = 0 SessionIdx = 8968 UID = 1822574
+[18:44]AccountKick Success- serverId(1) sessionIdx(3148), uid(507770), 
+[18:55]Kill User AlivePacket TimeOut Server = 0 SessionIdx = 9077 UID = 763608
+[18:55]Kill User AlivePacket TimeOut Server = 0 SessionIdx = 8850 UID = 1186051
+[18:55]PROTOCOL_ALIVE_USER_REQ NonUser : Server:0, SID:9430, DB(UID):927363
+[19:38]AccountKick Success- serverId(1) sessionIdx(1940), uid(1324197), 
+[20:23]AccountKick Success- serverId(0) sessionIdx(14005), uid(1838035), 
+[20:31]AccountKick Success- serverId(0) sessionIdx(13514), uid(1546501), 
+[20:34]AccountKick Success- serverId(0) sessionIdx(13848), uid(1842646), 
+[20:42]AccountKick Success- serverId(0) sessionIdx(14002), uid(115303), 
+[21:12]AccountKick Success- serverId(1) sessionIdx(193), uid(1172851), 
+[21:47]AccountKick Success- serverId(0) sessionIdx(14047), uid(874444), 
+[22:03]AccountKick Success- serverId(0) sessionIdx(14167), uid(1537581), 
+[22:03]AccountKick Success- serverId(2) sessionIdx(464), uid(1842729), 
+[22:13]AccountKick Success- serverId(0) sessionIdx(13975), uid(198770), 
+[22:17]Kill User AlivePacket TimeOut Server = 0 SessionIdx = 9332 UID = 370201
+[22:21]AccountKick Success- serverId(0) sessionIdx(12105), uid(1518301), 
+[22:33]AccountKick Success- serverId(0) sessionIdx(13582), uid(941456), 
+[22:35]Kill User AlivePacket TimeOut Server = 0 SessionIdx = 9898 UID = 1709178
+[22:38]Kill User AlivePacket TimeOut Server = 0 SessionIdx = 9219 UID = 875087
+[22:47]PROTOCOL_ALIVE_USER_REQ NonUser : Server:0, SID:11548, DB(UID):894449
+[23:02]AccountKick Success- serverId(0) sessionIdx(14194), uid(1257429), 
+[23:05]AccountKick Success- serverId(0) sessionIdx(13766), uid(1147773), 
+[23:16]AccountKick Success- serverId(0) sessionIdx(14193), uid(1661020), 
+[23:23]AccountKick Success- serverId(1) sessionIdx(1990), uid(1841969), 
+[23:40][ERROR]PROTOCOL_AUTH_LOGOUT_REQ UserNone Server:0, SID:6519, UID:1336167
+[23:42]AccountKick Success- serverId(7) sessionIdx(1243), uid(1842730), 
+[23:47]AccountKick Success- serverId(2) sessionIdx(3200), uid(1651294), 
+[24:11]AccountKick Success- serverId(0) sessionIdx(14275), uid(1119922), 
+[24:31]AccountKick Success- serverId(0) sessionIdx(14191), uid(1183187), 
+[24:42]Kill User AlivePacket TimeOut Server = 0 SessionIdx = 9876 UID = 1475945
+[24:44]Kill User AlivePacket TimeOut Server = 3 SessionIdx = 1904 UID = 1841678
+[24:55]AccountKick Success- serverId(0) sessionIdx(14438), uid(806309), 
+[25:25]AccountKick Success- serverId(0) sessionIdx(14364), uid(1172851), 
+[25:34]AccountKick Success- serverId(0) sessionIdx(14396), uid(198770), 
+[25:38]AccountKick Success- serverId(0) sessionIdx(14457), uid(1810271), 
+[25:43]AccountKick Success- serverId(0) sessionIdx(14452), uid(1819809), 
+[25:47]Kill User AlivePacket TimeOut Server = 0 SessionIdx = 10147 UID = 1834322
+[25:50]Kill User AlivePacket TimeOut Server = 0 SessionIdx = 10641 UID = 462158
+[25:51]Kill User AlivePacket TimeOut Server = 0 SessionIdx = 10581 UID = 365361
+[25:53]Kill User AlivePacket TimeOut Server = 0 SessionIdx = 10146 UID = 289845
+[25:55]Kill User AlivePacket TimeOut Server = 0 SessionIdx = 10753 UID = 1573138
+[26:06]AccountKick Success- serverId(7) sessionIdx(1266), uid(1842730), 
+[26:08]Kill User AlivePacket TimeOut Server = 0 SessionIdx = 9843 UID = 1630564
+[26:10]Kill User AlivePacket TimeOut Server = 0 SessionIdx = 10189 UID = 1652296
+[26:21]Kill User AlivePacket TimeOut Server = 0 SessionIdx = 10047 UID = 843142
+[26:33]Kill User AlivePacket TimeOut Server = 0 SessionIdx = 10495 UID = 1741226
+[27:29]AccountKick Success- serverId(2) sessionIdx(817), uid(1841969), 
+[27:52]AccountKick Success- serverId(0) sessionIdx(13689), uid(1842726), 
+[28:32]AccountKick Success- serverId(7) sessionIdx(1278), uid(1842730), 
+[29:23]AccountKick Success- serverId(0) sessionIdx(14915), uid(1078946), 
+[29:35]AccountKick Success- serverId(1) sessionIdx(2654), uid(1163184), 
+[29:41]AccountKick Success- serverId(0) sessionIdx(14968), uid(874015), 
+[29:42]AccountKick Success- serverId(0) sessionIdx(14916), uid(473005), 
+[30:11]Kill User AlivePacket TimeOut Server = 0 SessionIdx = 10568 UID = 1813423
+[30:30]AccountKick Success- serverId(0) sessionIdx(14868), uid(172458), 
+[30:50]AccountKick Success- serverId(0) sessionIdx(14928), uid(1757064), 
+[31:16]AccountKick Success- serverId(7) sessionIdx(1292), uid(1842730), 
+[31:19]Kill User AlivePacket TimeOut Server = 2 SessionIdx = 1881 UID = 1065975
+[31:32]AccountKick Success- serverId(0) sessionIdx(13126), uid(1841510), 
+[31:40]AccountKick Success- serverId(0) sessionIdx(13500), uid(1526892), 
+[31:47]AccountKick Success- serverId(2) sessionIdx(1060), uid(1841969), 
+[31:53]AccountKick Success- serverId(4) sessionIdx(1089), uid(296575), 
+[32:04]AccountKick Success- serverId(0) sessionIdx(15132), uid(1629356), 
+[32:12]Kill User AlivePacket TimeOut Server = 0 SessionIdx = 11329 UID = 205891
+[32:24]Kill User AlivePacket TimeOut Server = 5 SessionIdx = 1773 UID = 1841687
+[32:36]Kill User AlivePacket TimeOut Server = 0 SessionIdx = 10789 UID = 890819
+[32:43]Kill User AlivePacket TimeOut Server = 0 SessionIdx = 11333 UID = 190074
+[32:52]Kill User AlivePacket TimeOut Server = 0 SessionIdx = 11092 UID = 1284365
+[32:53]Kill User AlivePacket TimeOut Server = 0 SessionIdx = 11723 UID = 1842702
+[32:56]AccountKick Success- serverId(0) sessionIdx(15113), uid(829268), 
+[33:00]AccountKick Success- serverId(0) sessionIdx(15361), uid(750841), 
+[33:07]Kill User AlivePacket TimeOut Server = 3 SessionIdx = 2274 UID = 1827122
+[34:07]AccountKick Success- serverId(0) sessionIdx(15462), uid(1325917), 
+[34:16]AccountKick Success- serverId(0) sessionIdx(15452), uid(1840319), 
+[34:16]AccountKick Success- serverId(6) sessionIdx(2634), uid(1842730), 
+[34:25]AccountKick Success- serverId(0) sessionIdx(15311), uid(838406), 
+[34:39]AccountKick Success- serverId(0) sessionIdx(15421), uid(1842726), 
+[35:12]Failed Check User status in Russia.
+[35:13]AccountKick Success- serverId(0) sessionIdx(12145), uid(502150), 
+[35:29]AccountKick Success- serverId(1) sessionIdx(4135), uid(1831512), 
+[35:46]AccountKick Success- serverId(0) sessionIdx(15569), uid(1825254), 
+[36:09]AccountKick Success- serverId(0) sessionIdx(15499), uid(1839007), 
+[36:22]AccountKick Success- serverId(1) sessionIdx(49), uid(1841969), 
+[36:52]AccountKick Success- serverId(7) sessionIdx(1327), uid(1842730), 
+[37:15]Success ReConnect SIAServer 1
+[37:41]AccountKick Success- serverId(0) sessionIdx(15783), uid(1802024), 
+[37:50][ModuleDBWorker] DB Time Over : 1265
+[37:50]DB SLOW [4]GetMyInfo Delay(Insert:1) - Total:1265, Basic:62, Record:328, Equipment:641, Mission:234
+[38:25]AccountKick Success- serverId(0) sessionIdx(15558), uid(1044087), 
+[39:01]AccountKick Success- serverId(7) sessionIdx(1341), uid(1842730), 
+[39:06]PROTOCOL_ALIVE_USER_REQ NonUser : Server:0, SID:20500, DB(UID):51650
+[39:38]Kill User AlivePacket TimeOut Server = 0 SessionIdx = 12155 UID = 324209
+[39:46]AccountKick Success- serverId(0) sessionIdx(13279), uid(1274832), 
+[39:54]AccountKick Success- serverId(0) sessionIdx(15876), uid(1812296), 
+[39:58]Kill User AlivePacket TimeOut Server = 0 SessionIdx = 11913 UID = 1336551
+[40:03]AccountKick Success- serverId(0) sessionIdx(16033), uid(979263), 
+[40:04]AccountKick Success- serverId(2) sessionIdx(1615), uid(1057558), 
+[40:06]Kill User AlivePacket TimeOut Server = 1 SessionIdx = 211 UID = 687904
+[40:11]AccountKick Success- serverId(0) sessionIdx(16084), uid(1776650), 
+[40:19]Kill User AlivePacket TimeOut Server = 0 SessionIdx = 11918 UID = 832605
+[40:35]Kill User AlivePacket TimeOut Server = 1 SessionIdx = 4059 UID = 1586797
+[40:38]AccountKick Success- serverId(0) sessionIdx(15613), uid(1674477), 
+[40:44]Kill User AlivePacket TimeOut Server = 5 SessionIdx = 1864 UID = 1825484
+[40:47]AccountKick Success- serverId(0) sessionIdx(16113), uid(1205804), 
+[40:53]AccountKick Success- serverId(0) sessionIdx(16096), uid(902659), 
+[41:06]Kill User AlivePacket TimeOut Server = 0 SessionIdx = 12708 UID = 1048727
+[41:08]Kill User AlivePacket TimeOut Server = 0 SessionIdx = 12426 UID = 849058
+[41:11]AccountKick Success- serverId(0) sessionIdx(15871), uid(1842726), 
+[41:15]Kill User AlivePacket TimeOut Server = 0 SessionIdx = 12721 UID = 837761
+[41:24]Kill User AlivePacket TimeOut Server = 1 SessionIdx = 3733 UID = 1827136
+[41:24]AccountKick Success- serverId(0) sessionIdx(15931), uid(866839), 
+[41:34]AccountKick Success- serverId(0) sessionIdx(16109), uid(1797139), 
+[41:51]AccountKick Success- serverId(8) sessionIdx(2344), uid(1842730), 
+[42:21]AccountKick Success- serverId(0) sessionIdx(16280), uid(1558809), 
+[42:28]AccountKick Success- serverId(0) sessionIdx(16271), uid(744406), 
+[42:40]AccountKick Success- serverId(0) sessionIdx(16294), uid(1825641), 
+[43:07]AccountKick Success- serverId(0) sessionIdx(16050), uid(1475345), 
+[43:30]AccountKick Success- serverId(0) sessionIdx(16089), uid(1842651), 
+[43:34][ERROR]PROTOCOL_AUTH_LOGOUT_REQ UserNone Server:0, SID:8899, UID:821019
+[43:35]AccountKick Success- serverId(0) sessionIdx(16287), uid(1826796), 
+[43:35]PROTOCOL_ALIVE_USER_REQ NonUser : Server:0, SID:22962, DB(UID):13398
+[43:36]AccountKick Success- serverId(0) sessionIdx(16324), uid(1348446), 
+[43:52]AccountKick Success- serverId(2) sessionIdx(3077), uid(1349978), 
+[43:59]AccountKick Success- serverId(1) sessionIdx(4211), uid(1243595), 
+[44:06]AccountKick Success- serverId(0) sessionIdx(16351), uid(1842726), 
+[44:14]AccountKick Success- serverId(0) sessionIdx(16373), uid(1793308), 
+[44:27]AccountKick Success- serverId(0) sessionIdx(16439), uid(1839578), 
+[44:37]AccountKick Success- serverId(0) sessionIdx(16464), uid(1812263), 
+[44:40]AccountKick Success- serverId(0) sessionIdx(16441), uid(1345274), 
+[44:47]Kill User AlivePacket TimeOut Server = 0 SessionIdx = 13062 UID = 1842718
+[44:56]AccountKick Success- serverId(7) sessionIdx(1374), uid(1842730), 
+[45:13]AccountKick Success- serverId(0) sessionIdx(16528), uid(250096), 
+[45:54]AccountKick Success- serverId(1) sessionIdx(1291), uid(803829), 
+[46:36]PROTOCOL_ALIVE_USER_REQ NonUser : Server:0, SID:614, DB(UID):1816587
+[46:37]Kill User AlivePacket TimeOut Server = 0 SessionIdx = 13251 UID = 791078
+[47:01]Kill User AlivePacket TimeOut Server = 0 SessionIdx = 13566 UID = 1823254
+[47:26]AccountKick Success- serverId(2) sessionIdx(1828), uid(1842764), 
+[47:27]AccountKick Success- serverId(0) sessionIdx(15975), uid(1159563), 
+[47:31]Kill User AlivePacket TimeOut Server = 0 SessionIdx = 13662 UID = 1750383
+[47:41]Kill User AlivePacket TimeOut Server = 1 SessionIdx = 989 UID = 1842536
+[47:42]AccountKick Success- serverId(0) sessionIdx(16753), uid(817339), 
+[47:51]AccountKick Success- serverId(7) sessionIdx(1392), uid(1842730), 
+[47:53][ERROR]USER_LEAVE UID Error Server=0, iUID=1410760
+[47:53][ERROR]PROTOCOL_AUTH_LOGOUT_REQ UserNone Server:0, SID:4693, UID:1410760
+[47:55][ERROR]USER_ENTER UID Error Server=3, iUID=1410760
+[47:55][ERROR]PROTOCOL_AUTH_LOGOUT_REQ UserNone Server:3, SID:2978, UID:1410760
+[48:33]AccountKick Success- serverId(0) sessionIdx(16363), uid(1773662), 
+[48:33]Kill User AlivePacket TimeOut Server = 0 SessionIdx = 13598 UID = 1413565
+[48:37]AccountKick Success- serverId(1) sessionIdx(758), uid(1831512), 
+[48:45]AccountKick Success- serverId(0) sessionIdx(16682), uid(1345274), 
+[48:53]AccountKick Success- serverId(1) sessionIdx(13), uid(584936), 
+[48:54]AccountKick Success- serverId(0) sessionIdx(16771), uid(78374), 
+[48:56]Kill User AlivePacket TimeOut Server = 1 SessionIdx = 1589 UID = 1842588
+[49:07]AccountKick Success- serverId(3) sessionIdx(2975), uid(1366243), 
+[49:15]AccountKick Success- serverId(0) sessionIdx(16701), uid(447063), 
+[49:20]AccountKick Success- serverId(0) sessionIdx(16895), uid(1188420), 
+[49:48]AccountKick Success- serverId(0) sessionIdx(16925), uid(817339), 
+[50:29]AccountKick Success- serverId(0) sessionIdx(16147), uid(6110), 
+[50:48]AccountKick Success- serverId(0) sessionIdx(17031), uid(78374), 
+[50:48]AccountKick Success- serverId(3) sessionIdx(2127), uid(318304), 
+[50:54][ERROR]USER_ENTER STATE Error Server=1, iUID=1345274, State=6
+[51:03]AccountKick Success- serverId(1) sessionIdx(1142), uid(1204582), 
+[51:08]AccountKick Success- serverId(7) sessionIdx(1410), uid(1842730), 
+[51:08]AccountKick Success- serverId(0) sessionIdx(17078), uid(1801745), 
+[51:16]AccountKick Success- serverId(0) sessionIdx(16749), uid(1566955), 
+[51:48]AccountKick Success- serverId(0) sessionIdx(17110), uid(1153311), 
+[52:09]AccountKick Success- serverId(0) sessionIdx(14537), uid(1838035), 
+[52:12][ERROR]USER_LEAVE UID Error Server=0, iUID=1154514
+[52:12][ERROR]PROTOCOL_AUTH_LOGOUT_REQ UserNone Server:0, SID:7347, UID:1154514
+[52:14][ERROR]USER_ENTER UID Error Server=1, iUID=1154514
+[52:14][ERROR]PROTOCOL_AUTH_LOGOUT_REQ UserNone Server:1, SID:2964, UID:1154514
+[52:14]Failed Check User status in Russia.
+[52:31]AccountKick Success- serverId(6) sessionIdx(2723), uid(1842764), 
+[52:44]AccountKick Success- serverId(0) sessionIdx(17124), uid(1468309), 
+[53:14]AccountKick Success- serverId(0) sessionIdx(17170), uid(705743), 
+[53:15]AccountKick Success- serverId(0) sessionIdx(16852), uid(1842726), 
+[53:23]AccountKick Success- serverId(2) sessionIdx(1244), uid(1806613), 
+[53:25]AccountKick Success- serverId(7) sessionIdx(1425), uid(1842730), 
+[53:36]AccountKick Success- serverId(0) sessionIdx(17280), uid(1231023), 
+[54:38]Kill User AlivePacket TimeOut Server = 0 SessionIdx = 14176 UID = 1842447
+[54:59]Kill User AlivePacket TimeOut Server = 0 SessionIdx = 14603 UID = 1434379
+[55:12]Kill User AlivePacket TimeOut Server = 0 SessionIdx = 11574 UID = 1111034
+[55:40]Kill User AlivePacket TimeOut Server = 0 SessionIdx = 14208 UID = 965256
+[55:48]AccountKick Success- serverId(2) sessionIdx(3701), uid(1700666), 
+[55:48]Kill User AlivePacket TimeOut Server = 0 SessionIdx = 14393 UID = 1526922
+[55:52]AccountKick Success- serverId(0) sessionIdx(16417), uid(730482), 
+[56:00]Kill User AlivePacket TimeOut Server = 0 SessionIdx = 14326 UID = 885751
+[56:18]Kill User AlivePacket TimeOut Server = 2 SessionIdx = 608 UID = 1460523
+[56:22]Kill User AlivePacket TimeOut Server = 1 SessionIdx = 2998 UID = 1838579
+[56:31]AccountKick Success- serverId(0) sessionIdx(17123), uid(1174193), 
+[56:34]AccountKick Success- serverId(0) sessionIdx(17452), uid(1468309), 
+[56:37]AccountKick Success- serverId(7) sessionIdx(1437), uid(1842730), 
+[56:38]Kill User AlivePacket TimeOut Server = 2 SessionIdx = 715 UID = 1842729
+[56:41]Kill User AlivePacket TimeOut Server = 0 SessionIdx = 14775 UID = 198770
+[56:52]Kill User AlivePacket TimeOut Server = 0 SessionIdx = 14038 UID = 1787768
+[57:02]AccountKick Success- serverId(0) sessionIdx(17551), uid(582476), 
+[57:18]PROTOCOL_ALIVE_USER_REQ NonUser : Server:0, SID:6482, DB(UID):1842628
+[57:21]AccountKick Success- serverId(0) sessionIdx(15836), uid(1824086), 
+[57:29]AccountKick Success- serverId(0) sessionIdx(17597), uid(1548923), 
+[58:09]AccountKick Success- serverId(0) sessionIdx(17647), uid(1614156), 
+[58:15]AccountKick Success- serverId(0) sessionIdx(17584), uid(1298599), 
+[58:35]AccountKick Success- serverId(0) sessionIdx(17611), uid(906248), 
+[58:54]AccountKick Success- serverId(0) sessionIdx(17492), uid(1392822), 
+[59:06]AccountKick Success- serverId(7) sessionIdx(1450), uid(1842730), 

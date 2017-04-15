@@ -1,0 +1,423 @@
+-- COMPILE DATE : Ver:4/29, BuildDate:May 26 2011 17:48:30 --
+[00:00]AccountKick Fail - uid(0), 
+[00:03]DB SLOW [0]GetMyInfo Delay(Insert:0) - Total:156, Basic:46, Record:0, Equipment:47, Mission:63
+[00:03]DB SLOW [8]GetMyInfo Delay(Insert:0) - Total:188, Basic:125, Record:47, Equipment:0, Mission:16
+[00:08]DB SLOW [6]GetMyInfo Delay(Insert:0) - Total:219, Basic:109, Record:94, Equipment:0, Mission:16
+[00:20]DB SLOW [2]GetMyInfo Delay(Insert:0) - Total:172, Basic:125, Record:0, Equipment:16, Mission:31
+[00:21]DB SLOW [2]GetMyInfo Delay(Insert:0) - Total:203, Basic:109, Record:0, Equipment:94, Mission:0
+[00:26]DB SLOW [6]GetMyInfo Delay(Insert:0) - Total:172, Basic:109, Record:0, Equipment:63, Mission:0
+[00:28]DB SLOW [1]GetMyInfo Delay(Insert:0) - Total:282, Basic:188, Record:0, Equipment:15, Mission:79
+[00:30]DB SLOW [5]GetMyInfo Delay(Insert:0) - Total:188, Basic:79, Record:0, Equipment:109, Mission:0
+[00:30]DB SLOW [6]GetMyInfo Delay(Insert:0) - Total:203, Basic:31, Record:0, Equipment:32, Mission:140
+[00:38]DB SLOW [2]GetMyInfo Delay(Insert:0) - Total:266, Basic:94, Record:0, Equipment:16, Mission:156
+[00:39]DB SLOW [6]GetMyInfo Delay(Insert:0) - Total:250, Basic:234, Record:0, Equipment:16, Mission:0
+[00:39]DB SLOW [8]GetMyInfo Delay(Insert:0) - Total:187, Basic:172, Record:0, Equipment:15, Mission:0
+[00:41][ModuleDBUID] DB Time Over : 594,  pUidIn->_ui8Type : 1 
+[00:41]DB SLOW [9]GetMyInfo Delay(Insert:0) - Total:188, Basic:156, Record:0, Equipment:16, Mission:16
+[00:42]AccountKick Fail - uid(0), 
+[00:44]DB SLOW [4]GetMyInfo Delay(Insert:0) - Total:391, Basic:359, Record:0, Equipment:32, Mission:0
+[00:49]DB SLOW [6]GetMyInfo Delay(Insert:0) - Total:218, Basic:203, Record:0, Equipment:0, Mission:15
+[00:51]DB SLOW [5]GetMyInfo Delay(Insert:0) - Total:156, Basic:0, Record:125, Equipment:0, Mission:31
+[00:51]DB SLOW [3]GetMyInfo Delay(Insert:0) - Total:188, Basic:16, Record:0, Equipment:16, Mission:156
+[00:55]DB SLOW [0]GetMyInfo Delay(Insert:0) - Total:204, Basic:172, Record:16, Equipment:0, Mission:16
+[00:56]DB SLOW [2]GetMyInfo Delay(Insert:0) - Total:235, Basic:78, Record:0, Equipment:16, Mission:141
+[00:57][ModuleDBUID] DB Time Over : 812,  pUidIn->_ui8Type : 1 
+[00:58]DB SLOW [4]GetMyInfo Delay(Insert:0) - Total:157, Basic:16, Record:0, Equipment:16, Mission:125
+[01:00][ModuleDBUID] DB Time Over : 704,  pUidIn->_ui8Type : 1 
+[01:04]DB SLOW [8]GetMyInfo Delay(Insert:0) - Total:171, Basic:109, Record:0, Equipment:16, Mission:46
+[01:06]DB SLOW [2]GetMyInfo Delay(Insert:0) - Total:172, Basic:0, Record:16, Equipment:156, Mission:0
+[01:12]DB SLOW [6]GetMyInfo Delay(Insert:0) - Total:235, Basic:203, Record:0, Equipment:16, Mission:16
+[01:18]DB SLOW [4]GetMyInfo Delay(Insert:0) - Total:359, Basic:156, Record:0, Equipment:16, Mission:187
+[01:18]DB SLOW [4]GetMyInfo Delay(Insert:0) - Total:234, Basic:62, Record:0, Equipment:16, Mission:156
+[01:22]DB SLOW [2]GetMyInfo Delay(Insert:0) - Total:281, Basic:203, Record:0, Equipment:15, Mission:63
+[01:25]DB SLOW [7]GetMyInfo Delay(Insert:0) - Total:187, Basic:93, Record:0, Equipment:16, Mission:78
+[01:26]DB SLOW [0]GetMyInfo Delay(Insert:0) - Total:172, Basic:141, Record:0, Equipment:16, Mission:15
+[01:26]DB SLOW [5]GetMyInfo Delay(Insert:0) - Total:157, Basic:141, Record:0, Equipment:16, Mission:0
+[01:34]DB SLOW [1]GetMyInfo Delay(Insert:0) - Total:157, Basic:125, Record:16, Equipment:0, Mission:16
+[01:37]DB SLOW [6]GetMyInfo Delay(Insert:0) - Total:422, Basic:359, Record:0, Equipment:63, Mission:0
+[01:48]AccountKick Success- serverId(0) sessionIdx(2903), uid(74794), 
+[01:57]DB SLOW [4]GetMyInfo Delay(Insert:0) - Total:156, Basic:109, Record:0, Equipment:16, Mission:31
+[02:06]DB SLOW [2]GetMyInfo Delay(Insert:0) - Total:250, Basic:0, Record:16, Equipment:234, Mission:0
+[02:08]DB SLOW [7]GetMyInfo Delay(Insert:0) - Total:266, Basic:125, Record:0, Equipment:16, Mission:125
+[02:12]DB SLOW [7]GetMyInfo Delay(Insert:0) - Total:266, Basic:235, Record:0, Equipment:15, Mission:16
+[02:16]DB SLOW [2]GetMyInfo Delay(Insert:0) - Total:156, Basic:31, Record:47, Equipment:0, Mission:78
+[02:17]DB SLOW [0]GetMyInfo Delay(Insert:0) - Total:250, Basic:0, Record:125, Equipment:0, Mission:125
+[02:17]DB SLOW [6]GetMyInfo Delay(Insert:0) - Total:469, Basic:79, Record:0, Equipment:15, Mission:375
+[02:21]DB SLOW [2]GetMyInfo Delay(Insert:0) - Total:375, Basic:125, Record:0, Equipment:250, Mission:0
+[02:24]DB SLOW [4]GetMyInfo Delay(Insert:0) - Total:266, Basic:219, Record:0, Equipment:31, Mission:16
+[02:32]DB SLOW [2]GetMyInfo Delay(Insert:0) - Total:219, Basic:156, Record:0, Equipment:16, Mission:47
+[02:40]DB SLOW [5]GetMyInfo Delay(Insert:0) - Total:188, Basic:94, Record:15, Equipment:79, Mission:0
+[02:42]DB SLOW [1]GetMyInfo Delay(Insert:0) - Total:203, Basic:15, Record:141, Equipment:0, Mission:47
+[02:48]DB SLOW [0]GetMyInfo Delay(Insert:0) - Total:266, Basic:172, Record:0, Equipment:63, Mission:31
+[02:56]DB SLOW [6]GetMyInfo Delay(Insert:0) - Total:219, Basic:0, Record:32, Equipment:0, Mission:187
+[02:58]DB SLOW [5]GetMyInfo Delay(Insert:0) - Total:172, Basic:94, Record:16, Equipment:62, Mission:0
+[03:00]DB SLOW [7]GetMyInfo Delay(Insert:0) - Total:156, Basic:63, Record:0, Equipment:93, Mission:0
+[03:03]DB SLOW [4]GetMyInfo Delay(Insert:0) - Total:172, Basic:140, Record:0, Equipment:16, Mission:16
+[03:04]DB SLOW [9]GetMyInfo Delay(Insert:0) - Total:375, Basic:93, Record:16, Equipment:266, Mission:0
+[03:05]AccountKick Fail - uid(0), 
+[03:07]DB SLOW [8]GetMyInfo Delay(Insert:0) - Total:172, Basic:94, Record:0, Equipment:16, Mission:62
+[03:12]DB SLOW [0]GetMyInfo Delay(Insert:0) - Total:266, Basic:188, Record:0, Equipment:78, Mission:0
+[03:18]DB SLOW [8]GetMyInfo Delay(Insert:0) - Total:203, Basic:78, Record:0, Equipment:15, Mission:110
+[03:23]AccountKick Fail - uid(0), 
+[03:28]DB SLOW [9]GetMyInfo Delay(Insert:0) - Total:187, Basic:62, Record:0, Equipment:16, Mission:109
+[03:31]DB SLOW [6]GetMyInfo Delay(Insert:0) - Total:172, Basic:16, Record:0, Equipment:156, Mission:0
+[03:38]DB SLOW [3]GetMyInfo Delay(Insert:0) - Total:219, Basic:125, Record:16, Equipment:78, Mission:0
+[03:38]DB SLOW [2]GetMyInfo Delay(Insert:0) - Total:297, Basic:266, Record:0, Equipment:16, Mission:15
+[03:39][ModuleDBWorker] DB Time Over : 640
+[03:39]DB SLOW [4]GetMyInfo Delay(Insert:0) - Total:640, Basic:0, Record:594, Equipment:15, Mission:31
+[03:39]DB SLOW [0]GetMyInfo Delay(Insert:0) - Total:234, Basic:188, Record:15, Equipment:16, Mission:15
+[03:40]DB SLOW [4]GetMyInfo Delay(Insert:0) - Total:203, Basic:15, Record:0, Equipment:16, Mission:172
+[03:45]DB SLOW [0]GetMyInfo Delay(Insert:0) - Total:406, Basic:0, Record:16, Equipment:15, Mission:375
+[03:45]DB SLOW [0]GetMyInfo Delay(Insert:0) - Total:157, Basic:125, Record:0, Equipment:32, Mission:0
+[03:49]DB SLOW [9]GetMyInfo Delay(Insert:0) - Total:250, Basic:15, Record:203, Equipment:0, Mission:32
+[03:49][ModuleDBWorker] DB Time Over : 515
+[03:49]DB SLOW [9]GetMyInfo Delay(Insert:0) - Total:515, Basic:15, Record:391, Equipment:0, Mission:109
+[03:51]DB SLOW [2]GetMyInfo Delay(Insert:0) - Total:156, Basic:109, Record:0, Equipment:16, Mission:31
+[03:56]DB SLOW [0]GetMyInfo Delay(Insert:0) - Total:172, Basic:15, Record:125, Equipment:0, Mission:32
+[03:56]DB SLOW [1]GetMyInfo Delay(Insert:0) - Total:344, Basic:16, Record:156, Equipment:0, Mission:172
+[04:03]DB SLOW [3]GetMyInfo Delay(Insert:0) - Total:328, Basic:94, Record:0, Equipment:234, Mission:0
+[04:05]DB SLOW [8]GetMyInfo Delay(Insert:0) - Total:328, Basic:15, Record:297, Equipment:0, Mission:16
+[04:10]DB SLOW [2]GetMyInfo Delay(Insert:0) - Total:250, Basic:234, Record:0, Equipment:16, Mission:0
+[04:10]DB SLOW [1]GetMyInfo Delay(Insert:0) - Total:266, Basic:16, Record:15, Equipment:0, Mission:235
+[04:10]DB SLOW [7]GetMyInfo Delay(Insert:0) - Total:422, Basic:94, Record:0, Equipment:15, Mission:313
+[04:11]DB SLOW [5]GetMyInfo Delay(Insert:0) - Total:250, Basic:172, Record:16, Equipment:47, Mission:15
+[04:11]DB SLOW [4]GetMyInfo Delay(Insert:0) - Total:281, Basic:187, Record:16, Equipment:78, Mission:0
+[04:18]DB SLOW [7]GetMyInfo Delay(Insert:0) - Total:296, Basic:31, Record:0, Equipment:15, Mission:250
+[04:19]DB SLOW [4]GetMyInfo Delay(Insert:0) - Total:266, Basic:141, Record:0, Equipment:16, Mission:109
+[04:20]DB SLOW [5]GetMyInfo Delay(Insert:0) - Total:172, Basic:0, Record:16, Equipment:156, Mission:0
+[04:21]DB SLOW [7]GetMyInfo Delay(Insert:0) - Total:172, Basic:0, Record:15, Equipment:141, Mission:16
+[04:27]DB SLOW [9]GetMyInfo Delay(Insert:0) - Total:203, Basic:16, Record:172, Equipment:0, Mission:15
+[04:27]DB SLOW [8]GetMyInfo Delay(Insert:0) - Total:172, Basic:15, Record:16, Equipment:141, Mission:0
+[04:33]DB SLOW [1]GetMyInfo Delay(Insert:0) - Total:172, Basic:110, Record:0, Equipment:15, Mission:47
+[04:37]DB SLOW [4]GetMyInfo Delay(Insert:0) - Total:234, Basic:31, Record:16, Equipment:187, Mission:0
+[04:38]DB SLOW [0]GetMyInfo Delay(Insert:0) - Total:157, Basic:110, Record:0, Equipment:15, Mission:32
+[04:39]DB SLOW [0]GetMyInfo Delay(Insert:0) - Total:328, Basic:296, Record:0, Equipment:16, Mission:16
+[04:40]DB SLOW [4]GetMyInfo Delay(Insert:0) - Total:265, Basic:218, Record:0, Equipment:47, Mission:0
+[04:40]DB SLOW [7]GetMyInfo Delay(Insert:0) - Total:203, Basic:140, Record:0, Equipment:63, Mission:0
+[04:49]AccountKick Success- serverId(1) sessionIdx(2296), uid(223838), 
+[05:00]DB SLOW [5]GetMyInfo Delay(Insert:0) - Total:156, Basic:94, Record:15, Equipment:47, Mission:0
+[05:04]DB SLOW [8]GetMyInfo Delay(Insert:0) - Total:156, Basic:63, Record:0, Equipment:15, Mission:78
+[05:10]AccountKick Fail - uid(0), 
+[05:13]AccountKick Fail - uid(0), 
+[05:19][ModuleDBWorker] DB Time Over : 672
+[05:19]DB SLOW [1]GetMyInfo Delay(Insert:0) - Total:672, Basic:609, Record:0, Equipment:16, Mission:47
+[05:19][ModuleDBUID] DB Time Over : 516,  pUidIn->_ui8Type : 1 
+[05:19]DB SLOW [2]GetMyInfo Delay(Insert:0) - Total:344, Basic:188, Record:15, Equipment:141, Mission:0
+[05:19]DB SLOW [0]GetMyInfo Delay(Insert:0) - Total:453, Basic:0, Record:16, Equipment:406, Mission:31
+[05:26]DB SLOW [0]GetMyInfo Delay(Insert:0) - Total:281, Basic:203, Record:0, Equipment:15, Mission:63
+[05:29]AccountKick Fail - uid(0), 
+[05:36]AccountKick Success- serverId(1) sessionIdx(2152), uid(187372), 
+[05:44]DB SLOW [6]GetMyInfo Delay(Insert:0) - Total:156, Basic:140, Record:0, Equipment:16, Mission:0
+[05:45]DB SLOW [5]GetMyInfo Delay(Insert:0) - Total:188, Basic:0, Record:110, Equipment:15, Mission:63
+[05:47]DB SLOW [4]GetMyInfo Delay(Insert:0) - Total:172, Basic:125, Record:0, Equipment:16, Mission:31
+[05:47]DB SLOW [2]GetMyInfo Delay(Insert:1) - Total:297, Basic:109, Record:16, Equipment:15, Mission:157
+[05:48]DB SLOW [4]GetMyInfo Delay(Insert:0) - Total:235, Basic:63, Record:15, Equipment:141, Mission:16
+[05:58]DB SLOW [1]GetMyInfo Delay(Insert:0) - Total:172, Basic:16, Record:0, Equipment:15, Mission:141
+[06:17]DB SLOW [9]GetMyInfo Delay(Insert:0) - Total:172, Basic:63, Record:0, Equipment:15, Mission:94
+[06:17]AccountKick Success- serverId(1) sessionIdx(1561), uid(147103), 
+[06:20]DB SLOW [6]GetMyInfo Delay(Insert:0) - Total:204, Basic:0, Record:16, Equipment:16, Mission:172
+[06:24]DB SLOW [4]GetMyInfo Delay(Insert:0) - Total:203, Basic:94, Record:15, Equipment:0, Mission:94
+[06:27]AccountKick Fail - uid(0), 
+[06:29]AccountKick Fail - uid(0), 
+[06:49]DB SLOW [6]GetMyInfo Delay(Insert:0) - Total:187, Basic:93, Record:16, Equipment:0, Mission:78
+[06:54]AccountKick Fail - uid(0), 
+[06:59]AccountKick Fail - uid(0), 
+[07:06]AccountKick Fail - uid(0), 
+[07:11]DB SLOW [6]GetMyInfo Delay(Insert:0) - Total:172, Basic:109, Record:16, Equipment:31, Mission:16
+[07:11]DB SLOW [5]GetMyInfo Delay(Insert:0) - Total:187, Basic:46, Record:16, Equipment:109, Mission:16
+[07:12]DB SLOW [1]GetMyInfo Delay(Insert:0) - Total:282, Basic:157, Record:15, Equipment:94, Mission:16
+[07:12]DB SLOW [6]GetMyInfo Delay(Insert:0) - Total:172, Basic:140, Record:0, Equipment:16, Mission:16
+[07:23]DB SLOW [2]GetMyInfo Delay(Insert:0) - Total:157, Basic:63, Record:15, Equipment:0, Mission:79
+[07:27]AccountKick Success- serverId(1) sessionIdx(3928), uid(33039), 
+[07:28]DB SLOW [5]GetMyInfo Delay(Insert:0) - Total:172, Basic:62, Record:16, Equipment:16, Mission:78
+[07:34]AccountKick Fail - uid(0), 
+[07:34]DB SLOW [0]GetMyInfo Delay(Insert:0) - Total:156, Basic:47, Record:15, Equipment:0, Mission:94
+[07:50]DB SLOW [4]GetMyInfo Delay(Insert:1) - Total:156, Basic:31, Record:15, Equipment:0, Mission:110
+[07:55]AccountKick Fail - uid(0), 
+[08:02]AccountKick Success- serverId(2) sessionIdx(1481), uid(100244), 
+[08:05]DB SLOW [5]GetMyInfo Delay(Insert:0) - Total:157, Basic:110, Record:15, Equipment:0, Mission:32
+[08:13]DB SLOW [1]GetMyInfo Delay(Insert:0) - Total:171, Basic:125, Record:15, Equipment:31, Mission:0
+[08:15]DB SLOW [0]GetMyInfo Delay(Insert:0) - Total:203, Basic:15, Record:157, Equipment:15, Mission:16
+[08:17]DB SLOW [0]GetMyInfo Delay(Insert:0) - Total:250, Basic:16, Record:15, Equipment:0, Mission:219
+[08:28]DB SLOW [1]GetMyInfo Delay(Insert:0) - Total:422, Basic:297, Record:16, Equipment:94, Mission:15
+[08:35]DB SLOW [9]GetMyInfo Delay(Insert:0) - Total:171, Basic:140, Record:16, Equipment:0, Mission:15
+[08:37]DB SLOW [9]GetMyInfo Delay(Insert:0) - Total:187, Basic:15, Record:157, Equipment:15, Mission:0
+[08:41]DB SLOW [8]GetMyInfo Delay(Insert:0) - Total:156, Basic:78, Record:15, Equipment:0, Mission:63
+[08:43]DB SLOW [7]GetMyInfo Delay(Insert:0) - Total:219, Basic:188, Record:16, Equipment:15, Mission:0
+[08:46]DB SLOW [6]GetMyInfo Delay(Insert:1) - Total:250, Basic:235, Record:0, Equipment:15, Mission:0
+[08:48]DB SLOW [4]GetMyInfo Delay(Insert:0) - Total:172, Basic:16, Record:93, Equipment:16, Mission:47
+[08:49]DB SLOW [9]GetMyInfo Delay(Insert:0) - Total:157, Basic:141, Record:16, Equipment:0, Mission:0
+[08:50][ModuleDBUID] DB Time Over : 641,  pUidIn->_ui8Type : 1 
+[08:53][ModuleDBUID] DB Time Over : 844,  pUidIn->_ui8Type : 1 
+[09:01]AccountKick Success- serverId(1) sessionIdx(612), uid(210925), 
+[09:02]DB SLOW [7]GetMyInfo Delay(Insert:0) - Total:156, Basic:62, Record:16, Equipment:0, Mission:78
+[09:04]DB SLOW [7]GetMyInfo Delay(Insert:0) - Total:266, Basic:234, Record:16, Equipment:0, Mission:16
+[09:07]DB SLOW [2]GetMyInfo Delay(Insert:0) - Total:156, Basic:16, Record:93, Equipment:16, Mission:31
+[09:09]DB SLOW [3]GetMyInfo Delay(Insert:0) - Total:203, Basic:0, Record:15, Equipment:0, Mission:188
+[09:11]DB SLOW [5]GetMyInfo Delay(Insert:0) - Total:219, Basic:32, Record:15, Equipment:0, Mission:172
+[09:18]AccountKick Fail - uid(0), 
+[09:19]DB SLOW [0]GetMyInfo Delay(Insert:0) - Total:375, Basic:110, Record:15, Equipment:0, Mission:250
+[09:19]DB SLOW [4]GetMyInfo Delay(Insert:0) - Total:188, Basic:78, Record:94, Equipment:16, Mission:0
+[09:28]DB SLOW [8]GetMyInfo Delay(Insert:0) - Total:156, Basic:125, Record:16, Equipment:0, Mission:15
+[09:33]DB SLOW [2]GetMyInfo Delay(Insert:0) - Total:453, Basic:94, Record:16, Equipment:0, Mission:343
+[09:33]DB SLOW [5]GetMyInfo Delay(Insert:0) - Total:265, Basic:78, Record:15, Equipment:0, Mission:172
+[09:35]DB SLOW [6]GetMyInfo Delay(Insert:0) - Total:156, Basic:78, Record:16, Equipment:47, Mission:15
+[09:37]DB SLOW [2]GetMyInfo Delay(Insert:0) - Total:156, Basic:109, Record:16, Equipment:0, Mission:31
+[09:38]DB SLOW [5]GetMyInfo Delay(Insert:0) - Total:157, Basic:125, Record:16, Equipment:0, Mission:16
+[09:47]DB SLOW [0]GetMyInfo Delay(Insert:0) - Total:172, Basic:140, Record:16, Equipment:0, Mission:16
+[10:16]DB SLOW [7]GetMyInfo Delay(Insert:0) - Total:156, Basic:62, Record:16, Equipment:62, Mission:16
+[10:21]DB SLOW [9]GetMyInfo Delay(Insert:0) - Total:188, Basic:16, Record:16, Equipment:0, Mission:156
+[10:55]DB SLOW [7]GetMyInfo Delay(Insert:0) - Total:156, Basic:63, Record:0, Equipment:78, Mission:15
+[11:14]DB SLOW [0]GetMyInfo Delay(Insert:0) - Total:203, Basic:78, Record:16, Equipment:94, Mission:15
+[11:19]DB SLOW [5]GetMyInfo Delay(Insert:0) - Total:157, Basic:0, Record:125, Equipment:16, Mission:16
+[11:33]DB SLOW [2]GetMyInfo Delay(Insert:0) - Total:172, Basic:94, Record:15, Equipment:0, Mission:63
+[11:35]DB SLOW [1]GetMyInfo Delay(Insert:0) - Total:156, Basic:125, Record:0, Equipment:16, Mission:15
+[11:46]DB SLOW [8]GetMyInfo Delay(Insert:0) - Total:188, Basic:94, Record:16, Equipment:0, Mission:78
+[11:55]DB SLOW [0]GetMyInfo Delay(Insert:0) - Total:203, Basic:78, Record:16, Equipment:0, Mission:109
+[11:56]DB SLOW [8]GetMyInfo Delay(Insert:0) - Total:328, Basic:15, Record:0, Equipment:313, Mission:0
+[11:58]DB SLOW [4]GetMyInfo Delay(Insert:0) - Total:156, Basic:94, Record:15, Equipment:0, Mission:47
+[12:05]DB SLOW [2]GetMyInfo Delay(Insert:0) - Total:313, Basic:0, Record:297, Equipment:16, Mission:0
+[12:19]DB SLOW [2]GetMyInfo Delay(Insert:0) - Total:265, Basic:0, Record:172, Equipment:0, Mission:93
+[12:22]DB SLOW [1]GetMyInfo Delay(Insert:0) - Total:188, Basic:0, Record:16, Equipment:0, Mission:172
+[12:23]DB SLOW [9]GetMyInfo Delay(Insert:0) - Total:172, Basic:0, Record:16, Equipment:0, Mission:156
+[12:24]DB SLOW [0]GetMyInfo Delay(Insert:0) - Total:297, Basic:266, Record:15, Equipment:0, Mission:16
+[12:32]DB SLOW [8]GetMyInfo Delay(Insert:1) - Total:203, Basic:62, Record:16, Equipment:0, Mission:125
+[12:44]DB SLOW [3]GetMyInfo Delay(Insert:0) - Total:156, Basic:15, Record:0, Equipment:125, Mission:16
+[12:48]DB SLOW [9]GetMyInfo Delay(Insert:0) - Total:156, Basic:94, Record:15, Equipment:0, Mission:47
+[12:54]DB SLOW [0]GetMyInfo Delay(Insert:0) - Total:360, Basic:141, Record:0, Equipment:203, Mission:16
+[13:13]AccountKick Fail - uid(0), 
+[13:21]AccountKick Fail - uid(0), 
+[13:44]DB SLOW [2]GetMyInfo Delay(Insert:0) - Total:156, Basic:94, Record:0, Equipment:0, Mission:62
+[13:44]DB SLOW [2]GetMyInfo Delay(Insert:0) - Total:344, Basic:281, Record:0, Equipment:0, Mission:63
+[13:57]DB SLOW [5]GetMyInfo Delay(Insert:0) - Total:219, Basic:47, Record:16, Equipment:140, Mission:16
+[13:57]DB SLOW [2]GetMyInfo Delay(Insert:0) - Total:328, Basic:94, Record:16, Equipment:203, Mission:15
+[13:57]DB SLOW [4]GetMyInfo Delay(Insert:0) - Total:297, Basic:0, Record:282, Equipment:15, Mission:0
+[14:01]DB SLOW [3]GetMyInfo Delay(Insert:0) - Total:203, Basic:31, Record:16, Equipment:94, Mission:62
+[14:07]DB SLOW [3]GetMyInfo Delay(Insert:0) - Total:172, Basic:125, Record:0, Equipment:32, Mission:15
+[14:08]DB SLOW [5]GetMyInfo Delay(Insert:0) - Total:156, Basic:78, Record:15, Equipment:0, Mission:63
+[14:10]DB SLOW [2]GetMyInfo Delay(Insert:0) - Total:187, Basic:125, Record:0, Equipment:47, Mission:15
+[14:22]AccountKick Success- serverId(1) sessionIdx(3865), uid(167806), 
+[14:23]AccountKick Success- serverId(1) sessionIdx(2413), uid(140363), 
+[14:38]DB SLOW [0]GetMyInfo Delay(Insert:0) - Total:156, Basic:78, Record:0, Equipment:0, Mission:78
+[14:53]DB SLOW [9]GetMyInfo Delay(Insert:1) - Total:188, Basic:141, Record:0, Equipment:31, Mission:16
+[15:00]AccountKick Fail - uid(0), 
+[15:25]DB SLOW [6]GetMyInfo Delay(Insert:0) - Total:157, Basic:79, Record:0, Equipment:0, Mission:78
+[15:35]DB SLOW [0]GetMyInfo Delay(Insert:0) - Total:187, Basic:94, Record:0, Equipment:0, Mission:93
+[15:35]DB SLOW [9]GetMyInfo Delay(Insert:0) - Total:156, Basic:141, Record:0, Equipment:0, Mission:15
+[15:37]DB SLOW [9]GetMyInfo Delay(Insert:0) - Total:203, Basic:47, Record:0, Equipment:141, Mission:15
+[15:40]DB SLOW [8]GetMyInfo Delay(Insert:0) - Total:219, Basic:94, Record:0, Equipment:78, Mission:47
+[15:44]DB SLOW [1]GetMyInfo Delay(Insert:0) - Total:172, Basic:31, Record:0, Equipment:0, Mission:141
+[15:47]DB SLOW [7]GetMyInfo Delay(Insert:0) - Total:203, Basic:62, Record:0, Equipment:125, Mission:16
+[15:48]DB SLOW [4]GetMyInfo Delay(Insert:0) - Total:219, Basic:188, Record:0, Equipment:31, Mission:0
+[15:51]DB SLOW [0]GetMyInfo Delay(Insert:0) - Total:172, Basic:31, Record:0, Equipment:0, Mission:141
+[15:51]DB SLOW [8]GetMyInfo Delay(Insert:0) - Total:203, Basic:16, Record:0, Equipment:0, Mission:187
+[16:01]DB SLOW [8]GetMyInfo Delay(Insert:0) - Total:219, Basic:16, Record:0, Equipment:187, Mission:16
+[16:05]DB SLOW [4]GetMyInfo Delay(Insert:0) - Total:203, Basic:141, Record:0, Equipment:0, Mission:62
+[16:12]DB SLOW [5]GetMyInfo Delay(Insert:0) - Total:219, Basic:188, Record:0, Equipment:0, Mission:31
+[16:19]DB SLOW [4]GetMyInfo Delay(Insert:0) - Total:250, Basic:109, Record:0, Equipment:0, Mission:141
+[16:32]DB SLOW [6]GetMyInfo Delay(Insert:0) - Total:156, Basic:109, Record:0, Equipment:0, Mission:47
+[16:32]DB SLOW [7]GetMyInfo Delay(Insert:0) - Total:422, Basic:281, Record:0, Equipment:141, Mission:0
+[16:32]DB SLOW [0]GetMyInfo Delay(Insert:0) - Total:266, Basic:94, Record:0, Equipment:172, Mission:0
+[16:39]DB SLOW [3]GetMyInfo Delay(Insert:0) - Total:219, Basic:188, Record:0, Equipment:0, Mission:31
+[16:40]DB SLOW [9]GetMyInfo Delay(Insert:0) - Total:359, Basic:343, Record:0, Equipment:0, Mission:16
+[16:40]DB SLOW [5]GetMyInfo Delay(Insert:0) - Total:500, Basic:328, Record:0, Equipment:0, Mission:172
+[16:40]DB SLOW [3]GetMyInfo Delay(Insert:0) - Total:203, Basic:125, Record:0, Equipment:0, Mission:78
+[16:40]DB SLOW [8]GetMyInfo Delay(Insert:0) - Total:359, Basic:0, Record:0, Equipment:172, Mission:187
+[16:56]DB SLOW [4]GetMyInfo Delay(Insert:0) - Total:391, Basic:219, Record:0, Equipment:0, Mission:172
+[17:22]DB SLOW [9]GetMyInfo Delay(Insert:0) - Total:172, Basic:141, Record:0, Equipment:0, Mission:31
+[17:23]DB SLOW [6]GetMyInfo Delay(Insert:0) - Total:172, Basic:109, Record:0, Equipment:63, Mission:0
+[17:32]DB SLOW [6]GetMyInfo Delay(Insert:0) - Total:172, Basic:63, Record:0, Equipment:0, Mission:109
+[18:23]AccountKick Fail - uid(0), 
+[19:12]DB SLOW [9]GetMyInfo Delay(Insert:0) - Total:172, Basic:93, Record:0, Equipment:79, Mission:0
+[19:21]DB SLOW [5]GetMyInfo Delay(Insert:0) - Total:172, Basic:125, Record:0, Equipment:16, Mission:31
+[19:28]DB SLOW [9]GetMyInfo Delay(Insert:0) - Total:157, Basic:125, Record:0, Equipment:16, Mission:16
+[20:15]DB SLOW [4]GetMyInfo Delay(Insert:0) - Total:203, Basic:172, Record:0, Equipment:31, Mission:0
+[20:21]DB SLOW [4]GetMyInfo Delay(Insert:0) - Total:187, Basic:94, Record:0, Equipment:0, Mission:93
+[21:51]DB SLOW [2]GetMyInfo Delay(Insert:0) - Total:204, Basic:16, Record:47, Equipment:0, Mission:141
+[22:59]AccountKick Fail - uid(0), 
+[22:59]AccountKick Fail - uid(0), 
+[23:09]AccountKick Fail - uid(0), 
+[23:58]AccountKick Success- serverId(1) sessionIdx(3623), uid(19239), 
+[24:02]DB SLOW [5]GetMyInfo Delay(Insert:0) - Total:266, Basic:16, Record:234, Equipment:0, Mission:16
+[24:54]AccountKick Fail - uid(0), 
+[24:57]DB SLOW [8]GetMyInfo Delay(Insert:0) - Total:187, Basic:62, Record:0, Equipment:16, Mission:109
+[26:13]AccountKick Fail - uid(0), 
+[26:33]DB SLOW [5]GetMyInfo Delay(Insert:1) - Total:157, Basic:16, Record:16, Equipment:15, Mission:110
+[27:01]DB SLOW [9]GetMyInfo Delay(Insert:0) - Total:156, Basic:109, Record:16, Equipment:16, Mission:15
+[27:05]DB SLOW [1]GetMyInfo Delay(Insert:0) - Total:234, Basic:156, Record:15, Equipment:63, Mission:0
+[27:17]AccountKick Success- serverId(1) sessionIdx(3067), uid(43444), 
+[27:32]DB SLOW [7]GetMyInfo Delay(Insert:0) - Total:188, Basic:63, Record:15, Equipment:94, Mission:16
+[27:57]DB SLOW [1]GetMyInfo Delay(Insert:0) - Total:156, Basic:125, Record:16, Equipment:0, Mission:15
+[27:57]AccountKick Fail - uid(0), 
+[28:10]DB SLOW [7]GetMyInfo Delay(Insert:0) - Total:156, Basic:125, Record:15, Equipment:0, Mission:16
+[28:17]AccountKick Success- serverId(1) sessionIdx(50), uid(269276), 
+[28:18]DB SLOW [5]GetMyInfo Delay(Insert:0) - Total:250, Basic:203, Record:32, Equipment:15, Mission:0
+[28:19][ModuleDBWorker] DB Time Over : 813
+[28:19]DB SLOW [3]GetMyInfo Delay(Insert:0) - Total:813, Basic:735, Record:0, Equipment:15, Mission:63
+[28:19]DB SLOW [8]GetMyInfo Delay(Insert:0) - Total:359, Basic:125, Record:16, Equipment:0, Mission:218
+[28:20]DB SLOW [4]GetMyInfo Delay(Insert:0) - Total:250, Basic:125, Record:16, Equipment:94, Mission:15
+[28:20][ModuleDBWorker] DB Time Over : 813
+[28:20]DB SLOW [5]GetMyInfo Delay(Insert:0) - Total:813, Basic:0, Record:797, Equipment:16, Mission:0
+[28:24]AccountKick Fail - uid(0), 
+[28:25]DB SLOW [7]GetMyInfo Delay(Insert:0) - Total:265, Basic:140, Record:16, Equipment:0, Mission:109
+[28:45]AccountKick Fail - uid(0), 
+[28:51]DB SLOW [9]GetMyInfo Delay(Insert:0) - Total:265, Basic:93, Record:0, Equipment:16, Mission:156
+[29:06]DB SLOW [3]GetMyInfo Delay(Insert:0) - Total:422, Basic:63, Record:343, Equipment:16, Mission:0
+[29:06]DB SLOW [2]GetMyInfo Delay(Insert:0) - Total:297, Basic:281, Record:16, Equipment:0, Mission:0
+[29:07][ModuleDBWorker] DB Time Over : 797
+[29:07]DB SLOW [6]GetMyInfo Delay(Insert:0) - Total:797, Basic:141, Record:94, Equipment:375, Mission:187
+[29:10]AccountKick Success- serverId(1) sessionIdx(619), uid(124852), 
+[29:11]DB SLOW [1]GetMyInfo Delay(Insert:0) - Total:313, Basic:0, Record:0, Equipment:0, Mission:313
+[29:27][ModuleDBWorker] DB Time Over : 687
+[29:27]DB SLOW [1]GetMyInfo Delay(Insert:0) - Total:687, Basic:78, Record:281, Equipment:203, Mission:125
+[29:33]AccountKick Fail - uid(0), 
+[29:33]DB SLOW [1]GetMyInfo Delay(Insert:0) - Total:438, Basic:172, Record:78, Equipment:188, Mission:0
+[29:33][ModuleDBWorker] DB Time Over : 516
+[29:33]DB SLOW [3]GetMyInfo Delay(Insert:0) - Total:516, Basic:188, Record:109, Equipment:47, Mission:172
+[29:46][ModuleDBWorker] DB Time Over : 562
+[29:46]DB SLOW [5]GetMyInfo Delay(Insert:0) - Total:562, Basic:78, Record:94, Equipment:344, Mission:46
+[29:46]AccountKick Fail - uid(0), 
+[29:55][ModuleDBWorker] DB Time Over : 594
+[29:55]DB SLOW [3]GetMyInfo Delay(Insert:0) - Total:594, Basic:187, Record:188, Equipment:47, Mission:172
+[29:57]AccountKick Success- serverId(1) sessionIdx(11), uid(207550), 
+[29:59]AccountKick Fail - uid(0), 
+[30:01]DB SLOW [2]GetMyInfo Delay(Insert:0) - Total:453, Basic:156, Record:78, Equipment:78, Mission:141
+[30:01]DB SLOW [0]GetMyInfo Delay(Insert:0) - Total:219, Basic:78, Record:141, Equipment:0, Mission:0
+[30:02][ModuleDBWorker] DB Time Over : 688
+[30:02]DB SLOW [6]GetMyInfo Delay(Insert:0) - Total:688, Basic:31, Record:141, Equipment:78, Mission:438
+[30:03]DB SLOW [9]GetMyInfo Delay(Insert:0) - Total:328, Basic:125, Record:156, Equipment:47, Mission:0
+[30:09][CModuleControlSocket::PacketParsing]Unknown Message
+[30:12]DB SLOW [1]GetMyInfo Delay(Insert:0) - Total:391, Basic:63, Record:187, Equipment:94, Mission:47
+[30:12][ModuleDBWorker] DB Time Over : 640
+[30:12]DB SLOW [3]GetMyInfo Delay(Insert:0) - Total:640, Basic:140, Record:219, Equipment:156, Mission:125
+[30:18]AccountKick Fail - uid(0), 
+[30:24]DB SLOW [5]GetMyInfo Delay(Insert:0) - Total:484, Basic:219, Record:94, Equipment:78, Mission:93
+[30:24]DB SLOW [3]GetMyInfo Delay(Insert:0) - Total:250, Basic:125, Record:125, Equipment:0, Mission:0
+[30:29]DB SLOW [0]GetMyInfo Delay(Insert:0) - Total:219, Basic:47, Record:47, Equipment:125, Mission:0
+[30:30]DB SLOW [5]GetMyInfo Delay(Insert:0) - Total:297, Basic:63, Record:62, Equipment:125, Mission:47
+[30:30]DB SLOW [2]GetMyInfo Delay(Insert:0) - Total:328, Basic:203, Record:109, Equipment:16, Mission:0
+[30:30]DB SLOW [5]GetMyInfo Delay(Insert:0) - Total:156, Basic:156, Record:0, Equipment:0, Mission:0
+[30:38]DB SLOW [1]GetMyInfo Delay(Insert:0) - Total:453, Basic:63, Record:140, Equipment:250, Mission:0
+[30:51][ModuleDBWorker] DB Time Over : 516
+[30:51]DB SLOW [6]GetMyInfo Delay(Insert:0) - Total:516, Basic:63, Record:234, Equipment:110, Mission:109
+[30:51][ModuleDBWorker] DB Time Over : 532
+[30:51]DB SLOW [4]GetMyInfo Delay(Insert:0) - Total:532, Basic:94, Record:94, Equipment:141, Mission:203
+[30:51]DB SLOW [5]GetMyInfo Delay(Insert:0) - Total:328, Basic:46, Record:282, Equipment:0, Mission:0
+[30:52]DB SLOW [2]GetMyInfo Delay(Insert:0) - Total:265, Basic:93, Record:47, Equipment:94, Mission:31
+[30:53]AccountKick Fail - uid(0), 
+[31:07][ModuleDBWorker] DB Time Over : 532
+[31:07]DB SLOW [8]GetMyInfo Delay(Insert:0) - Total:532, Basic:157, Record:156, Equipment:156, Mission:63
+[31:07]DB SLOW [8]GetMyInfo Delay(Insert:0) - Total:156, Basic:125, Record:31, Equipment:0, Mission:0
+[31:14][ModuleDBWorker] DB Time Over : 719
+[31:14]DB SLOW [3]GetMyInfo Delay(Insert:0) - Total:719, Basic:109, Record:360, Equipment:109, Mission:141
+[31:15][ModuleDBWorker] DB Time Over : 562
+[31:15]DB SLOW [1]GetMyInfo Delay(Insert:0) - Total:562, Basic:203, Record:359, Equipment:0, Mission:0
+[31:26]DB SLOW [0]GetMyInfo Delay(Insert:0) - Total:375, Basic:47, Record:141, Equipment:125, Mission:62
+[31:26]DB SLOW [3]GetMyInfo Delay(Insert:0) - Total:375, Basic:140, Record:125, Equipment:63, Mission:47
+[31:26]DB SLOW [5]GetMyInfo Delay(Insert:0) - Total:156, Basic:78, Record:78, Equipment:0, Mission:0
+[31:28]DB SLOW [4]GetMyInfo Delay(Insert:0) - Total:266, Basic:172, Record:94, Equipment:0, Mission:0
+[31:41][ModuleDBWorker] DB Time Over : 641
+[31:41]DB SLOW [1]GetMyInfo Delay(Insert:0) - Total:641, Basic:282, Record:93, Equipment:110, Mission:156
+[31:42][ModuleDBWorker] DB Time Over : 594
+[31:42]DB SLOW [2]GetMyInfo Delay(Insert:0) - Total:594, Basic:78, Record:125, Equipment:79, Mission:312
+[31:42]DB SLOW [4]GetMyInfo Delay(Insert:1) - Total:281, Basic:265, Record:16, Equipment:0, Mission:0
+[31:42]DB SLOW [8]GetMyInfo Delay(Insert:0) - Total:469, Basic:281, Record:125, Equipment:31, Mission:32
+[31:42][ModuleDBWorker] DB Time Over : 641
+[31:42]DB SLOW [7]GetMyInfo Delay(Insert:0) - Total:641, Basic:297, Record:94, Equipment:109, Mission:141
+[31:48]DB SLOW [0]GetMyInfo Delay(Insert:0) - Total:422, Basic:78, Record:94, Equipment:171, Mission:79
+[31:48]DB SLOW [9]GetMyInfo Delay(Insert:0) - Total:406, Basic:140, Record:94, Equipment:109, Mission:63
+[31:48]DB SLOW [0]GetMyInfo Delay(Insert:0) - Total:406, Basic:78, Record:31, Equipment:156, Mission:141
+[31:56]DB SLOW [0]GetMyInfo Delay(Insert:0) - Total:234, Basic:141, Record:93, Equipment:0, Mission:0
+[31:57][ModuleDBWorker] DB Time Over : 547
+[31:57]DB SLOW [4]GetMyInfo Delay(Insert:0) - Total:547, Basic:125, Record:235, Equipment:93, Mission:94
+[31:57]DB SLOW [7]GetMyInfo Delay(Insert:0) - Total:344, Basic:94, Record:78, Equipment:94, Mission:78
+[31:58]DB SLOW [3]GetMyInfo Delay(Insert:0) - Total:422, Basic:94, Record:78, Equipment:250, Mission:0
+[31:58]DB SLOW [4]GetMyInfo Delay(Insert:0) - Total:234, Basic:219, Record:0, Equipment:0, Mission:15
+[32:05][ModuleDBWorker] DB Time Over : 578
+[32:05]DB SLOW [9]GetMyInfo Delay(Insert:0) - Total:578, Basic:94, Record:187, Equipment:172, Mission:125
+[32:05]DB SLOW [2]GetMyInfo Delay(Insert:0) - Total:281, Basic:0, Record:62, Equipment:110, Mission:109
+[32:07]DB SLOW [1]GetMyInfo Delay(Insert:0) - Total:422, Basic:203, Record:63, Equipment:62, Mission:94
+[32:09]DB SLOW [2]GetMyInfo Delay(Insert:0) - Total:391, Basic:94, Record:172, Equipment:46, Mission:79
+[32:10]DB SLOW [3]GetMyInfo Delay(Insert:0) - Total:313, Basic:203, Record:110, Equipment:0, Mission:0
+[32:12]DB SLOW [9]GetMyInfo Delay(Insert:0) - Total:204, Basic:0, Record:0, Equipment:125, Mission:79
+[32:13]DB SLOW [9]GetMyInfo Delay(Insert:0) - Total:500, Basic:172, Record:125, Equipment:140, Mission:63
+[32:14][ModuleDBWorker] DB Time Over : 609
+[32:14]DB SLOW [0]GetMyInfo Delay(Insert:0) - Total:609, Basic:141, Record:156, Equipment:172, Mission:140
+[32:15]DB SLOW [5]GetMyInfo Delay(Insert:0) - Total:438, Basic:157, Record:172, Equipment:46, Mission:63
+[32:16][ModuleDBWorker] DB Time Over : 516
+[32:16]DB SLOW [0]GetMyInfo Delay(Insert:0) - Total:516, Basic:79, Record:187, Equipment:78, Mission:172
+[32:17]DB SLOW [7]GetMyInfo Delay(Insert:0) - Total:359, Basic:219, Record:125, Equipment:0, Mission:15
+[32:17]DB SLOW [4]GetMyInfo Delay(Insert:0) - Total:453, Basic:125, Record:63, Equipment:109, Mission:156
+[32:17][ModuleDBWorker] DB Time Over : 516
+[32:17]DB SLOW [1]GetMyInfo Delay(Insert:0) - Total:516, Basic:141, Record:93, Equipment:141, Mission:141
+[32:20][ModuleDBWorker] DB Time Over : 641
+[32:20]DB SLOW [6]GetMyInfo Delay(Insert:0) - Total:641, Basic:94, Record:250, Equipment:141, Mission:156
+[32:20]DB SLOW [5]GetMyInfo Delay(Insert:0) - Total:469, Basic:156, Record:125, Equipment:188, Mission:0
+[32:28]AccountKick Fail - uid(0), 
+[32:28]AccountKick Fail - uid(0), 
+[33:21]AccountKick Fail - uid(0), 
+[33:27]AccountKick Fail - uid(0), 
+[34:43]AccountKick Success- serverId(1) sessionIdx(195), uid(14446), 
+[34:44]AccountKick Fail - uid(0), 
+[34:51]AccountKick Fail - uid(0), 
+[35:15]AccountKick Success- serverId(1) sessionIdx(3097), uid(176890), 
+[35:15]AccountKick Fail - uid(0), 
+[35:46]AccountKick Fail - uid(0), 
+[35:56]AccountKick Fail - uid(0), 
+[36:13]AccountKick Fail - uid(0), 
+[36:20]AccountKick Success- serverId(1) sessionIdx(3482), uid(262957), 
+[36:36]AccountKick Fail - uid(0), 
+[37:07]AccountKick Success- serverId(1) sessionIdx(1611), uid(28060), 
+[37:54]AccountKick Success- serverId(1) sessionIdx(4026), uid(176890), 
+[37:57]AccountKick Fail - uid(0), 
+[38:14]AccountKick Fail - uid(0), 
+[38:16]AccountKick Fail - uid(0), 
+[38:28]AccountKick Fail - uid(0), 
+[38:47]AccountKick Success- serverId(1) sessionIdx(1619), uid(194109), 
+[38:49]AccountKick Success- serverId(0) sessionIdx(2268), uid(120336), 
+[39:05]AccountKick Fail - uid(0), 
+[39:38]AccountKick Success- serverId(1) sessionIdx(2718), uid(65347), 
+[39:50]AccountKick Fail - uid(0), 
+[40:14]AccountKick Success- serverId(2) sessionIdx(1845), uid(176890), 
+[40:42]AccountKick Success- serverId(1) sessionIdx(1933), uid(47934), 
+[41:27]AccountKick Fail - uid(0), 
+[41:49]AccountKick Success- serverId(1) sessionIdx(3808), uid(140363), 
+[42:40]AccountKick Success- serverId(1) sessionIdx(487), uid(176890), 
+[42:55]AccountKick Fail - uid(0), 
+[43:42]AccountKick Fail - uid(0), 
+[44:55]AccountKick Success- serverId(1) sessionIdx(3568), uid(215846), 
+[44:58]AccountKick Fail - uid(0), 
+[45:30]AccountKick Fail - uid(0), 
+[46:41]AccountKick Fail - uid(0), 
+[47:18]AccountKick Success- serverId(2) sessionIdx(1752), uid(234094), 
+[47:21]AccountKick Fail - uid(0), 
+[47:31]AccountKick Fail - uid(0), 
+[48:09]AccountKick Success- serverId(1) sessionIdx(178), uid(63593), 
+[48:21]AccountKick Success- serverId(1) sessionIdx(3006), uid(88003), 
+[49:04]AccountKick Success- serverId(1) sessionIdx(4229), uid(262957), 
+[49:20]AccountKick Fail - uid(0), 
+[49:36]AccountKick Fail - uid(0), 
+[50:06]AccountKick Success- serverId(1) sessionIdx(4044), uid(19810), 
+[50:11]AccountKick Fail - uid(0), 
+[50:49]AccountKick Success- serverId(1) sessionIdx(2231), uid(149076), 
+[51:26]AccountKick Success- serverId(0) sessionIdx(3574), uid(146030), 
+[52:37]Kill User Leave Server TimeOut = 0 SessionIdx = 3666 UID = 151731
+[52:37]Kill User Leave Server TimeOut = 0 SessionIdx = 3001 UID = 27429
+[53:18]AccountKick Fail - uid(0), 
+[53:18]AccountKick Fail - uid(0), 
+[53:24]AccountKick Fail - uid(0), 
+[54:15]AccountKick Success- serverId(1) sessionIdx(2693), uid(59465), 
+[54:19]AccountKick Fail - uid(0), 
+[54:33]AccountKick Fail - uid(0), 
+[54:38]AccountKick Fail - uid(0), 
+[55:11]AccountKick Success- serverId(1) sessionIdx(1546), uid(56209), 
+[56:20]AccountKick Success- serverId(1) sessionIdx(1908), uid(29033), 
+[57:02]AccountKick Fail - uid(0), 
+[58:14]AccountKick Fail - uid(0), 
+[58:38]AccountKick Fail - uid(0), 
+[58:51]AccountKick Fail - uid(0), 
+[59:12]AccountKick Success- serverId(1) sessionIdx(2479), uid(58598), 
+[59:28]AccountKick Fail - uid(0), 
+[59:34]AccountKick Success- serverId(1) sessionIdx(2261), uid(60526), 
+[59:45]AccountKick Fail - uid(0), 
+[59:57]AccountKick Fail - uid(0), 

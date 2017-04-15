@@ -1,0 +1,88 @@
+-- COMPILE DATE : Ver:3/18, BuildDate:Mar 18 2011 17:56:33 --
+[02:53:39]Emergency Notice [ ID:pshvagirev, IP:10.33.39.7, Text:Уважаемые игроки. В 3.00 по московскому времен будет кратковременная перезагрузка всех сервров. ]
+[02:59:15]All User Kick Start [ ID:pshvagirev, IP:10.33.39.7 ]
+[03:05:15]Disconnect [ServerType : 10][SeverIdx : 9]
+[03:05:20]Disconnect [ServerType : 10][SeverIdx : 8]
+[03:05:24]Disconnect [ServerType : 10][SeverIdx : 7]
+[03:05:27]Disconnect [ServerType : 10][SeverIdx : 6]
+[03:05:32]Disconnect [ServerType : 10][SeverIdx : 5]
+[03:05:36]Disconnect [ServerType : 10][SeverIdx : 4]
+[03:05:39]Disconnect [ServerType : 10][SeverIdx : 3]
+[03:05:42]Disconnect [ServerType : 10][SeverIdx : 2]
+[03:05:48]Disconnect [ServerType : 10][SeverIdx : 1]
+[03:05:55]Disconnect [ServerType : 10][SeverIdx : 0]
+[03:06:00]Disconnect [ServerType : 3][SeverIdx : 8]
+[03:06:04]Disconnect [ServerType : 3][SeverIdx : 7]
+[03:06:06]Disconnect [ServerType : 3][SeverIdx : 6]
+[03:06:09]Disconnect [ServerType : 3][SeverIdx : 5]
+[03:06:11]Disconnect [ServerType : 3][SeverIdx : 4]
+[03:06:14]Disconnect [ServerType : 3][SeverIdx : 3]
+[03:06:17]Disconnect [ServerType : 3][SeverIdx : 2]
+[03:06:19]Disconnect [ServerType : 3][SeverIdx : 1]
+[03:06:24]Disconnect [ServerType : 3][SeverIdx : 0]
+[03:06:30]Disconnect [ServerType : 2][SeverIdx : 3]
+[03:06:36]Disconnect [ServerType : 1][SeverIdx : 2]
+[03:06:42]Disconnect [ServerType : 0][SeverIdx : 1]
+[03:07:15]Disconnect [ServerType : 9][SeverIdx : 0]
+[03:07:38]---------[Dest] Start Destory----------------
+-- COMPILE DATE : Ver:3/18, BuildDate:Mar 18 2011 17:56:33 --
+[03:07:44]---------[INIT] Start Init----------------
+[03:07:44][INIT] CreateMoudle LogFILE Success
+[03:07:44][MapLoadOption] 7 Mode Map is not Opened
+[03:07:44][MapLoadOption] 8 Mode Map is not Opened
+[03:07:44][MapLoadOption] 9 Mode Map is not Opened
+[03:07:44][INIT] CreateMoudle LoadOptionDB Success
+[03:07:44][CDataBase::OnCreate] DataBase Connect Success
+[03:07:44][INIT] CreateMoudle DataBase Success
+[03:07:44][INIT] CreateMoudle ServerLogFile Success
+[03:07:44][INIT] CreateMoudle SessionManager Success
+[03:07:54]Session Connect.
+[03:07:54][MAIN] Confirmation Success[ServerType = 9,ServerIdx=0]
+[03:08:01]Session Connect.
+[03:08:02][MAIN] Confirmation Success[ServerType = 0,ServerIdx=1]
+[03:08:16]Session Connect.
+[03:08:16][MAIN] Confirmation Success[ServerType = 1,ServerIdx=2]
+[03:08:20]Session Connect.
+[03:08:21][MAIN] Confirmation Success[ServerType = 2,ServerIdx=3]
+[03:08:28]Session Connect.
+[03:08:28][MAIN] Confirmation Success[ServerType = 3,ServerIdx=0]
+[03:08:32]Session Connect.
+[03:08:32][MAIN] Confirmation Success[ServerType = 3,ServerIdx=1]
+[03:08:35]Session Connect.
+[03:08:35][MAIN] Confirmation Success[ServerType = 3,ServerIdx=2]
+[03:08:39]Session Connect.
+[03:08:39][MAIN] Confirmation Success[ServerType = 3,ServerIdx=3]
+[03:08:42]Session Connect.
+[03:08:42][MAIN] Confirmation Success[ServerType = 3,ServerIdx=4]
+[03:08:47]Session Connect.
+[03:08:47][MAIN] Confirmation Success[ServerType = 3,ServerIdx=5]
+[03:08:50]Session Connect.
+[03:08:50][MAIN] Confirmation Success[ServerType = 3,ServerIdx=6]
+[03:08:52]Session Connect.
+[03:08:52][MAIN] Confirmation Success[ServerType = 3,ServerIdx=7]
+[03:08:55]Session Connect.
+[03:08:55][MAIN] Confirmation Success[ServerType = 3,ServerIdx=8]
+[03:09:06]Session Connect.
+[03:09:06][MAIN] Confirmation Success[ServerType = 10,ServerIdx=0]
+[03:09:13]Session Connect.
+[03:09:13][MAIN] Confirmation Success[ServerType = 10,ServerIdx=1]
+[03:09:16]Session Connect.
+[03:09:16][MAIN] Confirmation Success[ServerType = 10,ServerIdx=2]
+[03:09:19]Session Connect.
+[03:09:19][MAIN] Confirmation Success[ServerType = 10,ServerIdx=3]
+[03:09:22]Session Connect.
+[03:09:22][MAIN] Confirmation Success[ServerType = 10,ServerIdx=4]
+[03:09:26]Session Connect.
+[03:09:26][MAIN] Confirmation Success[ServerType = 10,ServerIdx=5]
+[03:09:29]Session Connect.
+[03:09:29][MAIN] Confirmation Success[ServerType = 10,ServerIdx=6]
+[03:09:32]Session Connect.
+[03:09:32][MAIN] Confirmation Success[ServerType = 10,ServerIdx=7]
+[03:09:35]Session Connect.
+[03:09:35][MAIN] Confirmation Success[ServerType = 10,ServerIdx=8]
+[03:09:38]Session Connect.
+[03:09:38][MAIN] Confirmation Success[ServerType = 10,ServerIdx=9]
+[03:09:46]Session Connect.
+[03:09:46][ADMI] LogIn Confirmation - Session:23, ID:pshvagirev
+[03:09:46][ADMI] LogIn Confirmation Result - Rv:1, Session:23, ID:pshvagirev
+[03:10:33]Lobby Notice Send [ ID:pshvagirev, IP:10.33.39.7, Text:Мартовское обновление "Весенние перемены". Первоапрельская скидочная акция: -39.99%. Ищите в магазине товары с обозначением "HOT"! ]

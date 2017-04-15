@@ -1,0 +1,554 @@
+-- COMPILE DATE : Ver:3/18, BuildDate:Mar 28 2011 18:28:37, BuildVer:DIST --
+[00:17:-100][109.105.130.15:9891:-1:2][ERROR]SendErrorMessage(UID:-1, Protocol:0, BackProtocol:0,timestamp(158508), Error:800010af, KillReason:2)
+[00:18:-100][109.105.130.15:9891:-1:2]KILL USER
+[00:28:-100][109.74.214.88:42760:1707353:6][ERROR]SendErrorMessage(UID:1707353, Protocol:0, BackProtocol:2567,timestamp(121), Error:800010af, KillReason:6)
+[00:31:-100][109.74.214.88:42760:1707353:6]KILL USER
+[00:32:-100][109.237.124.147:59703:1176574:6][ERROR]SendErrorMessage(UID:1176574, Protocol:0, BackProtocol:2567,timestamp(121), Error:800010af, KillReason:6)
+[00:33:-100][109.237.124.147:59703:1176574:6]KILL USER
+[00:46:-100][109.105.130.15:37047:-1:2][ERROR]SendErrorMessage(UID:-1, Protocol:0, BackProtocol:0,timestamp(158538), Error:800010af, KillReason:2)
+[00:48:-100][109.105.130.15:37047:-1:2]KILL USER
+[00:51:-100][85.26.234.89:63579:-1:2][ERROR]SendErrorMessage(UID:-1, Protocol:0, BackProtocol:0,timestamp(158542), Error:800010af, KillReason:2)
+[00:53:-100][85.26.234.89:63579:-1:2]KILL USER
+[01:09:-100][91.218.17.139:12038:1707397:6][ERROR]SendErrorMessage(UID:1707397, Protocol:0, BackProtocol:2567,timestamp(121), Error:800010af, KillReason:6)
+[01:12:-100][91.218.17.139:12038:1707397:6]KILL USER
+[01:16:-100][109.105.130.15:46282:-1:2][ERROR]SendErrorMessage(UID:-1, Protocol:0, BackProtocol:0,timestamp(158568), Error:800010af, KillReason:2)
+[01:19:-100][109.105.130.15:46282:-1:2]KILL USER
+[01:47:-100][109.105.130.15:58334:-1:2][ERROR]SendErrorMessage(UID:-1, Protocol:0, BackProtocol:0,timestamp(158598), Error:800010af, KillReason:2)
+[01:49:-100][109.105.130.15:58334:-1:2]KILL USER
+[02:09:-100][78.29.94.147:35844:1213696:6][ERROR]SendErrorMessage(UID:1213696, Protocol:0, BackProtocol:2567,timestamp(121), Error:800010af, KillReason:6)
+[02:11:-100][78.29.94.147:35844:1213696:6]KILL USER
+[02:17:-100][109.105.130.15:13700:-1:2][ERROR]SendErrorMessage(UID:-1, Protocol:0, BackProtocol:0,timestamp(158628), Error:800010af, KillReason:2)
+[02:18:-100][109.105.130.15:13700:-1:2]KILL USER
+[02:46:-100][109.105.130.15:45717:-1:2][ERROR]SendErrorMessage(UID:-1, Protocol:0, BackProtocol:0,timestamp(158657), Error:800010af, KillReason:2)
+[02:46:-100][95.81.216.48:28676:1822497:6][ERROR]SendErrorMessage(UID:1822497, Protocol:0, BackProtocol:2563,timestamp(121), Error:800010af, KillReason:6)
+[02:47:-100][109.105.130.15:45717:-1:2]KILL USER
+[02:48:-100][95.81.216.48:28676:1822497:6]KILL USER
+[03:02:-100][92.246.167.47:27398:356587:6][ERROR]SendErrorMessage(UID:356587, Protocol:0, BackProtocol:2567,timestamp(121), Error:800010af, KillReason:6)
+[03:05:-100][92.246.167.47:27398:356587:6]KILL USER
+[03:15:-100][109.105.130.15:9642:-1:2][ERROR]SendErrorMessage(UID:-1, Protocol:0, BackProtocol:0,timestamp(158687), Error:800010af, KillReason:2)
+[03:16:-100][10.33.50.50:22474:-1:2][ERROR]SendErrorMessage(UID:-1, Protocol:0, BackProtocol:0,timestamp(158688), Error:800010af, KillReason:2)
+[03:17:-100][109.105.130.15:9642:-1:2]KILL USER
+[03:19:-100][10.33.50.50:22474:-1:2]KILL USER
+[03:45:-100][109.105.130.15:51389:-1:2][ERROR]SendErrorMessage(UID:-1, Protocol:0, BackProtocol:0,timestamp(158717), Error:800010af, KillReason:2)
+[03:48:-100][109.105.130.15:51389:-1:2]KILL USER
+[04:01:-100][:58818:-1:2][ERROR]SendErrorMessage(UID:-1, Protocol:0, BackProtocol:2575,timestamp(82), Error:800010af, KillReason:2)
+[04:16:-100][109.105.130.15:24785:-1:2][ERROR]SendErrorMessage(UID:-1, Protocol:0, BackProtocol:0,timestamp(158747), Error:800010af, KillReason:2)
+[04:17:-100][10.33.50.50:7128:-1:2][ERROR]SendErrorMessage(UID:-1, Protocol:0, BackProtocol:0,timestamp(158748), Error:800010af, KillReason:2)
+[04:17:-100][188.16.142.148:22251:1380308:6][ERROR]SendErrorMessage(UID:1380308, Protocol:0, BackProtocol:2575,timestamp(121), Error:800010af, KillReason:6)
+[04:17:-100][109.105.130.15:24785:-1:2]KILL USER
+[04:18:-100][10.33.50.50:7128:-1:2]KILL USER
+[04:18:-100][188.16.142.148:22251:1380308:6]KILL USER
+[04:37:-100][90.150.235.67:7971:1828143:6][ERROR]SendErrorMessage(UID:1828143, Protocol:0, BackProtocol:2563,timestamp(121), Error:800010af, KillReason:6)
+[04:38:-100][90.150.235.67:7971:1828143:6]KILL USER
+[05:08:-100][62.221.90.248:62981:1209047:6][ERROR]SendErrorMessage(UID:1209047, Protocol:0, BackProtocol:2575,timestamp(121), Error:800010af, KillReason:6)
+[05:11:-100][62.221.90.248:62981:1209047:6]KILL USER
+[05:16:-100][109.105.130.15:139:-1:2][ERROR]SendErrorMessage(UID:-1, Protocol:0, BackProtocol:0,timestamp(158808), Error:800010af, KillReason:2)
+[05:19:-100][109.105.130.15:139:-1:2]KILL USER
+[05:46:-100][109.105.130.15:62110:-1:2][ERROR]SendErrorMessage(UID:-1, Protocol:0, BackProtocol:0,timestamp(158837), Error:800010af, KillReason:2)
+[05:48:-100][109.105.130.15:62110:-1:2]KILL USER
+[06:17:-100][109.105.130.15:38322:-1:2][ERROR]SendErrorMessage(UID:-1, Protocol:0, BackProtocol:0,timestamp(158868), Error:800010af, KillReason:2)
+[06:18:-100][109.105.130.15:38322:-1:2]KILL USER
+[06:36:-100][91.211.104.25:51472:-1:2][ERROR]SendErrorMessage(UID:-1, Protocol:0, BackProtocol:2563,timestamp(21), Error:800010af, KillReason:2)
+[06:38:-100][91.211.104.25:51472:-1:2]KILL USER
+[06:38:-100][89.218.103.77:51460:1705704:6][ERROR]SendErrorMessage(UID:1705704, Protocol:0, BackProtocol:2575,timestamp(121), Error:800010af, KillReason:6)
+[06:40:-100][89.218.103.77:51460:1705704:6]KILL USER
+[06:45:-100][109.105.130.15:41159:-1:2][ERROR]SendErrorMessage(UID:-1, Protocol:0, BackProtocol:0,timestamp(158897), Error:800010af, KillReason:2)
+[06:47:-100][109.105.130.15:41159:-1:2]KILL USER
+[06:51:-100][188.233.13.171:48135:291818:6][ERROR]SendErrorMessage(UID:291818, Protocol:0, BackProtocol:2567,timestamp(121), Error:800010af, KillReason:6)
+[06:51:-100][94.180.158.57:45833:-1:2][ERROR]SendErrorMessage(UID:-1, Protocol:0, BackProtocol:0,timestamp(158902), Error:800010af, KillReason:2)
+[06:52:-100][178.204.231.224:17414:1827698:6][ERROR]SendErrorMessage(UID:1827698, Protocol:0, BackProtocol:2567,timestamp(121), Error:800010af, KillReason:6)
+[06:52:-100][188.233.13.171:48135:291818:6]KILL USER
+[06:52:-100][94.180.158.57:45833:-1:2]KILL USER
+[06:54:-100][178.204.231.224:17414:1827698:6]KILL USER
+[07:15:-100][78.29.119.221:42000:1328534:6][ERROR]SendErrorMessage(UID:1328534, Protocol:0, BackProtocol:2563,timestamp(121), Error:800010af, KillReason:6)
+[07:15:-100][10.33.50.50:3583:-1:2][ERROR]SendErrorMessage(UID:-1, Protocol:0, BackProtocol:0,timestamp(158927), Error:800010af, KillReason:2)
+[07:18:-100][78.29.119.221:42000:1328534:6]KILL USER
+[07:18:-100][10.33.50.50:3583:-1:2]KILL USER
+[07:22:-100][109.105.130.15:61662:-1:2][ERROR]SendErrorMessage(UID:-1, Protocol:0, BackProtocol:0,timestamp(158934), Error:800010af, KillReason:2)
+[07:25:-100][109.105.130.15:61662:-1:2]KILL USER
+[07:27:-100][46.228.181.10:16693:-1:2][ERROR]SendErrorMessage(UID:-1, Protocol:0, BackProtocol:0,timestamp(158938), Error:800010af, KillReason:2)
+[07:28:-100][46.228.181.10:16693:-1:2]KILL USER
+[07:46:-100][109.105.130.15:39840:-1:2][ERROR]SendErrorMessage(UID:-1, Protocol:0, BackProtocol:0,timestamp(158957), Error:800010af, KillReason:2)
+[07:48:-100][109.105.130.15:39840:-1:2]KILL USER
+[08:00:-100][83.151.0.234:25348:1775942:6][ERROR]SendErrorMessage(UID:1775942, Protocol:0, BackProtocol:2563,timestamp(121), Error:800010af, KillReason:6)
+[08:02:-100][83.151.0.234:25348:1775942:6]KILL USER
+[08:14:-100][95.72.9.35:45572:-1:2][ERROR]SendErrorMessage(UID:-1, Protocol:0, BackProtocol:0,timestamp(158985), Error:800010af, KillReason:2)
+[08:16:-100][95.72.9.35:45572:-1:2]KILL USER
+[08:16:-100][109.105.130.15:28340:-1:2][ERROR]SendErrorMessage(UID:-1, Protocol:0, BackProtocol:0,timestamp(158987), Error:800010af, KillReason:2)
+[08:17:-100][109.105.130.15:28340:-1:2]KILL USER
+[08:37:-100][195.225.145.9:24326:-1:2][ERROR]SendErrorMessage(UID:-1, Protocol:0, BackProtocol:0,timestamp(159008), Error:800010af, KillReason:2)
+[08:38:-100][195.225.145.9:24326:-1:2]KILL USER
+[08:39:-100][78.108.79.123:16397:-1:2][ERROR]SendErrorMessage(UID:-1, Protocol:0, BackProtocol:0,timestamp(159011), Error:800010af, KillReason:2)
+[08:40:-100][78.108.79.123:16397:-1:2]KILL USER
+[08:45:-100][109.105.130.15:40136:-1:2][ERROR]SendErrorMessage(UID:-1, Protocol:0, BackProtocol:0,timestamp(159017), Error:800010af, KillReason:2)
+[08:48:-100][109.105.130.15:40136:-1:2]KILL USER
+[09:02:-100][194.190.42.70:10228:-1:2][ERROR]SendErrorMessage(UID:-1, Protocol:0, BackProtocol:2563,timestamp(21), Error:800010af, KillReason:2)
+[09:04:-100][194.190.42.70:10228:-1:2]KILL USER
+[09:11:-100][178.187.211.81:55044:1392336:6][ERROR]SendErrorMessage(UID:1392336, Protocol:0, BackProtocol:2563,timestamp(121), Error:800010af, KillReason:6)
+[09:12:-100][178.187.211.81:55044:1392336:6]KILL USER
+[09:16:-100][109.105.130.15:22236:-1:2][ERROR]SendErrorMessage(UID:-1, Protocol:0, BackProtocol:0,timestamp(159047), Error:800010af, KillReason:2)
+[09:18:-100][109.105.130.15:22236:-1:2]KILL USER
+[09:47:-100][109.105.130.15:23682:-1:2][ERROR]SendErrorMessage(UID:-1, Protocol:0, BackProtocol:0,timestamp(159078), Error:800010af, KillReason:2)
+[09:48:-100][109.105.130.15:23682:-1:2]KILL USER
+[10:08:-100][213.87.114.90:27147:-1:2][ERROR]SendErrorMessage(UID:-1, Protocol:0, BackProtocol:0,timestamp(159100), Error:800010af, KillReason:2)
+[10:09:-100][213.87.114.90:27147:-1:2]KILL USER
+[10:15:-100][109.205.253.91:24310:867542:6][ERROR]SendErrorMessage(UID:867542, Protocol:0, BackProtocol:2563,timestamp(121), Error:800010af, KillReason:6)
+[10:15:-100][109.105.130.15:50581:-1:2][ERROR]SendErrorMessage(UID:-1, Protocol:0, BackProtocol:0,timestamp(159107), Error:800010af, KillReason:2)
+[10:16:-100][10.33.50.50:31204:-1:2][ERROR]SendErrorMessage(UID:-1, Protocol:0, BackProtocol:0,timestamp(159108), Error:800010af, KillReason:2)
+[10:17:-100][109.205.253.91:24310:867542:6]KILL USER
+[10:17:-100][109.105.130.15:50581:-1:2]KILL USER
+[10:19:-100][62.217.159.53:11324:759951:6][ERROR]SendErrorMessage(UID:759951, Protocol:0, BackProtocol:2567,timestamp(121), Error:800010af, KillReason:6)
+[10:19:-100][10.33.50.50:31204:-1:2]KILL USER
+[10:19:-100][62.217.159.53:11324:759951:6]KILL USER
+[10:21:-100][92.242.69.170:5125:1666594:6][ERROR]SendErrorMessage(UID:1666594, Protocol:0, BackProtocol:2575,timestamp(121), Error:800010af, KillReason:6)
+[10:22:-100][92.242.69.170:5125:1666594:6]KILL USER
+[10:36:-100][217.8.238.197:42772:1171311:6][ERROR]SendErrorMessage(UID:1171311, Protocol:0, BackProtocol:2567,timestamp(121), Error:800010af, KillReason:6)
+[10:38:-100][217.8.238.197:42772:1171311:6]KILL USER
+[10:44:-100][46.73.68.219:21442:-1:2][ERROR]SendErrorMessage(UID:-1, Protocol:0, BackProtocol:2563,timestamp(21), Error:800010af, KillReason:2)
+[10:45:-100][109.105.130.15:682:-1:2][ERROR]SendErrorMessage(UID:-1, Protocol:0, BackProtocol:0,timestamp(159137), Error:800010af, KillReason:2)
+[10:47:-100][46.73.68.219:21442:-1:2]KILL USER
+[10:48:-100][109.105.130.15:682:-1:2]KILL USER
+[10:55:-100][95.72.9.35:55812:1810990:6][ERROR]SendErrorMessage(UID:1810990, Protocol:0, BackProtocol:2563,timestamp(121), Error:800010af, KillReason:6)
+[10:57:-100][95.72.9.35:55812:1810990:6]KILL USER
+[11:16:-100][109.105.130.15:31421:-1:2][ERROR]SendErrorMessage(UID:-1, Protocol:0, BackProtocol:0,timestamp(159167), Error:800010af, KillReason:2)
+[11:18:-100][109.105.130.15:31421:-1:2]KILL USER
+[11:18:-100][178.206.144.124:5133:1088141:6][ERROR]SendErrorMessage(UID:1088141, Protocol:0, BackProtocol:2567,timestamp(121), Error:800010af, KillReason:6)
+[11:20:-100][178.206.144.124:5133:1088141:6]KILL USER
+[11:29:-100][213.87.114.90:38240:-1:2][ERROR]SendErrorMessage(UID:-1, Protocol:0, BackProtocol:0,timestamp(159180), Error:800010af, KillReason:2)
+[11:29:-100][213.87.114.90:38240:-1:2]KILL USER
+[11:32:-100][78.85.231.42:30247:1627031:6][ERROR]SendErrorMessage(UID:1627031, Protocol:0, BackProtocol:2575,timestamp(121), Error:800010af, KillReason:6)
+[11:33:-100][78.85.231.42:30247:1627031:6]KILL USER
+[11:38:-100][94.20.108.20:5381:1489294:6][ERROR]SendErrorMessage(UID:1489294, Protocol:0, BackProtocol:2575,timestamp(121), Error:800010af, KillReason:6)
+[11:38:-100][94.20.108.20:5381:1489294:6]KILL USER
+[11:45:-100][217.78.186.251:16901:1692209:6][ERROR]SendErrorMessage(UID:1692209, Protocol:0, BackProtocol:2565,timestamp(121), Error:800010af, KillReason:6)
+[11:46:-100][109.105.130.15:18385:-1:2][ERROR]SendErrorMessage(UID:-1, Protocol:0, BackProtocol:0,timestamp(159197), Error:800010af, KillReason:2)
+[11:46:-100][217.78.186.251:16901:1692209:6]KILL USER
+[11:47:-100][109.105.130.15:18385:-1:2]KILL USER
+[12:15:-100][109.105.130.15:741:-1:2][ERROR]SendErrorMessage(UID:-1, Protocol:0, BackProtocol:0,timestamp(159227), Error:800010af, KillReason:2)
+[12:16:-100][10.33.50.50:35837:-1:2][ERROR]SendErrorMessage(UID:-1, Protocol:0, BackProtocol:0,timestamp(159228), Error:800010af, KillReason:2)
+[12:18:-100][109.105.130.15:741:-1:2]KILL USER
+[12:19:-100][10.33.50.50:35837:-1:2]KILL USER
+[12:30:-100][83.149.46.98:47488:-1:2][ERROR]SendErrorMessage(UID:-1, Protocol:0, BackProtocol:2563,timestamp(21), Error:800010af, KillReason:2)
+[12:33:-100][83.149.46.98:47488:-1:2]KILL USER
+[12:39:-100][92.100.60.168:37357:236736:6][ERROR]SendErrorMessage(UID:236736, Protocol:0, BackProtocol:2563,timestamp(121), Error:800010af, KillReason:6)
+[12:41:-100][92.100.60.168:37357:236736:6]KILL USER
+[12:46:-100][109.105.130.15:29367:-1:2][ERROR]SendErrorMessage(UID:-1, Protocol:0, BackProtocol:0,timestamp(159257), Error:800010af, KillReason:2)
+[12:48:-100][94.75.49.61:44333:1793330:6][ERROR]SendErrorMessage(UID:1793330, Protocol:0, BackProtocol:2565,timestamp(121), Error:800010af, KillReason:6)
+[12:48:-100][109.105.130.15:29367:-1:2]KILL USER
+[12:49:-100][94.75.49.61:44333:1793330:6]KILL USER
+[13:18:-100][10.33.50.50:34646:-1:2][ERROR]SendErrorMessage(UID:-1, Protocol:0, BackProtocol:0,timestamp(159289), Error:800010af, KillReason:2)
+[13:19:-100][10.33.50.50:34646:-1:2]KILL USER
+[13:46:-100][109.105.130.15:2271:-1:2][ERROR]SendErrorMessage(UID:-1, Protocol:0, BackProtocol:0,timestamp(159317), Error:800010af, KillReason:2)
+[13:47:-100][109.105.130.15:2271:-1:2]KILL USER
+[13:57:-100][95.170.183.250:19972:1822443:6][ERROR]SendErrorMessage(UID:1822443, Protocol:0, BackProtocol:2563,timestamp(121), Error:800010af, KillReason:6)
+[13:59:-100][95.170.183.250:19972:1822443:6]KILL USER
+[14:16:-100][109.105.130.15:44420:-1:2][ERROR]SendErrorMessage(UID:-1, Protocol:0, BackProtocol:0,timestamp(159348), Error:800010af, KillReason:2)
+[14:19:-100][109.105.130.15:44420:-1:2]KILL USER
+[14:23:-100][178.237.66.153:9476:1344649:6][ERROR]SendErrorMessage(UID:1344649, Protocol:0, BackProtocol:2563,timestamp(121), Error:800010af, KillReason:6)
+[14:26:-100][178.237.66.153:9476:1344649:6]KILL USER
+[14:27:-100][217.118.93.87:59043:1826355:6][ERROR]SendErrorMessage(UID:1826355, Protocol:0, BackProtocol:2567,timestamp(121), Error:800010af, KillReason:6)
+[14:28:-100][213.87.114.90:17776:-1:2][ERROR]SendErrorMessage(UID:-1, Protocol:0, BackProtocol:0,timestamp(159359), Error:800010af, KillReason:2)
+[14:28:-100][217.118.93.87:59043:1826355:6]KILL USER
+[14:29:-100][213.87.114.90:17776:-1:2]KILL USER
+[14:32:-100][109.237.126.149:7020:1729927:6][ERROR]SendErrorMessage(UID:1729927, Protocol:0, BackProtocol:2567,timestamp(121), Error:800010af, KillReason:6)
+[14:34:-100][109.237.126.149:7020:1729927:6]KILL USER
+[14:42:-100][95.27.209.221:451:1335729:6][ERROR]SendErrorMessage(UID:1335729, Protocol:0, BackProtocol:2565,timestamp(121), Error:800010af, KillReason:6)
+[14:43:-100][95.27.209.221:451:1335729:6]KILL USER
+[15:06:-100][194.190.42.70:7157:-1:2][ERROR]SendErrorMessage(UID:-1, Protocol:0, BackProtocol:2563,timestamp(21), Error:800010af, KillReason:2)
+[15:09:-100][194.190.42.70:7157:-1:2]KILL USER
+[15:11:-100][213.154.24.91:61381:1107135:6][ERROR]SendErrorMessage(UID:1107135, Protocol:0, BackProtocol:2567,timestamp(121), Error:800010af, KillReason:6)
+[15:12:-100][213.154.24.91:61381:1107135:6]KILL USER
+[15:16:-100][109.105.130.15:33708:-1:2][ERROR]SendErrorMessage(UID:-1, Protocol:0, BackProtocol:0,timestamp(159407), Error:800010af, KillReason:2)
+[15:18:-100][109.105.130.15:33708:-1:2]KILL USER
+[15:50:-100][213.87.114.90:38262:-1:2][ERROR]SendErrorMessage(UID:-1, Protocol:0, BackProtocol:0,timestamp(159441), Error:800010af, KillReason:2)
+[15:52:-100][213.87.114.90:38262:-1:2]KILL USER
+[16:15:-100][109.105.130.15:28884:-1:2][ERROR]SendErrorMessage(UID:-1, Protocol:0, BackProtocol:0,timestamp(159467), Error:800010af, KillReason:2)
+[16:16:-100][10.33.50.50:44668:-1:2][ERROR]SendErrorMessage(UID:-1, Protocol:0, BackProtocol:0,timestamp(159468), Error:800010af, KillReason:2)
+[16:18:-100][109.105.130.15:28884:-1:2]KILL USER
+[16:19:-100][10.33.50.50:44668:-1:2]KILL USER
+[16:47:-100][77.235.120.69:53488:363166:6][ERROR]SendErrorMessage(UID:363166, Protocol:0, BackProtocol:2563,timestamp(121), Error:800010af, KillReason:6)
+[16:47:-100][109.105.130.15:8935:-1:2][ERROR]SendErrorMessage(UID:-1, Protocol:0, BackProtocol:0,timestamp(159498), Error:800010af, KillReason:2)
+[16:49:-100][77.235.120.69:53488:363166:6]KILL USER
+[16:49:-100][109.105.130.15:8935:-1:2]KILL USER
+[17:03:-100][109.237.125.124:64270:-1:2][ERROR]SendErrorMessage(UID:-1, Protocol:0, BackProtocol:0,timestamp(159514), Error:800010af, KillReason:2)
+[17:04:-100][109.237.125.124:64270:-1:2]KILL USER
+[17:07:-100][178.76.42.146:41991:-1:2][ERROR]SendErrorMessage(UID:-1, Protocol:0, BackProtocol:2563,timestamp(21), Error:800010af, KillReason:2)
+[17:09:-100][178.76.42.146:41991:-1:2]KILL USER
+[17:16:-100][109.105.130.15:53131:-1:2][ERROR]SendErrorMessage(UID:-1, Protocol:0, BackProtocol:0,timestamp(159527), Error:800010af, KillReason:2)
+[17:17:-100][109.105.130.15:53131:-1:2]KILL USER
+[17:37:-100][94.178.37.67:33028:1686902:6][ERROR]SendErrorMessage(UID:1686902, Protocol:0, BackProtocol:2575,timestamp(121), Error:800010af, KillReason:6)
+[17:38:-100][94.178.37.67:33028:1686902:6]KILL USER
+[17:38:-100][91.211.28.251:2498:-1:2][ERROR]SendErrorMessage(UID:-1, Protocol:0, BackProtocol:2563,timestamp(21), Error:800010af, KillReason:2)
+[17:40:-100][91.211.28.251:2498:-1:2]KILL USER
+[17:46:-100][109.105.130.15:65435:-1:2][ERROR]SendErrorMessage(UID:-1, Protocol:0, BackProtocol:0,timestamp(159558), Error:800010af, KillReason:2)
+[17:49:-100][109.105.130.15:65435:-1:2]KILL USER
+[17:52:-100][92.113.74.26:45833:-1:2][ERROR]SendErrorMessage(UID:-1, Protocol:0, BackProtocol:0,timestamp(159563), Error:800010af, KillReason:2)
+[17:52:-100][95.190.232.62:3334:1430719:6][ERROR]SendErrorMessage(UID:1430719, Protocol:0, BackProtocol:2575,timestamp(121), Error:800010af, KillReason:6)
+[17:53:-100][95.190.232.62:3334:1430719:6]KILL USER
+[17:53:-100][92.113.74.26:45833:-1:2]KILL USER
+[17:54:-100][92.47.120.136:55044:1598284:6][ERROR]SendErrorMessage(UID:1598284, Protocol:0, BackProtocol:2575,timestamp(121), Error:800010af, KillReason:6)
+[17:55:-100][92.47.120.136:55044:1598284:6]KILL USER
+[18:06:-100][178.76.44.24:48624:1170327:6][ERROR]SendErrorMessage(UID:1170327, Protocol:0, BackProtocol:2567,timestamp(121), Error:800010af, KillReason:6)
+[18:08:-100][178.76.44.24:48624:1170327:6]KILL USER
+[18:15:-100][109.105.130.15:23472:-1:2][ERROR]SendErrorMessage(UID:-1, Protocol:0, BackProtocol:0,timestamp(159587), Error:800010af, KillReason:2)
+[18:18:-100][109.105.130.15:23472:-1:2]KILL USER
+[18:20:-100][178.94.104.52:29183:1741482:6][ERROR]SendErrorMessage(UID:1741482, Protocol:0, BackProtocol:2567,timestamp(121), Error:800010af, KillReason:6)
+[18:21:-100][178.94.104.52:29183:1741482:6]KILL USER
+[18:34:-100][91.209.51.173:44758:1291822:6][ERROR]SendErrorMessage(UID:1291822, Protocol:0, BackProtocol:2575,timestamp(121), Error:800010af, KillReason:6)
+[18:35:-100][91.209.51.173:44758:1291822:6]KILL USER
+[18:47:-100][109.105.130.15:29124:-1:2][ERROR]SendErrorMessage(UID:-1, Protocol:0, BackProtocol:0,timestamp(159618), Error:800010af, KillReason:2)
+[18:48:-100][109.105.130.15:29124:-1:2]KILL USER
+[18:54:-100][94.180.130.205:15371:1775123:6][ERROR]SendErrorMessage(UID:1775123, Protocol:0, BackProtocol:2567,timestamp(121), Error:800010af, KillReason:6)
+[18:55:-100][94.180.130.205:15371:1775123:6]KILL USER
+[19:39:-100][178.64.74.73:59652:-1:2][ERROR]SendErrorMessage(UID:-1, Protocol:0, BackProtocol:2563,timestamp(21), Error:800010af, KillReason:2)
+[19:42:-100][178.64.74.73:59652:-1:2]KILL USER
+[19:44:-100][195.69.87.166:7953:1640405:6][ERROR]SendErrorMessage(UID:1640405, Protocol:0, BackProtocol:2575,timestamp(121), Error:800010af, KillReason:6)
+[19:45:-100][109.105.130.15:17388:-1:2][ERROR]SendErrorMessage(UID:-1, Protocol:0, BackProtocol:0,timestamp(159677), Error:800010af, KillReason:2)
+[19:46:-100][195.69.87.166:7953:1640405:6]KILL USER
+[19:48:-100][109.105.130.15:17388:-1:2]KILL USER
+[20:12:-100][178.234.139.251:32551:1297630:6][ERROR]SendErrorMessage(UID:1297630, Protocol:0, BackProtocol:2563,timestamp(121), Error:800010af, KillReason:6)
+[20:13:-100][178.234.139.251:32551:1297630:6]KILL USER
+[20:31:-100][109.126.208.50:19981:1002309:6][ERROR]SendErrorMessage(UID:1002309, Protocol:0, BackProtocol:2563,timestamp(121), Error:800010af, KillReason:6)
+[20:33:-100][109.126.208.50:19981:1002309:6]KILL USER
+[20:44:-100][95.134.18.211:24332:895916:6][ERROR]SendErrorMessage(UID:895916, Protocol:0, BackProtocol:2575,timestamp(121), Error:800010af, KillReason:6)
+[20:46:-100][95.134.18.211:24332:895916:6]KILL USER
+[20:50:-100][178.76.11.9:31807:-1:2][ERROR]SendErrorMessage(UID:-1, Protocol:0, BackProtocol:0,timestamp(159741), Error:800010af, KillReason:2)
+[20:52:-100][178.76.11.9:31807:-1:2]KILL USER
+[20:54:-100][94.198.0.15:53443:515832:6][ERROR]SendErrorMessage(UID:515832, Protocol:0, BackProtocol:2565,timestamp(121), Error:800010af, KillReason:6)
+[20:57:-100][94.198.0.15:53443:515832:6]KILL USER
+[20:57:-100][2.94.85.134:42505:-1:2][ERROR]SendErrorMessage(UID:-1, Protocol:0, BackProtocol:0,timestamp(159748), Error:800010af, KillReason:2)
+[20:58:-100][62.165.47.123:20484:1828318:6][ERROR]SendErrorMessage(UID:1828318, Protocol:0, BackProtocol:2567,timestamp(121), Error:800010af, KillReason:6)
+[20:59:-100][2.94.85.134:42505:-1:2]KILL USER
+[21:00:-100][62.165.47.123:20484:1828318:6]KILL USER
+[21:16:-100][109.105.130.15:60600:-1:2][ERROR]SendErrorMessage(UID:-1, Protocol:0, BackProtocol:0,timestamp(159767), Error:800010af, KillReason:2)
+[21:17:-100][109.105.130.15:60600:-1:2]KILL USER
+[21:30:-100][217.66.16.9:15123:1821519:6][ERROR]SendErrorMessage(UID:1821519, Protocol:0, BackProtocol:2567,timestamp(121), Error:800010af, KillReason:6)
+[21:33:-100][217.66.16.9:15123:1821519:6]KILL USER
+[21:47:-100][109.105.130.15:17612:-1:2][ERROR]SendErrorMessage(UID:-1, Protocol:0, BackProtocol:0,timestamp(159798), Error:800010af, KillReason:2)
+[21:49:-100][109.105.130.15:17612:-1:2]KILL USER
+[21:58:-100][95.59.169.237:55047:1603394:6][ERROR]SendErrorMessage(UID:1603394, Protocol:0, BackProtocol:2563,timestamp(121), Error:800010af, KillReason:6)
+[21:59:-100][95.59.169.237:55047:1603394:6]KILL USER
+[22:13:-100][81.16.126.63:38161:1601808:6][ERROR]SendErrorMessage(UID:1601808, Protocol:0, BackProtocol:2563,timestamp(121), Error:800010af, KillReason:6)
+[22:16:-100][109.105.130.15:34528:-1:2][ERROR]SendErrorMessage(UID:-1, Protocol:0, BackProtocol:0,timestamp(159827), Error:800010af, KillReason:2)
+[22:16:-100][81.16.126.63:38161:1601808:6]KILL USER
+[22:17:-100][188.253.137.167:60007:-1:2][ERROR]SendErrorMessage(UID:-1, Protocol:0, BackProtocol:0,timestamp(159828), Error:800010af, KillReason:2)
+[22:17:-100][193.39.72.17:10983:320535:6][ERROR]SendErrorMessage(UID:320535, Protocol:0, BackProtocol:2567,timestamp(121), Error:800010af, KillReason:6)
+[22:18:-100][109.105.130.15:34528:-1:2]KILL USER
+[22:19:-100][188.253.137.167:60007:-1:2]KILL USER
+[22:19:-100][193.39.72.17:10983:320535:6]KILL USER
+[22:26:-100][188.226.42.147:64014:-1:2][ERROR]SendErrorMessage(UID:-1, Protocol:0, BackProtocol:2563,timestamp(21), Error:800010af, KillReason:2)
+[22:27:-100][188.226.42.147:64014:-1:2]KILL USER
+[22:37:-100][109.237.113.254:26373:-1:2][ERROR]SendErrorMessage(UID:-1, Protocol:0, BackProtocol:2563,timestamp(21), Error:800010af, KillReason:2)
+[22:39:-100][109.237.113.254:26373:-1:2]KILL USER
+[22:47:-100][109.105.130.15:56753:-1:2][ERROR]SendErrorMessage(UID:-1, Protocol:0, BackProtocol:0,timestamp(159858), Error:800010af, KillReason:2)
+[22:48:-100][109.105.130.15:56753:-1:2]KILL USER
+[23:15:-100][109.105.130.15:34757:-1:2][ERROR]SendErrorMessage(UID:-1, Protocol:0, BackProtocol:0,timestamp(159887), Error:800010af, KillReason:2)
+[23:18:-100][109.105.130.15:34757:-1:2]KILL USER
+[23:37:-100][95.106.20.102:44813:1823096:6][ERROR]SendErrorMessage(UID:1823096, Protocol:0, BackProtocol:2575,timestamp(121), Error:800010af, KillReason:6)
+[23:40:-100][95.106.20.102:44813:1823096:6]KILL USER
+[23:46:-100][109.105.130.15:53720:-1:2][ERROR]SendErrorMessage(UID:-1, Protocol:0, BackProtocol:0,timestamp(159917), Error:800010af, KillReason:2)
+[23:48:-100][109.105.130.15:53720:-1:2]KILL USER
+[24:17:-100][109.105.130.15:12781:-1:2][ERROR]SendErrorMessage(UID:-1, Protocol:0, BackProtocol:0,timestamp(159948), Error:800010af, KillReason:2)
+[24:18:-100][109.105.130.15:12781:-1:2]KILL USER
+[24:32:-100][193.39.72.17:23517:-1:2][ERROR]SendErrorMessage(UID:-1, Protocol:0, BackProtocol:2563,timestamp(21), Error:800010af, KillReason:2)
+[24:35:-100][193.39.72.17:23517:-1:2]KILL USER
+[24:46:-100][109.127.23.238:10248:-1:2][ERROR]SendErrorMessage(UID:-1, Protocol:0, BackProtocol:2563,timestamp(21), Error:800010af, KillReason:2)
+[24:46:-100][109.105.130.15:63377:-1:2][ERROR]SendErrorMessage(UID:-1, Protocol:0, BackProtocol:0,timestamp(159978), Error:800010af, KillReason:2)
+[24:49:-100][109.127.23.238:10248:-1:2]KILL USER
+[24:49:-100][109.105.130.15:63377:-1:2]KILL USER
+[25:15:-100][109.105.130.15:18342:-1:2][ERROR]SendErrorMessage(UID:-1, Protocol:0, BackProtocol:0,timestamp(160007), Error:800010af, KillReason:2)
+[25:15:-100][10.33.50.50:49976:-1:2][ERROR]SendErrorMessage(UID:-1, Protocol:0, BackProtocol:0,timestamp(160007), Error:800010af, KillReason:2)
+[25:18:-100][109.105.130.15:18342:-1:2]KILL USER
+[25:18:-100][10.33.50.50:49976:-1:2]KILL USER
+[25:46:-100][109.105.130.15:63929:-1:2][ERROR]SendErrorMessage(UID:-1, Protocol:0, BackProtocol:0,timestamp(160037), Error:800010af, KillReason:2)
+[25:48:-100][109.105.130.15:63929:-1:2]KILL USER
+[26:16:-100][109.105.130.15:49101:-1:2][ERROR]SendErrorMessage(UID:-1, Protocol:0, BackProtocol:0,timestamp(160067), Error:800010af, KillReason:2)
+[26:17:-100][109.105.130.15:49101:-1:2]KILL USER
+[26:24:-100][77.34.177.156:46598:-1:2][ERROR]SendErrorMessage(UID:-1, Protocol:0, BackProtocol:0,timestamp(160075), Error:800010af, KillReason:2)
+[26:25:-100][77.34.177.156:46598:-1:2]KILL USER
+[26:50:-100][109.105.130.15:9444:-1:2][ERROR]SendErrorMessage(UID:-1, Protocol:0, BackProtocol:0,timestamp(160101), Error:800010af, KillReason:2)
+[26:52:-100][109.105.130.15:9444:-1:2]KILL USER
+[26:54:-100][109.239.19.240:20747:740091:6][ERROR]SendErrorMessage(UID:740091, Protocol:0, BackProtocol:2567,timestamp(121), Error:800010af, KillReason:6)
+[26:57:-100][109.239.19.240:20747:740091:6]KILL USER
+[27:12:-100][178.206.151.19:5126:1615556:6][ERROR]SendErrorMessage(UID:1615556, Protocol:0, BackProtocol:2563,timestamp(121), Error:800010af, KillReason:6)
+[27:14:-100][178.206.151.19:5126:1615556:6]KILL USER
+[27:17:-100][109.105.130.15:18568:-1:2][ERROR]SendErrorMessage(UID:-1, Protocol:0, BackProtocol:0,timestamp(160128), Error:800010af, KillReason:2)
+[27:19:-100][109.105.130.15:18568:-1:2]KILL USER
+[27:25:-100][109.237.122.17:50004:-1:2][ERROR]SendErrorMessage(UID:-1, Protocol:0, BackProtocol:0,timestamp(160136), Error:800010af, KillReason:2)
+[27:25:-100][109.237.115.136:14914:-1:2][ERROR]SendErrorMessage(UID:-1, Protocol:0, BackProtocol:0,timestamp(160136), Error:800010af, KillReason:2)
+[27:27:-100][109.237.122.17:50004:-1:2]KILL USER
+[27:27:-100][109.237.115.136:14914:-1:2]KILL USER
+[27:47:-100][109.105.130.15:64171:-1:2][ERROR]SendErrorMessage(UID:-1, Protocol:0, BackProtocol:0,timestamp(160158), Error:800010af, KillReason:2)
+[27:49:-100][109.105.130.15:64171:-1:2]KILL USER
+[28:11:-100][109.237.122.17:37715:1440655:6][ERROR]SendErrorMessage(UID:1440655, Protocol:0, BackProtocol:2567,timestamp(121), Error:800010af, KillReason:6)
+[28:14:-100][109.237.122.17:37715:1440655:6]KILL USER
+[28:15:-100][188.19.229.223:8767:1225678:6][ERROR]SendErrorMessage(UID:1225678, Protocol:0, BackProtocol:2567,timestamp(121), Error:800010af, KillReason:6)
+[28:16:-100][109.105.130.15:1216:-1:2][ERROR]SendErrorMessage(UID:-1, Protocol:0, BackProtocol:0,timestamp(160187), Error:800010af, KillReason:2)
+[28:17:-100][188.19.229.223:8767:1225678:6]KILL USER
+[28:17:-100][109.105.130.15:1216:-1:2]KILL USER
+[28:45:-100][109.105.130.15:11987:-1:2][ERROR]SendErrorMessage(UID:-1, Protocol:0, BackProtocol:0,timestamp(160217), Error:800010af, KillReason:2)
+[28:48:-100][109.105.130.15:11987:-1:2]KILL USER
+[29:04:-100][109.108.63.75:14791:859520:6][ERROR]SendErrorMessage(UID:859520, Protocol:0, BackProtocol:2575,timestamp(121), Error:800010af, KillReason:6)
+[29:06:-100][109.108.63.75:14791:859520:6]KILL USER
+[29:07:-100][109.174.16.43:23490:1828176:6][ERROR]SendErrorMessage(UID:1828176, Protocol:0, BackProtocol:2563,timestamp(121), Error:800010af, KillReason:6)
+[29:10:-100][109.174.16.43:23490:1828176:6]KILL USER
+[29:16:-100][109.105.130.15:15079:-1:2][ERROR]SendErrorMessage(UID:-1, Protocol:0, BackProtocol:0,timestamp(160247), Error:800010af, KillReason:2)
+[29:18:-100][109.105.130.15:15079:-1:2]KILL USER
+[29:46:-100][109.105.130.15:2700:-1:2][ERROR]SendErrorMessage(UID:-1, Protocol:0, BackProtocol:0,timestamp(160277), Error:800010af, KillReason:2)
+[29:48:-100][109.105.130.15:2700:-1:2]KILL USER
+[30:16:-100][109.105.130.15:27039:-1:2][ERROR]SendErrorMessage(UID:-1, Protocol:0, BackProtocol:0,timestamp(160308), Error:800010af, KillReason:2)
+[30:19:-100][109.105.130.15:27039:-1:2]KILL USER
+[30:27:-100][178.179.0.231:48585:-1:2][ERROR]SendErrorMessage(UID:-1, Protocol:0, BackProtocol:0,timestamp(160318), Error:800010af, KillReason:2)
+[30:29:-100][178.179.0.231:48585:-1:2]KILL USER
+[30:45:-100][109.105.130.15:11444:-1:2][ERROR]SendErrorMessage(UID:-1, Protocol:0, BackProtocol:0,timestamp(160337), Error:800010af, KillReason:2)
+[30:48:-100][109.105.130.15:11444:-1:2]KILL USER
+[31:16:-100][109.105.130.15:6088:-1:2][ERROR]SendErrorMessage(UID:-1, Protocol:0, BackProtocol:0,timestamp(160367), Error:800010af, KillReason:2)
+[31:18:-100][109.105.130.15:6088:-1:2]KILL USER
+[31:44:-100][178.76.17.142:36394:1610639:6][ERROR]SendErrorMessage(UID:1610639, Protocol:0, BackProtocol:2567,timestamp(121), Error:800010af, KillReason:6)
+[31:46:-100][178.76.17.142:36394:1610639:6]KILL USER
+[31:46:-100][109.105.130.15:44507:-1:2][ERROR]SendErrorMessage(UID:-1, Protocol:0, BackProtocol:0,timestamp(160397), Error:800010af, KillReason:2)
+[31:47:-100][93.178.83.225:16935:1412371:6][ERROR]SendErrorMessage(UID:1412371, Protocol:0, BackProtocol:2563,timestamp(121), Error:800010af, KillReason:6)
+[31:47:-100][109.105.130.15:44507:-1:2]KILL USER
+[31:50:-100][93.178.83.225:16935:1412371:6]KILL USER
+[32:46:-100][109.105.130.15:17586:-1:2][ERROR]SendErrorMessage(UID:-1, Protocol:0, BackProtocol:0,timestamp(160457), Error:800010af, KillReason:2)
+[32:48:-100][109.105.130.15:17586:-1:2]KILL USER
+[33:16:-100][109.105.130.15:26822:-1:2][ERROR]SendErrorMessage(UID:-1, Protocol:0, BackProtocol:0,timestamp(160487), Error:800010af, KillReason:2)
+[33:17:-100][78.106.27.166:21705:1086824:6][ERROR]SendErrorMessage(UID:1086824, Protocol:0, BackProtocol:2567,timestamp(121), Error:800010af, KillReason:6)
+[33:18:-100][109.105.130.15:26822:-1:2]KILL USER
+[33:18:-100][78.106.27.166:21705:1086824:6]KILL USER
+[33:46:-100][109.105.130.15:218:-1:2][ERROR]SendErrorMessage(UID:-1, Protocol:0, BackProtocol:0,timestamp(160517), Error:800010af, KillReason:2)
+[33:47:-100][109.105.130.15:218:-1:2]KILL USER
+[33:57:-100][83.149.45.133:38022:-1:2][ERROR]SendErrorMessage(UID:-1, Protocol:0, BackProtocol:0,timestamp(160528), Error:800010af, KillReason:2)
+[33:59:-100][83.149.45.133:38022:-1:2]KILL USER
+[33:59:-100][178.95.20.46:13320:-1:2][ERROR]SendErrorMessage(UID:-1, Protocol:0, BackProtocol:0,timestamp(160530), Error:800010af, KillReason:2)
+[34:00:-100][178.95.20.46:13320:-1:2]KILL USER
+[34:06:-100][95.37.180.196:55492:25107:6][ERROR]SendErrorMessage(UID:25107, Protocol:0, BackProtocol:2575,timestamp(121), Error:800010af, KillReason:6)
+[34:07:-100][95.37.180.196:55492:25107:6]KILL USER
+[34:15:-100][109.105.130.15:48109:-1:2][ERROR]SendErrorMessage(UID:-1, Protocol:0, BackProtocol:0,timestamp(160547), Error:800010af, KillReason:2)
+[34:17:-100][10.33.50.50:4977:-1:2][ERROR]SendErrorMessage(UID:-1, Protocol:0, BackProtocol:0,timestamp(160548), Error:800010af, KillReason:2)
+[34:18:-100][109.105.130.15:48109:-1:2]KILL USER
+[34:19:-100][10.33.50.50:4977:-1:2]KILL USER
+[34:29:-100][85.175.141.32:24842:1322880:6][ERROR]SendErrorMessage(UID:1322880, Protocol:0, BackProtocol:2563,timestamp(121), Error:800010af, KillReason:6)
+[34:32:-100][85.175.141.32:24842:1322880:6]KILL USER
+[34:33:-100][79.170.31.201:27152:1767206:6][ERROR]SendErrorMessage(UID:1767206, Protocol:0, BackProtocol:2575,timestamp(121), Error:800010af, KillReason:6)
+[34:33:-100][213.87.114.90:23935:-1:2][ERROR]SendErrorMessage(UID:-1, Protocol:0, BackProtocol:0,timestamp(160564), Error:800010af, KillReason:2)
+[34:33:-100][213.87.114.90:23935:-1:2]KILL USER
+[34:35:-100][79.170.31.201:27152:1767206:6]KILL USER
+[34:38:-100][178.95.20.46:14600:-1:2][ERROR]SendErrorMessage(UID:-1, Protocol:0, BackProtocol:0,timestamp(160569), Error:800010af, KillReason:2)
+[34:40:-100][178.95.20.46:14600:-1:2]KILL USER
+[34:47:-100][109.105.130.15:37523:-1:2][ERROR]SendErrorMessage(UID:-1, Protocol:0, BackProtocol:0,timestamp(160578), Error:800010af, KillReason:2)
+[34:49:-100][109.105.130.15:37523:-1:2]KILL USER
+[35:00:-100][95.135.131.216:31425:1708408:6][ERROR]SendErrorMessage(UID:1708408, Protocol:0, BackProtocol:2567,timestamp(121), Error:800010af, KillReason:6)
+[35:02:-100][95.135.131.216:31425:1708408:6]KILL USER
+[35:16:-100][109.105.130.15:20903:-1:2][ERROR]SendErrorMessage(UID:-1, Protocol:0, BackProtocol:0,timestamp(160607), Error:800010af, KillReason:2)
+[35:17:-100][109.105.130.15:20903:-1:2]KILL USER
+[35:17:-100][178.95.20.46:19464:-1:2][ERROR]SendErrorMessage(UID:-1, Protocol:0, BackProtocol:0,timestamp(160609), Error:800010af, KillReason:2)
+[35:20:-100][178.95.20.46:19464:-1:2]KILL USER
+[35:24:-100][95.52.175.73:29700:-1:2][ERROR]SendErrorMessage(UID:-1, Protocol:0, BackProtocol:2563,timestamp(21), Error:800010af, KillReason:2)
+[35:27:-100][95.52.175.73:29700:-1:2]KILL USER
+[35:45:-100][81.200.3.110:17624:612808:6][ERROR]SendErrorMessage(UID:612808, Protocol:0, BackProtocol:2567,timestamp(121), Error:800010af, KillReason:6)
+[35:45:-100][213.87.114.90:63913:-1:2][ERROR]SendErrorMessage(UID:-1, Protocol:0, BackProtocol:0,timestamp(160637), Error:800010af, KillReason:2)
+[35:45:-100][109.105.130.15:64186:-1:2][ERROR]SendErrorMessage(UID:-1, Protocol:0, BackProtocol:0,timestamp(160637), Error:800010af, KillReason:2)
+[35:46:-100][81.200.3.110:17624:612808:6]KILL USER
+[35:46:-100][213.87.114.90:63913:-1:2]KILL USER
+[35:48:-100][109.105.130.15:64186:-1:2]KILL USER
+[36:33:-100][91.191.204.78:14685:1300782:6][ERROR]SendErrorMessage(UID:1300782, Protocol:0, BackProtocol:2563,timestamp(121), Error:800010af, KillReason:6)
+[36:34:-100][91.191.204.78:14685:1300782:6]KILL USER
+[36:44:-100][85.26.165.191:48278:1689566:6][ERROR]SendErrorMessage(UID:1689566, Protocol:0, BackProtocol:2563,timestamp(121), Error:800010af, KillReason:6)
+[36:46:-100][85.26.165.191:48278:1689566:6]KILL USER
+[36:46:-100][109.105.130.15:48354:-1:2][ERROR]SendErrorMessage(UID:-1, Protocol:0, BackProtocol:0,timestamp(160697), Error:800010af, KillReason:2)
+[36:48:-100][109.105.130.15:48354:-1:2]KILL USER
+[36:56:-100][90.151.102.108:15622:1797535:6][ERROR]SendErrorMessage(UID:1797535, Protocol:0, BackProtocol:2563,timestamp(121), Error:800010af, KillReason:6)
+[36:56:-100][178.122.244.247:42946:1304491:6][ERROR]SendErrorMessage(UID:1304491, Protocol:0, BackProtocol:2575,timestamp(121), Error:800010af, KillReason:6)
+[36:59:-100][90.151.102.108:15622:1797535:6]KILL USER
+[36:59:-100][178.122.244.247:42946:1304491:6]KILL USER
+[37:16:-100][109.105.130.15:23432:-1:2][ERROR]SendErrorMessage(UID:-1, Protocol:0, BackProtocol:0,timestamp(160727), Error:800010af, KillReason:2)
+[37:17:-100][109.105.130.15:23432:-1:2]KILL USER
+[37:34:-100][91.79.216.50:37315:741993:6][ERROR]SendErrorMessage(UID:741993, Protocol:0, BackProtocol:2563,timestamp(121), Error:800010af, KillReason:6)
+[37:36:-100][91.79.216.50:37315:741993:6]KILL USER
+[37:44:-100][94.180.158.57:64266:1524346:6][ERROR]SendErrorMessage(UID:1524346, Protocol:0, BackProtocol:2567,timestamp(121), Error:800010af, KillReason:6)
+[37:44:-100][94.180.158.57:64266:1524346:6]KILL USER
+[37:45:-100][109.105.130.15:7820:-1:2][ERROR]SendErrorMessage(UID:-1, Protocol:0, BackProtocol:0,timestamp(160757), Error:800010af, KillReason:2)
+[37:48:-100][109.105.130.15:7820:-1:2]KILL USER
+[38:16:-100][109.105.130.15:16800:-1:2][ERROR]SendErrorMessage(UID:-1, Protocol:0, BackProtocol:0,timestamp(160787), Error:800010af, KillReason:2)
+[38:18:-100][109.105.130.15:16800:-1:2]KILL USER
+[38:18:-100][95.129.166.4:33486:-1:2][ERROR]SendErrorMessage(UID:-1, Protocol:0, BackProtocol:0,timestamp(160789), Error:800010af, KillReason:2)
+[38:18:-100][95.129.166.4:33486:-1:2]KILL USER
+[38:46:-100][109.105.130.15:35251:-1:2][ERROR]SendErrorMessage(UID:-1, Protocol:0, BackProtocol:0,timestamp(160817), Error:800010af, KillReason:2)
+[38:48:-100][109.105.130.15:35251:-1:2]KILL USER
+[39:16:-100][109.105.130.15:61127:-1:2][ERROR]SendErrorMessage(UID:-1, Protocol:0, BackProtocol:0,timestamp(160848), Error:800010af, KillReason:2)
+[39:19:-100][109.105.130.15:61127:-1:2]KILL USER
+[39:29:-100][178.237.77.238:7694:834384:6][ERROR]SendErrorMessage(UID:834384, Protocol:0, BackProtocol:2567,timestamp(121), Error:800010af, KillReason:6)
+[39:30:-100][178.237.77.238:7694:834384:6]KILL USER
+[39:44:-100][83.149.46.12:51595:168403:6][ERROR]SendErrorMessage(UID:168403, Protocol:0, BackProtocol:2563,timestamp(121), Error:800010af, KillReason:6)
+[39:46:-100][83.149.46.12:51595:168403:6]KILL USER
+[39:46:-100][109.105.130.15:17371:-1:2][ERROR]SendErrorMessage(UID:-1, Protocol:0, BackProtocol:0,timestamp(160877), Error:800010af, KillReason:2)
+[39:48:-100][109.105.130.15:17371:-1:2]KILL USER
+[40:16:-100][81.25.53.19:34318:1825641:6][ERROR]SendErrorMessage(UID:1825641, Protocol:0, BackProtocol:2575,timestamp(121), Error:800010af, KillReason:6)
+[40:16:-100][109.105.130.15:56704:-1:2][ERROR]SendErrorMessage(UID:-1, Protocol:0, BackProtocol:0,timestamp(160907), Error:800010af, KillReason:2)
+[40:18:-100][81.25.53.19:34318:1825641:6]KILL USER
+[40:18:-100][109.105.130.15:56704:-1:2]KILL USER
+[40:46:-100][95.179.104.132:25610:-1:2][ERROR]SendErrorMessage(UID:-1, Protocol:0, BackProtocol:0,timestamp(160937), Error:800010af, KillReason:2)
+[40:46:-100][109.105.130.15:917:-1:2][ERROR]SendErrorMessage(UID:-1, Protocol:0, BackProtocol:0,timestamp(160937), Error:800010af, KillReason:2)
+[40:46:-100][95.179.104.132:25610:-1:2]KILL USER
+[40:47:-100][109.105.130.15:917:-1:2]KILL USER
+[41:03:-100][91.211.57.112:38865:1274989:6][ERROR]SendErrorMessage(UID:1274989, Protocol:0, BackProtocol:2563,timestamp(121), Error:800010af, KillReason:6)
+[41:05:-100][91.211.57.112:38865:1274989:6]KILL USER
+[41:15:-100][109.105.130.15:14505:-1:2][ERROR]SendErrorMessage(UID:-1, Protocol:0, BackProtocol:0,timestamp(160967), Error:800010af, KillReason:2)
+[41:18:-100][109.105.130.15:14505:-1:2]KILL USER
+[41:33:-100][193.33.26.11:12127:574954:6][ERROR]SendErrorMessage(UID:574954, Protocol:0, BackProtocol:2563,timestamp(121), Error:800010af, KillReason:6)
+[41:35:-100][193.33.26.11:12127:574954:6]KILL USER
+[41:47:-100][109.105.130.15:53692:-1:2][ERROR]SendErrorMessage(UID:-1, Protocol:0, BackProtocol:0,timestamp(160998), Error:800010af, KillReason:2)
+[41:49:-100][109.105.130.15:53692:-1:2]KILL USER
+[41:50:-100][92.101.114.36:19204:1796619:6][ERROR]SendErrorMessage(UID:1796619, Protocol:0, BackProtocol:2575,timestamp(121), Error:800010af, KillReason:6)
+[41:50:-100][92.101.114.36:19204:1796619:6]KILL USER
+[41:59:-100][178.66.153.245:30149:586460:6][ERROR]SendErrorMessage(UID:586460, Protocol:0, BackProtocol:2563,timestamp(121), Error:800010af, KillReason:6)
+[42:01:-100][178.66.153.245:30149:586460:6]KILL USER
+[42:13:-100][85.132.100.56:16736:829610:6][ERROR]SendErrorMessage(UID:829610, Protocol:0, BackProtocol:2563,timestamp(121), Error:800010af, KillReason:6)
+[42:13:-100][85.132.100.56:16736:829610:6]KILL USER
+[42:17:-100][109.105.130.15:30928:-1:2][ERROR]SendErrorMessage(UID:-1, Protocol:0, BackProtocol:0,timestamp(161028), Error:800010af, KillReason:2)
+[42:17:-100][10.33.50.50:28971:-1:2][ERROR]SendErrorMessage(UID:-1, Protocol:0, BackProtocol:0,timestamp(161028), Error:800010af, KillReason:2)
+[42:18:-100][109.105.130.15:30928:-1:2]KILL USER
+[42:18:-100][10.33.50.50:28971:-1:2]KILL USER
+[42:46:-100][109.105.130.15:26547:-1:2][ERROR]SendErrorMessage(UID:-1, Protocol:0, BackProtocol:0,timestamp(161057), Error:800010af, KillReason:2)
+[42:48:-100][109.105.130.15:26547:-1:2]KILL USER
+[43:07:-100][87.117.190.108:22279:1235904:6][ERROR]SendErrorMessage(UID:1235904, Protocol:0, BackProtocol:2575,timestamp(121), Error:800010af, KillReason:6)
+[43:09:-100][87.117.190.108:22279:1235904:6]KILL USER
+[43:47:-100][109.105.130.15:731:-1:2][ERROR]SendErrorMessage(UID:-1, Protocol:0, BackProtocol:0,timestamp(161118), Error:800010af, KillReason:2)
+[43:49:-100][109.105.130.15:731:-1:2]KILL USER
+[44:03:-100][109.168.139.219:62736:1757118:6][ERROR]SendErrorMessage(UID:1757118, Protocol:0, BackProtocol:2567,timestamp(121), Error:800010af, KillReason:6)
+[44:06:-100][109.168.139.219:62736:1757118:6]KILL USER
+[44:16:-100][109.105.130.15:3968:-1:2][ERROR]SendErrorMessage(UID:-1, Protocol:0, BackProtocol:0,timestamp(161147), Error:800010af, KillReason:2)
+[44:17:-100][109.105.130.15:3968:-1:2]KILL USER
+[44:19:-100][109.237.126.89:43053:-1:2][ERROR]SendErrorMessage(UID:-1, Protocol:0, BackProtocol:0,timestamp(161150), Error:800010af, KillReason:2)
+[44:21:-100][109.237.126.89:43053:-1:2]KILL USER
+[44:24:-100][178.187.86.182:32010:-1:2][ERROR]SendErrorMessage(UID:-1, Protocol:0, BackProtocol:2563,timestamp(21), Error:800010af, KillReason:2)
+[44:26:-100][178.187.86.182:32010:-1:2]KILL USER
+[44:47:-100][109.105.130.15:48788:-1:2][ERROR]SendErrorMessage(UID:-1, Protocol:0, BackProtocol:0,timestamp(161178), Error:800010af, KillReason:2)
+[44:49:-100][109.105.130.15:48788:-1:2]KILL USER
+[45:08:-100][94.232.13.15:14019:1079241:6][ERROR]SendErrorMessage(UID:1079241, Protocol:0, BackProtocol:2567,timestamp(121), Error:800010af, KillReason:6)
+[45:10:-100][94.232.13.15:14019:1079241:6]KILL USER
+[45:16:-100][109.105.130.15:7592:-1:2][ERROR]SendErrorMessage(UID:-1, Protocol:0, BackProtocol:0,timestamp(161207), Error:800010af, KillReason:2)
+[45:18:-100][109.105.130.15:7592:-1:2]KILL USER
+[45:46:-100][109.105.130.15:39867:-1:2][ERROR]SendErrorMessage(UID:-1, Protocol:0, BackProtocol:0,timestamp(161237), Error:800010af, KillReason:2)
+[45:48:-100][109.105.130.15:39867:-1:2]KILL USER
+[45:55:-100][195.110.32.61:32270:1806483:6][ERROR]SendErrorMessage(UID:1806483, Protocol:0, BackProtocol:2575,timestamp(121), Error:800010af, KillReason:6)
+[45:56:-100][195.110.32.61:32270:1806483:6]KILL USER
+[46:12:-100][178.76.20.28:2105:-1:2][ERROR]SendErrorMessage(UID:-1, Protocol:0, BackProtocol:0,timestamp(161263), Error:800010af, KillReason:2)
+[46:14:-100][178.76.20.28:2105:-1:2]KILL USER
+[46:16:-100][109.105.130.15:28879:-1:2][ERROR]SendErrorMessage(UID:-1, Protocol:0, BackProtocol:0,timestamp(161267), Error:800010af, KillReason:2)
+[46:17:-100][109.105.130.15:28879:-1:2]KILL USER
+[46:45:-100][109.105.130.15:20195:-1:2][ERROR]SendErrorMessage(UID:-1, Protocol:0, BackProtocol:0,timestamp(161297), Error:800010af, KillReason:2)
+[46:48:-100][109.105.130.15:20195:-1:2]KILL USER
+[47:16:-100][93.124.121.83:22063:1828596:6][ERROR]SendErrorMessage(UID:1828596, Protocol:0, BackProtocol:2575,timestamp(121), Error:800010af, KillReason:6)
+[47:16:-100][109.105.130.15:5257:-1:2][ERROR]SendErrorMessage(UID:-1, Protocol:0, BackProtocol:0,timestamp(161327), Error:800010af, KillReason:2)
+[47:18:-100][93.124.121.83:22063:1828596:6]KILL USER
+[47:18:-100][109.105.130.15:5257:-1:2]KILL USER
+[47:46:-100][109.105.130.15:61829:-1:2][ERROR]SendErrorMessage(UID:-1, Protocol:0, BackProtocol:0,timestamp(161357), Error:800010af, KillReason:2)
+[47:48:-100][109.105.130.15:61829:-1:2]KILL USER
+[48:12:-100][95.191.164.163:58561:-1:2][ERROR]SendErrorMessage(UID:-1, Protocol:0, BackProtocol:0,timestamp(161383), Error:800010af, KillReason:2)
+[48:14:-100][95.191.164.163:58561:-1:2]KILL USER
+[48:16:-100][109.105.130.15:28314:-1:2][ERROR]SendErrorMessage(UID:-1, Protocol:0, BackProtocol:0,timestamp(161388), Error:800010af, KillReason:2)
+[48:19:-100][109.105.130.15:28314:-1:2]KILL USER
+[48:30:-100][95.129.166.230:23026:1253619:6][ERROR]SendErrorMessage(UID:1253619, Protocol:0, BackProtocol:2567,timestamp(121), Error:800010af, KillReason:6)
+[48:33:-100][95.129.166.230:23026:1253619:6]KILL USER
+[48:36:-100][95.133.224.5:52487:-1:2][ERROR]SendErrorMessage(UID:-1, Protocol:0, BackProtocol:0,timestamp(161407), Error:800010af, KillReason:2)
+[48:36:-100][95.133.224.5:52487:-1:2]KILL USER
+[48:46:-100][109.105.130.15:13998:-1:2][ERROR]SendErrorMessage(UID:-1, Protocol:0, BackProtocol:0,timestamp(161417), Error:800010af, KillReason:2)
+[48:48:-100][109.105.130.15:13998:-1:2]KILL USER
+[49:16:-100][109.105.130.15:47298:-1:2][ERROR]SendErrorMessage(UID:-1, Protocol:0, BackProtocol:0,timestamp(161447), Error:800010af, KillReason:2)
+[49:18:-100][109.105.130.15:47298:-1:2]KILL USER
+[49:46:-100][109.105.130.15:12246:-1:2][ERROR]SendErrorMessage(UID:-1, Protocol:0, BackProtocol:0,timestamp(161477), Error:800010af, KillReason:2)
+[49:47:-100][90.151.102.108:20230:1797535:6][ERROR]SendErrorMessage(UID:1797535, Protocol:0, BackProtocol:2563,timestamp(121), Error:800010af, KillReason:6)
+[49:47:-100][109.105.130.15:12246:-1:2]KILL USER
+[49:50:-100][90.151.102.108:20230:1797535:6]KILL USER
+[50:07:-100][178.76.50.104:61963:-1:2][ERROR]SendErrorMessage(UID:-1, Protocol:0, BackProtocol:2563,timestamp(21), Error:800010af, KillReason:2)
+[50:08:-100][178.76.50.104:61963:-1:2]KILL USER
+[50:15:-100][109.105.130.15:61161:-1:2][ERROR]SendErrorMessage(UID:-1, Protocol:0, BackProtocol:0,timestamp(161507), Error:800010af, KillReason:2)
+[50:18:-100][109.105.130.15:61161:-1:2]KILL USER
+[50:27:-100][188.190.70.48:38940:1207746:6][ERROR]SendErrorMessage(UID:1207746, Protocol:0, BackProtocol:2575,timestamp(121), Error:800010af, KillReason:6)
+[50:29:-100][188.190.70.48:38940:1207746:6]KILL USER
+[50:34:-100][217.66.16.86:1029:1613576:6][ERROR]SendErrorMessage(UID:1613576, Protocol:0, BackProtocol:2563,timestamp(121), Error:800010af, KillReason:6)
+[50:36:-100][217.66.16.86:1029:1613576:6]KILL USER
+[50:46:-100][109.105.130.15:55695:-1:2][ERROR]SendErrorMessage(UID:-1, Protocol:0, BackProtocol:0,timestamp(161537), Error:800010af, KillReason:2)
+[50:48:-100][109.105.130.15:55695:-1:2]KILL USER
+[51:17:-100][109.105.130.15:7844:-1:2][ERROR]SendErrorMessage(UID:-1, Protocol:0, BackProtocol:0,timestamp(161568), Error:800010af, KillReason:2)
+[51:18:-100][109.105.130.15:7844:-1:2]KILL USER
+[51:46:-100][109.105.130.15:31415:-1:2][ERROR]SendErrorMessage(UID:-1, Protocol:0, BackProtocol:0,timestamp(161597), Error:800010af, KillReason:2)
+[51:48:-100][109.105.130.15:31415:-1:2]KILL USER
+[52:02:-100][188.16.138.62:5134:1011956:6][ERROR]SendErrorMessage(UID:1011956, Protocol:0, BackProtocol:2567,timestamp(121), Error:800010af, KillReason:6)
+[52:04:-100][188.16.138.62:5134:1011956:6]KILL USER
+[52:17:-100][109.105.130.15:13259:-1:2][ERROR]SendErrorMessage(UID:-1, Protocol:0, BackProtocol:0,timestamp(161628), Error:800010af, KillReason:2)
+[52:19:-100][109.105.130.15:13259:-1:2]KILL USER
+[52:27:-100][178.187.86.182:45835:-1:2][ERROR]SendErrorMessage(UID:-1, Protocol:0, BackProtocol:0,timestamp(161638), Error:800010af, KillReason:2)
+[52:28:-100][178.187.86.182:45835:-1:2]KILL USER
+[52:47:-100][109.105.130.15:55696:-1:2][ERROR]SendErrorMessage(UID:-1, Protocol:0, BackProtocol:0,timestamp(161658), Error:800010af, KillReason:2)
+[52:49:-100][109.105.130.15:55696:-1:2]KILL USER
+[52:51:-100][78.36.88.158:26631:1401418:6][ERROR]SendErrorMessage(UID:1401418, Protocol:0, BackProtocol:2563,timestamp(121), Error:800010af, KillReason:6)
+[52:53:-100][78.36.88.158:26631:1401418:6]KILL USER
+[52:54:-100][178.76.50.104:3852:-1:2][ERROR]SendErrorMessage(UID:-1, Protocol:0, BackProtocol:2563,timestamp(21), Error:800010af, KillReason:2)
+[52:56:-100][178.76.50.104:3852:-1:2]KILL USER
+[53:17:-100][109.105.130.15:42916:-1:2][ERROR]SendErrorMessage(UID:-1, Protocol:0, BackProtocol:0,timestamp(161688), Error:800010af, KillReason:2)
+[53:19:-100][109.105.130.15:42916:-1:2]KILL USER
+[53:19:-100][178.237.68.21:9460:-1:2][ERROR]SendErrorMessage(UID:-1, Protocol:0, BackProtocol:0,timestamp(161690), Error:800010af, KillReason:2)
+[53:21:-100][178.237.68.21:9460:-1:2]KILL USER
+[53:29:-100][178.65.6.61:30726:1496745:6][ERROR]SendErrorMessage(UID:1496745, Protocol:0, BackProtocol:2567,timestamp(121), Error:800010af, KillReason:6)
+[53:31:-100][178.65.6.61:30726:1496745:6]KILL USER
+[53:40:-100][109.237.112.47:37128:1035270:6][ERROR]SendErrorMessage(UID:1035270, Protocol:0, BackProtocol:2567,timestamp(121), Error:800010af, KillReason:6)
+[53:42:-100][109.237.112.47:37128:1035270:6]KILL USER
+[53:46:-100][95.181.27.46:38158:1813910:6][ERROR]SendErrorMessage(UID:1813910, Protocol:0, BackProtocol:2563,timestamp(121), Error:800010af, KillReason:6)
+[53:47:-100][109.105.130.15:50872:-1:2][ERROR]SendErrorMessage(UID:-1, Protocol:0, BackProtocol:0,timestamp(161718), Error:800010af, KillReason:2)
+[53:48:-100][95.181.27.46:38158:1813910:6]KILL USER
+[53:48:-100][178.210.6.184:2312:1472136:6][ERROR]SendErrorMessage(UID:1472136, Protocol:0, BackProtocol:2563,timestamp(121), Error:800010af, KillReason:6)
+[53:49:-100][93.157.175.167:25802:1190003:6][ERROR]SendErrorMessage(UID:1190003, Protocol:0, BackProtocol:2563,timestamp(121), Error:800010af, KillReason:6)
+[53:49:-100][109.105.130.15:50872:-1:2]KILL USER
+[53:50:-100][178.210.6.184:2312:1472136:6]KILL USER
+[53:51:-100][93.157.175.167:25802:1190003:6]KILL USER
+[53:52:-100][213.176.231.107:62724:1789547:6][ERROR]SendErrorMessage(UID:1789547, Protocol:0, BackProtocol:2567,timestamp(121), Error:800010af, KillReason:6)
+[53:54:-100][213.176.231.107:62724:1789547:6]KILL USER
+[53:54:-100][85.26.235.65:49344:1676978:6][ERROR]SendErrorMessage(UID:1676978, Protocol:0, BackProtocol:2567,timestamp(121), Error:800010af, KillReason:6)
+[53:56:-100][85.26.235.65:49344:1676978:6]KILL USER
+[54:08:-100][78.108.79.215:15366:1807541:6][ERROR]SendErrorMessage(UID:1807541, Protocol:0, BackProtocol:2563,timestamp(121), Error:800010af, KillReason:6)
+[54:10:-100][78.108.79.215:15366:1807541:6]KILL USER
+[54:14:-100][95.79.157.255:51717:1811791:6][ERROR]SendErrorMessage(UID:1811791, Protocol:0, BackProtocol:2567,timestamp(121), Error:800010af, KillReason:6)
+[54:16:-100][95.79.157.255:51717:1811791:6]KILL USER
+[54:16:-100][109.105.130.15:44236:-1:2][ERROR]SendErrorMessage(UID:-1, Protocol:0, BackProtocol:0,timestamp(161747), Error:800010af, KillReason:2)
+[54:17:-100][217.118.93.93:29876:1756386:6][ERROR]SendErrorMessage(UID:1756386, Protocol:0, BackProtocol:2563,timestamp(121), Error:800010af, KillReason:6)
+[54:18:-100][109.105.130.15:44236:-1:2]KILL USER
+[54:18:-100][77.40.25.235:64079:-1:2][ERROR]SendErrorMessage(UID:-1, Protocol:0, BackProtocol:0,timestamp(161749), Error:800010af, KillReason:2)
+[54:19:-100][217.118.93.93:29876:1756386:6]KILL USER
+[54:20:-100][77.40.25.235:64079:-1:2]KILL USER
+[54:47:-100][109.105.130.15:51424:-1:2][ERROR]SendErrorMessage(UID:-1, Protocol:0, BackProtocol:0,timestamp(161778), Error:800010af, KillReason:2)
+[54:49:-100][109.105.130.15:51424:-1:2]KILL USER
+[54:51:-100][77.35.189.24:31208:397774:6][ERROR]SendErrorMessage(UID:397774, Protocol:0, BackProtocol:2563,timestamp(121), Error:800010af, KillReason:6)
+[54:53:-100][77.35.189.24:31208:397774:6]KILL USER
+[55:14:-100][213.155.219.185:52740:-1:2][ERROR]SendErrorMessage(UID:-1, Protocol:0, BackProtocol:2563,timestamp(21), Error:800010af, KillReason:2)
+[55:16:-100][213.155.219.185:52740:-1:2]KILL USER
+[55:16:-100][109.105.130.15:42117:-1:2][ERROR]SendErrorMessage(UID:-1, Protocol:0, BackProtocol:0,timestamp(161807), Error:800010af, KillReason:2)
+[55:17:-100][10.33.50.50:8324:-1:2][ERROR]SendErrorMessage(UID:-1, Protocol:0, BackProtocol:0,timestamp(161808), Error:800010af, KillReason:2)
+[55:18:-100][109.105.130.15:42117:-1:2]KILL USER
+[55:19:-100][10.33.50.50:8324:-1:2]KILL USER
+[55:26:0001][93.157.168.24:54487:-1:7][ERROR]SendErrorMessage(UID:-1, Protocol:2565, BackProtocol:0,timestamp(161817), Error:80000003, KillReason:7)
+[55:26:-100][93.157.168.24:54487:-1:7]KILL USER
+[55:30:-100][178.65.130.64:9485:-1:2][ERROR]SendErrorMessage(UID:-1, Protocol:0, BackProtocol:0,timestamp(161821), Error:800010af, KillReason:2)
+[55:30:-100][178.65.130.64:9485:-1:2]KILL USER
+[55:47:-100][109.105.130.15:54681:-1:2][ERROR]SendErrorMessage(UID:-1, Protocol:0, BackProtocol:0,timestamp(161838), Error:800010af, KillReason:2)
+[55:49:-100][109.105.130.15:54681:-1:2]KILL USER
+[56:42:-100][85.26.186.98:33305:1828704:6][ERROR]SendErrorMessage(UID:1828704, Protocol:0, BackProtocol:2567,timestamp(121), Error:800010af, KillReason:6)
+[56:44:-100][85.26.186.98:33305:1828704:6]KILL USER
+[56:46:-100][109.105.130.15:22721:-1:2][ERROR]SendErrorMessage(UID:-1, Protocol:0, BackProtocol:0,timestamp(161897), Error:800010af, KillReason:2)
+[56:48:-100][109.105.130.15:22721:-1:2]KILL USER
+[57:16:-100][109.105.130.15:11989:-1:2][ERROR]SendErrorMessage(UID:-1, Protocol:0, BackProtocol:0,timestamp(161927), Error:800010af, KillReason:2)
+[57:18:-100][109.105.130.15:11989:-1:2]KILL USER
+[57:23:-100][178.76.50.104:28422:-1:2][ERROR]SendErrorMessage(UID:-1, Protocol:0, BackProtocol:0,timestamp(161934), Error:800010af, KillReason:2)
+[57:25:-100][178.76.50.104:28422:-1:2]KILL USER
+[57:47:-100][109.105.130.15:61580:-1:2][ERROR]SendErrorMessage(UID:-1, Protocol:0, BackProtocol:0,timestamp(161958), Error:800010af, KillReason:2)
+[57:49:-100][109.105.130.15:61580:-1:2]KILL USER
+[58:16:-100][109.105.130.15:52640:-1:2][ERROR]SendErrorMessage(UID:-1, Protocol:0, BackProtocol:0,timestamp(161987), Error:800010af, KillReason:2)
+[58:18:-100][109.105.130.15:52640:-1:2]KILL USER
+[58:47:-100][109.105.130.15:57781:-1:2][ERROR]SendErrorMessage(UID:-1, Protocol:0, BackProtocol:0,timestamp(162018), Error:800010af, KillReason:2)
+[58:49:-100][109.105.130.15:57781:-1:2]KILL USER
+[59:16:-100][109.105.130.15:14538:-1:2][ERROR]SendErrorMessage(UID:-1, Protocol:0, BackProtocol:0,timestamp(162047), Error:800010af, KillReason:2)
+[59:18:-100][109.105.130.15:14538:-1:2]KILL USER
+[59:46:-100][109.105.130.15:11485:-1:2][ERROR]SendErrorMessage(UID:-1, Protocol:0, BackProtocol:0,timestamp(162077), Error:800010af, KillReason:2)
+[59:48:-100][109.105.130.15:11485:-1:2]KILL USER
