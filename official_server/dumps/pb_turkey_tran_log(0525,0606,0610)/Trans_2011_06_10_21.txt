@@ -1,0 +1,267 @@
+-- COMPILE DATE : Ver:4/29, BuildDate:Jun  8 2011 11:14:15 --
+[00:09]AccountKick Fail - uid(0), 
+[00:27]AccountKick Fail - uid(0), 
+[00:34]AccountKick Fail - uid(0), 
+[00:38]AccountKick Fail - uid(0), 
+[01:29]PROTOCOL_ALIVE_USER_REQ NonUser : Server:2, SID:2367, DB(UID):47371
+[01:58]AccountKick Fail - uid(0), 
+[02:12]DB SLOW [5]GetMyInfo Delay(Insert:0) - Total:172, Basic:31, Record:141, Equipment:0, Mission:0
+[02:26]AccountKick Fail - uid(0), 
+[02:56]AccountKick Fail - uid(0), 
+[03:08]AccountKick Fail - uid(0), 
+[03:18]PROTOCOL_ALIVE_USER_REQ NonUser : Server:2, SID:2367, DB(UID):47371
+[03:36]#### [ERROR]_SaveUserInfo CheckNum UID:178262, UpdateInfo:8, State:4, Server:1
+[04:08]AccountKick Fail - uid(0), 
+[04:10]AccountKick Fail - uid(0), 
+[04:30]AccountKick Fail - uid(0), 
+[04:40]AccountKick Fail - uid(0), 
+[05:04]AccountKick Success- serverId(1) sessionIdx(1472), uid(63220), 
+[05:07]PROTOCOL_ALIVE_USER_REQ NonUser : Server:2, SID:2367, DB(UID):47371
+[05:42]AccountKick Success- serverId(2) sessionIdx(212), uid(65065), 
+[05:52]AccountKick Fail - uid(0), 
+[06:25]AccountKick Success- serverId(1) sessionIdx(336), uid(271801), 
+[06:29]AccountKick Fail - uid(0), 
+[06:35]AccountKick Fail - uid(0), 
+[06:43]AccountKick Fail - uid(0), 
+[06:57]PROTOCOL_ALIVE_USER_REQ NonUser : Server:2, SID:2367, DB(UID):47371
+[08:14]AccountKick Success- serverId(2) sessionIdx(2551), uid(122327), 
+[08:33]AccountKick Fail - uid(0), 
+[08:41]AccountKick Fail - uid(0), 
+[08:46]PROTOCOL_ALIVE_USER_REQ NonUser : Server:2, SID:2367, DB(UID):47371
+[08:46]AccountKick Success- serverId(3) sessionIdx(2212), uid(114839), 
+[09:19]DB SLOW [0]GetMyInfo Delay(Insert:0) - Total:203, Basic:172, Record:16, Equipment:0, Mission:15
+[09:27]AccountKick Fail - uid(0), 
+[09:59]DB SLOW [2]GetMyInfo Delay(Insert:0) - Total:219, Basic:63, Record:0, Equipment:15, Mission:141
+[10:00]DB SLOW [1]GetMyInfo Delay(Insert:0) - Total:157, Basic:63, Record:94, Equipment:0, Mission:0
+[10:04]DB SLOW [8]GetMyInfo Delay(Insert:0) - Total:156, Basic:78, Record:63, Equipment:0, Mission:15
+[10:20]AccountKick Fail - uid(0), 
+[10:21]AccountKick Success- serverId(1) sessionIdx(3346), uid(50302), 
+[10:24]DB SLOW [1]GetMyInfo Delay(Insert:0) - Total:235, Basic:31, Record:0, Equipment:110, Mission:94
+[10:35]PROTOCOL_ALIVE_USER_REQ NonUser : Server:2, SID:2367, DB(UID):47371
+[10:35]AccountKick Fail - uid(0), 
+[10:41]DB SLOW [8]GetMyInfo Delay(Insert:0) - Total:172, Basic:0, Record:16, Equipment:0, Mission:156
+[10:51]AccountKick Success- serverId(1) sessionIdx(3206), uid(234955), 
+[10:57]DB SLOW [1]GetMyInfo Delay(Insert:0) - Total:172, Basic:0, Record:157, Equipment:0, Mission:15
+[10:59]DB SLOW [5]GetMyInfo Delay(Insert:1) - Total:172, Basic:0, Record:31, Equipment:94, Mission:47
+[11:10]DB SLOW [9]GetMyInfo Delay(Insert:0) - Total:188, Basic:125, Record:0, Equipment:16, Mission:47
+[11:14]DB SLOW [8]GetMyInfo Delay(Insert:0) - Total:203, Basic:125, Record:0, Equipment:16, Mission:62
+[11:20]DB SLOW [5]GetMyInfo Delay(Insert:0) - Total:156, Basic:78, Record:0, Equipment:15, Mission:63
+[11:25]DB SLOW [8]GetMyInfo Delay(Insert:0) - Total:218, Basic:156, Record:47, Equipment:0, Mission:15
+[11:25]DB SLOW [4]GetMyInfo Delay(Insert:0) - Total:188, Basic:16, Record:0, Equipment:172, Mission:0
+[11:30]DB SLOW [4]GetMyInfo Delay(Insert:0) - Total:188, Basic:141, Record:0, Equipment:16, Mission:31
+[11:30]DB SLOW [9]GetMyInfo Delay(Insert:0) - Total:203, Basic:125, Record:0, Equipment:15, Mission:63
+[11:40]DB SLOW [6]GetMyInfo Delay(Insert:0) - Total:203, Basic:63, Record:0, Equipment:15, Mission:125
+[11:40]AccountKick Success- serverId(1) sessionIdx(3766), uid(12737), 
+[11:44]DB SLOW [6]GetMyInfo Delay(Insert:0) - Total:234, Basic:93, Record:0, Equipment:16, Mission:125
+[11:45]DB SLOW [9]GetMyInfo Delay(Insert:0) - Total:156, Basic:47, Record:0, Equipment:15, Mission:94
+[11:49]DB SLOW [3]GetMyInfo Delay(Insert:0) - Total:203, Basic:109, Record:0, Equipment:16, Mission:78
+[11:50]AccountKick Fail - uid(0), 
+[11:55]DB SLOW [9]GetMyInfo Delay(Insert:0) - Total:266, Basic:219, Record:0, Equipment:16, Mission:31
+[12:03]AccountKick Success- serverId(1) sessionIdx(3809), uid(65347), 
+[12:03]DB SLOW [0]GetMyInfo Delay(Insert:0) - Total:250, Basic:141, Record:0, Equipment:16, Mission:93
+[12:04]DB SLOW [1]GetMyInfo Delay(Insert:0) - Total:203, Basic:0, Record:187, Equipment:0, Mission:16
+[12:04]DB SLOW [2]GetMyInfo Delay(Insert:0) - Total:422, Basic:407, Record:0, Equipment:15, Mission:0
+[12:17]DB SLOW [9]GetMyInfo Delay(Insert:0) - Total:156, Basic:31, Record:0, Equipment:16, Mission:109
+[12:22]DB SLOW [3]GetMyInfo Delay(Insert:0) - Total:219, Basic:203, Record:0, Equipment:16, Mission:0
+[12:22]DB SLOW [1]GetMyInfo Delay(Insert:0) - Total:391, Basic:360, Record:0, Equipment:15, Mission:16
+[12:28]DB SLOW [6]GetMyInfo Delay(Insert:0) - Total:157, Basic:78, Record:16, Equipment:0, Mission:63
+[12:29]DB SLOW [2]GetMyInfo Delay(Insert:0) - Total:203, Basic:31, Record:16, Equipment:0, Mission:156
+[12:30]DB SLOW [0]GetMyInfo Delay(Insert:1) - Total:282, Basic:16, Record:0, Equipment:266, Mission:0
+[12:31]DB SLOW [5]GetMyInfo Delay(Insert:0) - Total:172, Basic:0, Record:156, Equipment:0, Mission:16
+[12:35]DB SLOW [7]GetMyInfo Delay(Insert:0) - Total:281, Basic:266, Record:0, Equipment:15, Mission:0
+[12:37]DB SLOW [1]GetMyInfo Delay(Insert:0) - Total:219, Basic:94, Record:0, Equipment:16, Mission:109
+[12:40]DB SLOW [3]GetMyInfo Delay(Insert:0) - Total:172, Basic:157, Record:0, Equipment:15, Mission:0
+[12:40]DB SLOW [9]GetMyInfo Delay(Insert:0) - Total:172, Basic:47, Record:0, Equipment:16, Mission:109
+[12:42]DB SLOW [3]GetMyInfo Delay(Insert:0) - Total:187, Basic:0, Record:172, Equipment:0, Mission:15
+[12:42]DB SLOW [8]GetMyInfo Delay(Insert:0) - Total:188, Basic:110, Record:15, Equipment:0, Mission:63
+[12:43]DB SLOW [7]GetMyInfo Delay(Insert:0) - Total:156, Basic:141, Record:0, Equipment:15, Mission:0
+[12:48]AccountKick Fail - uid(0), 
+[12:49]DB SLOW [1]GetMyInfo Delay(Insert:0) - Total:172, Basic:141, Record:0, Equipment:15, Mission:16
+[12:54]DB SLOW [3]GetMyInfo Delay(Insert:0) - Total:250, Basic:218, Record:0, Equipment:16, Mission:16
+[12:57]DB SLOW [2]GetMyInfo Delay(Insert:0) - Total:344, Basic:329, Record:0, Equipment:15, Mission:0
+[12:58]DB SLOW [8]GetMyInfo Delay(Insert:0) - Total:375, Basic:266, Record:0, Equipment:16, Mission:93
+[12:58]DB SLOW [9]GetMyInfo Delay(Insert:0) - Total:203, Basic:172, Record:15, Equipment:0, Mission:16
+[12:58]DB SLOW [6]GetMyInfo Delay(Insert:0) - Total:266, Basic:47, Record:16, Equipment:0, Mission:203
+[13:03]DB SLOW [0]GetMyInfo Delay(Insert:0) - Total:203, Basic:109, Record:16, Equipment:0, Mission:78
+[13:05]AccountKick Fail - uid(0), 
+[13:08]DB SLOW [1]GetMyInfo Delay(Insert:0) - Total:250, Basic:234, Record:0, Equipment:16, Mission:0
+[13:11]DB SLOW [5]GetMyInfo Delay(Insert:0) - Total:329, Basic:219, Record:0, Equipment:16, Mission:94
+[13:11]DB SLOW [5]GetMyInfo Delay(Insert:0) - Total:171, Basic:15, Record:0, Equipment:156, Mission:0
+[13:13]DB SLOW [8]GetMyInfo Delay(Insert:0) - Total:171, Basic:46, Record:0, Equipment:16, Mission:109
+[13:13]DB SLOW [1]GetMyInfo Delay(Insert:0) - Total:203, Basic:62, Record:0, Equipment:16, Mission:125
+[13:24]DB SLOW [6]GetMyInfo Delay(Insert:0) - Total:156, Basic:141, Record:0, Equipment:15, Mission:0
+[13:26]DB SLOW [3]GetMyInfo Delay(Insert:0) - Total:203, Basic:78, Record:109, Equipment:16, Mission:0
+[13:36]DB SLOW [2]GetMyInfo Delay(Insert:0) - Total:156, Basic:0, Record:141, Equipment:0, Mission:15
+[13:47]DB SLOW [6]GetMyInfo Delay(Insert:0) - Total:156, Basic:78, Record:15, Equipment:0, Mission:63
+[13:48]AccountKick Fail - uid(0), 
+[13:49]AccountKick Fail - uid(0), 
+[13:51]DB SLOW [4]GetMyInfo Delay(Insert:0) - Total:203, Basic:15, Record:125, Equipment:0, Mission:63
+[13:51]DB SLOW [1]GetMyInfo Delay(Insert:0) - Total:203, Basic:32, Record:15, Equipment:0, Mission:156
+[13:55]DB SLOW [1]GetMyInfo Delay(Insert:1) - Total:172, Basic:156, Record:16, Equipment:0, Mission:0
+[14:04]AccountKick Success- serverId(2) sessionIdx(2090), uid(12737), 
+[14:14]DB SLOW [6]GetMyInfo Delay(Insert:0) - Total:219, Basic:16, Record:187, Equipment:0, Mission:16
+[14:16]DB SLOW [1]GetMyInfo Delay(Insert:0) - Total:234, Basic:47, Record:15, Equipment:0, Mission:172
+[14:20]DB SLOW [4]GetMyInfo Delay(Insert:0) - Total:219, Basic:94, Record:16, Equipment:0, Mission:109
+[14:20]DB SLOW [3]GetMyInfo Delay(Insert:0) - Total:266, Basic:63, Record:0, Equipment:15, Mission:188
+[14:22]DB SLOW [3]GetMyInfo Delay(Insert:0) - Total:204, Basic:188, Record:0, Equipment:16, Mission:0
+[14:23]DB SLOW [8]GetMyInfo Delay(Insert:0) - Total:203, Basic:172, Record:15, Equipment:0, Mission:16
+[14:26]AccountKick Fail - uid(0), 
+[14:31]DB SLOW [8]GetMyInfo Delay(Insert:0) - Total:203, Basic:141, Record:16, Equipment:31, Mission:15
+[15:12]AccountKick Fail - uid(0), 
+[15:13]AccountKick Fail - uid(0), 
+[15:16]AccountKick Fail - uid(0), 
+[15:16]AccountKick Success- serverId(2) sessionIdx(2182), uid(87212), 
+[16:15]AccountKick Fail - uid(0), 
+[16:17]AccountKick Success- serverId(2) sessionIdx(2275), uid(12737), 
+[16:56]AccountKick Success- serverId(1) sessionIdx(313), uid(66996), 
+[17:06]AccountKick Fail - uid(0), 
+[17:10]AccountKick Fail - uid(0), 
+[17:15]AccountKick Success- serverId(1) sessionIdx(952), uid(34053), 
+[17:40]AccountKick Fail - uid(0), 
+[17:43]PROTOCOL_ALIVE_USER_REQ NonUser : Server:2, SID:2024, DB(UID):47371
+[19:06]AccountKick Fail - uid(0), 
+[19:08]AccountKick Fail - uid(0), 
+[19:20]AccountKick Fail - uid(0), 
+[19:32]AccountKick Fail - uid(0), 
+[19:32]PROTOCOL_ALIVE_USER_REQ NonUser : Server:2, SID:2024, DB(UID):47371
+[20:00]AccountKick Fail - uid(0), 
+[20:22]AccountKick Fail - uid(0), 
+[20:28]AccountKick Fail - uid(0), 
+[20:54]AccountKick Fail - uid(0), 
+[21:16]AccountKick Success- serverId(1) sessionIdx(1008), uid(265651), 
+[21:21]PROTOCOL_ALIVE_USER_REQ NonUser : Server:2, SID:2024, DB(UID):47371
+[21:43]AccountKick Success- serverId(2) sessionIdx(2838), uid(50351), 
+[22:23]AccountKick Fail - uid(0), 
+[22:37]AccountKick Fail - uid(0), 
+[23:07]AccountKick Fail - uid(0), 
+[23:08]AccountKick Fail - uid(0), 
+[23:11]PROTOCOL_ALIVE_USER_REQ NonUser : Server:2, SID:2024, DB(UID):47371
+[23:14]AccountKick Success- serverId(1) sessionIdx(3634), uid(126231), 
+[23:29]AccountKick Success- serverId(2) sessionIdx(3422), uid(85973), 
+[23:36]AccountKick Success- serverId(1) sessionIdx(1965), uid(274466), 
+[24:10]AccountKick Success- serverId(1) sessionIdx(893), uid(9846), 
+[24:37]AccountKick Fail - uid(0), 
+[25:00]PROTOCOL_ALIVE_USER_REQ NonUser : Server:2, SID:2024, DB(UID):47371
+[25:46]AccountKick Success- serverId(2) sessionIdx(1862), uid(73574), 
+[26:23]AccountKick Fail - uid(0), 
+[26:49]PROTOCOL_ALIVE_USER_REQ NonUser : Server:2, SID:2024, DB(UID):47371
+[26:52]AccountKick Fail - uid(0), 
+[27:17]AccountKick Fail - uid(0), 
+[27:17]AccountKick Fail - uid(0), 
+[27:57]AccountKick Fail - uid(0), 
+[28:12]AccountKick Fail - uid(0), 
+[28:27]AccountKick Fail - uid(0), 
+[28:38]PROTOCOL_ALIVE_USER_REQ NonUser : Server:2, SID:2024, DB(UID):47371
+[28:52]AccountKick Success- serverId(1) sessionIdx(220), uid(49117), 
+[28:53]AccountKick Success- serverId(1) sessionIdx(2287), uid(38705), 
+[28:56]AccountKick Success- serverId(2) sessionIdx(4272), uid(106013), 
+[29:06]Kill User AlivePacket TimeOut Server = 1 SessionIdx = 1475 UID = 44387
+[29:06]AccountKick Fail - uid(0), 
+[29:10]Kill User Leave Server TimeOut = 1 SessionIdx = 2776 UID = 187099
+[29:26]AccountKick Fail - uid(0), 
+[29:31]AccountKick Fail - uid(0), 
+[30:10]AccountKick Fail - uid(0), 
+[30:27]PROTOCOL_ALIVE_USER_REQ NonUser : Server:2, SID:2024, DB(UID):47371
+[30:41]AccountKick Success- serverId(1) sessionIdx(964), uid(30843), 
+[30:42]AccountKick Success- serverId(1) sessionIdx(1976), uid(249811), 
+[30:49]AccountKick Success- serverId(0) sessionIdx(4137), uid(213649), 
+[31:31]AccountKick Fail - uid(0), 
+[32:16]AccountKick Success- serverId(1) sessionIdx(3434), uid(99761), 
+[32:16]PROTOCOL_ALIVE_USER_REQ NonUser : Server:2, SID:2024, DB(UID):47371
+[32:31]AccountKick Fail - uid(0), 
+[32:32][ERROR]USER_LEAVE STATE Error Server=0, iUID=263512, State=6
+[34:06]PROTOCOL_ALIVE_USER_REQ NonUser : Server:2, SID:2024, DB(UID):47371
+[34:25]AccountKick Fail - uid(0), 
+[34:39]AccountKick Fail - uid(0), 
+[34:44]AccountKick Fail - uid(0), 
+[34:44]AccountKick Fail - uid(0), 
+[35:28]AccountKick Success- serverId(1) sessionIdx(84), uid(12860), 
+[35:55]PROTOCOL_ALIVE_USER_REQ NonUser : Server:2, SID:2024, DB(UID):47371
+[36:34]AccountKick Fail - uid(0), 
+[37:18]Kill User Leave Server TimeOut = 2 SessionIdx = 37 UID = 140578
+[37:30]AccountKick Fail - uid(0), 
+[37:44]PROTOCOL_ALIVE_USER_REQ NonUser : Server:2, SID:2024, DB(UID):47371
+[37:53]AccountKick Fail - uid(0), 
+[38:03]AccountKick Fail - uid(0), 
+[38:05]DB SLOW [6]GetMyInfo Delay(Insert:0) - Total:156, Basic:15, Record:63, Equipment:62, Mission:16
+[38:23]AccountKick Success- serverId(2) sessionIdx(3866), uid(24997), 
+[39:08]AccountKick Fail - uid(0), 
+[39:26]AccountKick Fail - uid(0), 
+[39:33]PROTOCOL_ALIVE_USER_REQ NonUser : Server:2, SID:2024, DB(UID):47371
+[39:44]AccountKick Fail - uid(0), 
+[39:51]AccountKick Fail - uid(0), 
+[39:58]AccountKick Success- serverId(2) sessionIdx(2867), uid(34053), 
+[40:43]AccountKick Fail - uid(0), 
+[40:44]AccountKick Fail - uid(0), 
+[41:22]PROTOCOL_ALIVE_USER_REQ NonUser : Server:2, SID:2024, DB(UID):47371
+[42:28]AccountKick Success- serverId(2) sessionIdx(151), uid(170818), 
+[43:11]PROTOCOL_ALIVE_USER_REQ NonUser : Server:2, SID:2024, DB(UID):47371
+[43:51]AccountKick Fail - uid(0), 
+[45:01]PROTOCOL_ALIVE_USER_REQ NonUser : Server:2, SID:2024, DB(UID):47371
+[45:09]AccountKick Fail - uid(0), 
+[45:46]AccountKick Fail - uid(0), 
+[46:02]AccountKick Fail - uid(0), 
+[46:42]AccountKick Success- serverId(1) sessionIdx(2613), uid(268461), 
+[46:50]PROTOCOL_ALIVE_USER_REQ NonUser : Server:2, SID:2024, DB(UID):47371
+[47:08]AccountKick Fail - uid(0), 
+[47:25]AccountKick Fail - uid(0), 
+[48:39]PROTOCOL_ALIVE_USER_REQ NonUser : Server:2, SID:2024, DB(UID):47371
+[48:50]AccountKick Success- serverId(1) sessionIdx(1753), uid(82068), 
+[49:09]AccountKick Fail - uid(0), 
+[50:06]AccountKick Fail - uid(0), 
+[50:13]AccountKick Fail - uid(0), 
+[50:18]AccountKick Success- serverId(2) sessionIdx(1561), uid(237337), 
+[50:28]PROTOCOL_ALIVE_USER_REQ NonUser : Server:2, SID:2024, DB(UID):47371
+[51:25]AccountKick Fail - uid(0), 
+[51:44]AccountKick Fail - uid(0), 
+[52:17]PROTOCOL_ALIVE_USER_REQ NonUser : Server:2, SID:2024, DB(UID):47371
+[52:49]AccountKick Fail - uid(0), 
+[54:07]PROTOCOL_ALIVE_USER_REQ NonUser : Server:2, SID:2024, DB(UID):47371
+[54:14]AccountKick Fail - uid(0), 
+[54:58]AccountKick Fail - uid(0), 
+[55:56]PROTOCOL_ALIVE_USER_REQ NonUser : Server:2, SID:2024, DB(UID):47371
+[56:17]AccountKick Success- serverId(0) sessionIdx(3527), uid(209137), 
+[56:27]AccountKick Fail - uid(0), 
+[57:12]DB SLOW [1]GetMyInfo Delay(Insert:0) - Total:188, Basic:141, Record:31, Equipment:16, Mission:0
+[57:17]DB SLOW [6]GetMyInfo Delay(Insert:0) - Total:282, Basic:0, Record:0, Equipment:282, Mission:0
+[57:21]DB SLOW [7]GetMyInfo Delay(Insert:0) - Total:156, Basic:110, Record:31, Equipment:15, Mission:0
+[57:22]DB SLOW [6]GetMyInfo Delay(Insert:0) - Total:172, Basic:16, Record:0, Equipment:140, Mission:16
+[57:22]DB SLOW [9]GetMyInfo Delay(Insert:0) - Total:281, Basic:188, Record:0, Equipment:0, Mission:93
+[57:28]AccountKick Success- serverId(2) sessionIdx(885), uid(211242), 
+[57:32]AccountKick Fail - uid(0), 
+[57:33]DB SLOW [5]GetMyInfo Delay(Insert:0) - Total:281, Basic:265, Record:0, Equipment:0, Mission:16
+[57:37]DB SLOW [4]GetMyInfo Delay(Insert:0) - Total:468, Basic:453, Record:0, Equipment:15, Mission:0
+[57:37]DB SLOW [2]GetMyInfo Delay(Insert:0) - Total:407, Basic:391, Record:16, Equipment:0, Mission:0
+[57:41]DB SLOW [1]GetMyInfo Delay(Insert:0) - Total:187, Basic:140, Record:0, Equipment:0, Mission:47
+[57:43]DB SLOW [2]GetMyInfo Delay(Insert:0) - Total:218, Basic:203, Record:15, Equipment:0, Mission:0
+[57:45]PROTOCOL_ALIVE_USER_REQ NonUser : Server:2, SID:2024, DB(UID):47371
+[57:55]DB SLOW [2]GetMyInfo Delay(Insert:0) - Total:313, Basic:110, Record:0, Equipment:0, Mission:203
+[57:55]DB SLOW [3]GetMyInfo Delay(Insert:1) - Total:250, Basic:94, Record:16, Equipment:140, Mission:0
+[58:06]DB SLOW [5]GetMyInfo Delay(Insert:0) - Total:266, Basic:125, Record:0, Equipment:0, Mission:141
+[58:09]DB SLOW [3]GetMyInfo Delay(Insert:0) - Total:172, Basic:0, Record:0, Equipment:16, Mission:156
+[58:11]DB SLOW [9]GetMyInfo Delay(Insert:0) - Total:171, Basic:156, Record:15, Equipment:0, Mission:0
+[58:13]DB SLOW [1]GetMyInfo Delay(Insert:0) - Total:344, Basic:63, Record:0, Equipment:0, Mission:281
+[58:14]DB SLOW [1]GetMyInfo Delay(Insert:0) - Total:157, Basic:94, Record:0, Equipment:0, Mission:63
+[58:14]DB SLOW [3]GetMyInfo Delay(Insert:0) - Total:219, Basic:47, Record:0, Equipment:0, Mission:172
+[58:15]DB SLOW [0]GetMyInfo Delay(Insert:0) - Total:156, Basic:62, Record:16, Equipment:0, Mission:78
+[58:26]DB SLOW [7]GetMyInfo Delay(Insert:0) - Total:234, Basic:62, Record:0, Equipment:0, Mission:172
+[58:37]DB SLOW [5]GetMyInfo Delay(Insert:0) - Total:250, Basic:0, Record:234, Equipment:16, Mission:0
+[58:45]DB SLOW [0]GetMyInfo Delay(Insert:0) - Total:156, Basic:78, Record:0, Equipment:0, Mission:78
+[58:56]DB SLOW [7]GetMyInfo Delay(Insert:0) - Total:313, Basic:47, Record:0, Equipment:0, Mission:266
+[58:56]AccountKick Fail - uid(0), 
+[58:58]DB SLOW [7]GetMyInfo Delay(Insert:0) - Total:171, Basic:125, Record:0, Equipment:0, Mission:46
+[59:04]DB SLOW [3]GetMyInfo Delay(Insert:0) - Total:218, Basic:78, Record:0, Equipment:0, Mission:140
+[59:09]DB SLOW [2]GetMyInfo Delay(Insert:0) - Total:187, Basic:47, Record:0, Equipment:0, Mission:140
+[59:10]DB SLOW [9]GetMyInfo Delay(Insert:0) - Total:172, Basic:94, Record:0, Equipment:0, Mission:78
+[59:21]DB SLOW [2]GetMyInfo Delay(Insert:0) - Total:172, Basic:47, Record:0, Equipment:0, Mission:125
+[59:21]DB SLOW [7]GetMyInfo Delay(Insert:1) - Total:172, Basic:156, Record:0, Equipment:16, Mission:0
+[59:28]DB SLOW [4]GetMyInfo Delay(Insert:0) - Total:235, Basic:203, Record:0, Equipment:0, Mission:32
+[59:31]DB SLOW [4]GetMyInfo Delay(Insert:0) - Total:250, Basic:125, Record:0, Equipment:0, Mission:125
+[59:33]DB SLOW [2]GetMyInfo Delay(Insert:0) - Total:172, Basic:110, Record:0, Equipment:0, Mission:62
+[59:33]DB SLOW [3]GetMyInfo Delay(Insert:0) - Total:250, Basic:0, Record:234, Equipment:16, Mission:0
+[59:34]PROTOCOL_ALIVE_USER_REQ NonUser : Server:2, SID:2024, DB(UID):47371
+[59:42]DB SLOW [9]GetMyInfo Delay(Insert:0) - Total:157, Basic:63, Record:0, Equipment:0, Mission:94
+[59:44]AccountKick Success- serverId(1) sessionIdx(1695), uid(50351), 
+[59:45]DB SLOW [0]GetMyInfo Delay(Insert:0) - Total:156, Basic:109, Record:0, Equipment:0, Mission:47
+[59:58]DB SLOW [4]GetMyInfo Delay(Insert:0) - Total:156, Basic:0, Record:156, Equipment:0, Mission:0
+[59:58]DB SLOW [6]GetMyInfo Delay(Insert:0) - Total:157, Basic:63, Record:0, Equipment:94, Mission:0

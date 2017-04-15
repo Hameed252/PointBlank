@@ -1,0 +1,109 @@
+-- COMPILE DATE : Ver:6/10, BuildDate:Jun 29 2011 11:22:08, BuildVer:DIST --
+[47:48:-100][S][INIT] Create System Query 
+[47:48:-100][S][CDataBase::OnCreate] DataBase Connect Success
+[47:48:-100][S][INIT] Create Database 
+[47:48:-100][S][INIT] Create Control Module
+[47:48:-100][S]---------------- START GAME SERVER ---------------------
+[47:48:-201][S]CONTROL SERVER CONNECT MESSAGE RECV
+[47:48:-100][S][START] Create Module Trans
+[47:48:-202][S]AUTH SERVER CONNECT MESSAGE RECV
+[47:48:-100][S][START] Create Module Clan
+[47:48:-203][S]CLAN SERVER CONNECT MESSAGE RECV
+[47:48:-100][S][START] Create Module Messenger
+[47:49:-100][S][START] Load Quest
+[47:49:-204][S]MESSENGER SERVER CONNECT MESSAGE RECV
+[47:49:-100][S]LOG MODULE CONNECT SUCCESS
+[47:49:-100][S]MODULE_B(NC LOG_D, NC GIP) CONTEXT READY!
+[47:49:-100][S][START] Create NC Module
+[47:49:-100][S][START] Success GameGuard Ahn HackShield
+[47:49:-100][S][START] Create ServerContext
+[47:49:-202][S]Shop Update - Ver:6, ItemCount:596, Goods:646, Matching:764
+[49:32:-100][78.175.243.179:36801:91798:3][ERROR]SendErrorMessage(UID:91798, Protocol:0, BackProtocol:2819,timestamp(34), Error:800010ae, KillReason:3)
+[49:34:-100][78.175.243.179:36801:91798:3]KILL USER
+[50:08:-100][109.239.23.43:56513:45947:3][ERROR]SendErrorMessage(UID:45947, Protocol:0, BackProtocol:3329,timestamp(63), Error:800010ae, KillReason:3)
+[50:08:-100][188.253.135.94:51649:301610:0]KILL USER
+[50:10:-100][109.239.23.43:56513:45947:3]KILL USER
+[50:37:-100][109.239.23.43:27330:64499:3][ERROR]SendErrorMessage(UID:64499, Protocol:0, BackProtocol:2584,timestamp(91), Error:800010ae, KillReason:3)
+[50:39:-100][109.239.23.43:27330:64499:3]KILL USER
+[50:41:-100][85.100.227.62:59141:144799:0]KILL USER
+[51:00:-100][78.166.156.13:13302:-1:2][ERROR]SendErrorMessage(UID:-1, Protocol:0, BackProtocol:0,timestamp(6), Error:800010af, KillReason:2)
+[51:01:-100][78.179.9.11:27072:303488:0]KILL USER
+[51:02:-100][78.166.156.13:13302:-1:2]KILL USER
+[51:26:-100][85.108.6.102:31170:188124:0]KILL USER
+[52:00:-100][S]Battle End - ChannelIdx:2, RoomIdx:2
+[52:00:-100][S]Battle End - ChannelIdx:3, RoomIdx:0
+[52:28:-100][78.166.195.206:25385:36336:0]KILL USER
+[52:35:-202][S]Battle SupplyBox Result - Channel:0, Room:3, BattleMember:2
+
+[52:35:-100][S]Battle End - ChannelIdx:0, RoomIdx:3
+[52:38:-100][88.234.164.191:11086:2447:0]KILL USER
+[53:03:-100][85.108.33.91:1740:47584:0]KILL USER
+[53:09:-100][85.102.240.210:59961:25638:0]KILL USER
+[53:16:-100][94.20.70.158:50759:87672:0]KILL USER
+[53:20:-100][S]Battle End - ChannelIdx:2, RoomIdx:2
+[53:47:0031][95.13.33.188:14021:183393:7][ERROR]SendErrorMessage(UID:183393, Protocol:2827, BackProtocol:2827,timestamp(0), Error:80000001, KillReason:7)
+[53:49:-100][95.13.33.188:14021:183393:7]KILL USER
+[53:52:-100][78.190.28.127:5825:76778:0]KILL USER
+[53:57:-100][95.9.191.68:59182:301595:0]KILL USER
+[53:58:-100][88.254.151.112:43375:178094:0]KILL USER
+[54:12:-202][S]Battle SupplyBox Result - Channel:2, Room:0, BattleMember:16
+
+[54:12:-100][S]Battle End - ChannelIdx:2, RoomIdx:0
+[54:18:-202][S]Battle SupplyBox Result - Channel:2, Room:1, BattleMember:16
+
+[54:18:-100][S]Battle End - ChannelIdx:2, RoomIdx:1
+[54:25:-100][S]Battle End - ChannelIdx:2, RoomIdx:2
+[54:58:-100][88.251.238.80:47553:127766:0]KILL USER
+[55:19:-100][88.247.94.116:11526:183077:0]KILL USER
+[55:23:-100][78.188.29.221:26872:250355:0]KILL USER
+[55:24:-100][94.54.135.93:18437:46667:0]KILL USER
+[55:26:-100][88.224.153.82:8202:16589:0]KILL USER
+[55:40:-202][S]Battle SupplyBox Result - Channel:2, Room:8, BattleMember:15
+
+[55:40:-100][S]Battle End - ChannelIdx:2, RoomIdx:8
+[55:51:-100][78.170.79.147:46598:79636:0]KILL USER
+[56:02:-100][109.239.23.79:26663:147601:0]KILL USER
+[56:17:-100][88.226.21.185:30912:315399:0]KILL USER
+[56:21:-100][S]Battle End - ChannelIdx:5, RoomIdx:0
+[56:25:-100][78.169.188.49:40384:33630:0]KILL USER
+[56:32:-100][S]Battle End - ChannelIdx:2, RoomIdx:13
+[57:13:-202][S]Battle SupplyBox Result - Channel:0, Room:0, BattleMember:2
+
+[57:13:-100][S]Battle End - ChannelIdx:0, RoomIdx:0
+[57:19:-100][95.9.80.228:27140:122077:0]KILL USER
+[57:33:-100][95.10.141.144:62811:141464:0]KILL USER
+[57:36:-100][88.243.167.66:13248:126942:3][ERROR]SendErrorMessage(UID:126942, Protocol:0, BackProtocol:3884,timestamp(38), Error:800010ae, KillReason:3)
+[57:37:-100][S]Battle End - ChannelIdx:2, RoomIdx:2
+[57:38:-100][88.243.167.66:13248:126942:3]KILL USER
+[57:42:-100][S]Battle End - ChannelIdx:2, RoomIdx:16
+[57:50:-100][94.20.70.158:8010:87672:0]KILL USER
+[57:57:-100][85.101.182.152:3696:252694:0]KILL USER
+[58:10:-202][S]Battle SupplyBox Result - Channel:2, Room:10, BattleMember:7
+
+[58:10:-100][S]Battle End - ChannelIdx:2, RoomIdx:10
+[58:11:-100][95.7.119.96:64462:122596:0]KILL USER
+[58:17:-100][94.20.84.121:9408:296739:0]KILL USER
+[58:41:-100][85.108.6.102:40642:188124:0]KILL USER
+[58:45:-100][78.181.2.230:33285:315377:0]KILL USER
+[58:55:-202][S]Battle SupplyBox Result - Channel:2, Room:17, BattleMember:2
+
+[58:55:-100][S]Battle End - ChannelIdx:2, RoomIdx:17
+[58:59:-100][78.171.3.25:54362:276412:0]KILL USER
+[58:59:-202][S]Battle SupplyBox Result - Channel:2, Room:1, BattleMember:15
+
+[58:59:-100][S]Battle End - ChannelIdx:2, RoomIdx:1
+[59:06:-100][95.10.92.233:29189:39445:0]KILL USER
+[59:19:-100][88.234.42.84:10432:258341:0]KILL USER
+[59:29:-100][88.241.80.220:18437:22996:0]KILL USER
+[59:34:-100][78.167.242.7:43208:267087:0]KILL USER
+[59:40:-100][95.7.119.96:10959:122596:0]KILL USER
+[59:41:-202][S]Battle SupplyBox Result - Channel:0, Room:1, BattleMember:9
+
+[59:41:-100][S]Battle End - ChannelIdx:0, RoomIdx:1
+[59:41:-100][81.214.219.201:28608:242303:0]KILL USER
+[59:42:-100][88.228.121.56:53258:306629:14][ERROR]SendErrorMessage(UID:306629, Protocol:0, BackProtocol:3884,timestamp(60), Error:800010ad, KillReason:14)
+[59:44:-100][88.228.121.56:53258:306629:14]KILL USER
+[59:57:-202][S]Battle SupplyBox Result - Channel:2, Room:8, BattleMember:16
+
+[59:57:-100][S]Battle End - ChannelIdx:2, RoomIdx:8
+[59:57:-100][85.98.241.115:3011:117188:0]KILL USER

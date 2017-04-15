@@ -1,0 +1,98 @@
+-- COMPILE DATE : Ver:4/29, BuildDate:Jun  8 2011 11:14:15 --
+[00:00]DB SLOW [6]GetMyInfo Delay(Insert:0) - Total:391, Basic:282, Record:0, Equipment:0, Mission:109
+[00:06]DB SLOW [6]GetMyInfo Delay(Insert:0) - Total:156, Basic:0, Record:156, Equipment:0, Mission:0
+[00:10]DB SLOW [7]GetMyInfo Delay(Insert:0) - Total:203, Basic:94, Record:0, Equipment:0, Mission:109
+[00:13]DB SLOW [5]GetMyInfo Delay(Insert:0) - Total:172, Basic:78, Record:0, Equipment:0, Mission:94
+[00:20]AccountKick Fail - uid(0), 
+[00:49]DB SLOW [9]GetMyInfo Delay(Insert:0) - Total:156, Basic:110, Record:0, Equipment:0, Mission:46
+[00:49]DB SLOW [0]GetMyInfo Delay(Insert:0) - Total:187, Basic:0, Record:0, Equipment:0, Mission:187
+[00:56]AccountKick Fail - uid(0), 
+[01:12]AccountKick Fail - uid(0), 
+[01:23]PROTOCOL_ALIVE_USER_REQ NonUser : Server:2, SID:2024, DB(UID):47371
+[01:29]Kill User Leave Server TimeOut = 0 SessionIdx = 4003 UID = 71146
+[01:29]Kill User Leave Server TimeOut = 0 SessionIdx = 38 UID = 35533
+[01:36]AccountKick Success- serverId(2) sessionIdx(3267), uid(119244), 
+[01:44]AccountKick Fail - uid(0), 
+[03:12]PROTOCOL_ALIVE_USER_REQ NonUser : Server:2, SID:2024, DB(UID):47371
+[03:45]AccountKick Fail - uid(0), 
+[04:03]AccountKick Fail - uid(0), 
+[04:24]AccountKick Fail - uid(0), 
+[04:26]AccountKick Fail - uid(0), 
+[05:02]PROTOCOL_ALIVE_USER_REQ NonUser : Server:2, SID:2024, DB(UID):47371
+[05:24]AccountKick Success- serverId(1) sessionIdx(282), uid(267354), 
+[05:59]DB SLOW [9]GetMyInfo Delay(Insert:0) - Total:157, Basic:16, Record:125, Equipment:0, Mission:16
+[06:17]AccountKick Fail - uid(0), 
+[06:51]PROTOCOL_ALIVE_USER_REQ NonUser : Server:2, SID:2024, DB(UID):47371
+[07:05]AccountKick Fail - uid(0), 
+[07:21]AccountKick Fail - uid(0), 
+[07:40]AccountKick Fail - uid(0), 
+[08:09]AccountKick Fail - uid(0), 
+[08:10]AccountKick Fail - uid(0), 
+[08:40]PROTOCOL_ALIVE_USER_REQ NonUser : Server:2, SID:2024, DB(UID):47371
+[08:45]AccountKick Fail - uid(0), 
+[09:31]Kill User Leave Server TimeOut = 0 SessionIdx = 913 UID = 258945
+[09:32]Kill User Leave Server TimeOut = 0 SessionIdx = 1329 UID = 278231
+[09:37]AccountKick Success- serverId(1) sessionIdx(510), uid(74736), 
+[10:20]AccountKick Fail - uid(0), 
+[10:29]PROTOCOL_ALIVE_USER_REQ NonUser : Server:2, SID:2024, DB(UID):47371
+[10:36]AccountKick Success- serverId(2) sessionIdx(3115), uid(271801), 
+[10:46]AccountKick Fail - uid(0), 
+[10:59]AccountKick Fail - uid(0), 
+[11:06]AccountKick Fail - uid(0), 
+[11:17]AccountKick Success- serverId(1) sessionIdx(1382), uid(39577), 
+[11:41]AccountKick Success- serverId(2) sessionIdx(3494), uid(149939), 
+[12:00]AccountKick Success- serverId(0) sessionIdx(1297), uid(91113), 
+[12:05]AccountKick Fail - uid(0), 
+[12:18]PROTOCOL_ALIVE_USER_REQ NonUser : Server:2, SID:2024, DB(UID):47371
+[12:21]AccountKick Fail - uid(0), 
+[13:25]AccountKick Success- serverId(1) sessionIdx(1029), uid(162215), 
+[13:56]DB SLOW [9]GetMyInfo Delay(Insert:0) - Total:156, Basic:16, Record:125, Equipment:15, Mission:0
+[13:56]AccountKick Fail - uid(0), 
+[14:00]AccountKick Fail - uid(0), 
+[14:04]AccountKick Fail - uid(0), 
+[14:07]AccountKick Fail - uid(0), 
+[14:08]PROTOCOL_ALIVE_USER_REQ NonUser : Server:2, SID:2024, DB(UID):47371
+[14:59]AccountKick Success- serverId(2) sessionIdx(4049), uid(40768), 
+[15:38]AccountKick Fail - uid(0), 
+[15:57]PROTOCOL_ALIVE_USER_REQ NonUser : Server:2, SID:2024, DB(UID):47371
+[16:29]AccountKick Success- serverId(2) sessionIdx(3837), uid(271801), 
+[17:46]PROTOCOL_ALIVE_USER_REQ NonUser : Server:2, SID:2024, DB(UID):47371
+[17:55]AccountKick Success- serverId(2) sessionIdx(1722), uid(267725), 
+[19:34]AccountKick Fail - uid(0), 
+[19:35]PROTOCOL_ALIVE_USER_REQ NonUser : Server:2, SID:2024, DB(UID):47371
+[20:13]AccountKick Fail - uid(0), 
+[20:27]AccountKick Fail - uid(0), 
+[20:44]AccountKick Fail - uid(0), 
+[20:55]AccountKick Fail - uid(0), 
+[21:07]AccountKick Success- serverId(1) sessionIdx(1129), uid(6162), 
+[21:11]AccountKick Fail - uid(0), 
+[21:24]PROTOCOL_ALIVE_USER_REQ NonUser : Server:2, SID:2024, DB(UID):47371
+[21:41]AccountKick Success- serverId(1) sessionIdx(1561), uid(51727), 
+[21:47]AccountKick Fail - uid(0), 
+[21:56]DB SLOW [5]GetMyInfo Delay(Insert:0) - Total:188, Basic:0, Record:0, Equipment:188, Mission:0
+[22:11]AccountKick Success- serverId(2) sessionIdx(2757), uid(15830), 
+[22:26]AccountKick Fail - uid(0), 
+[22:36]AccountKick Fail - uid(0), 
+[23:14]PROTOCOL_ALIVE_USER_REQ NonUser : Server:2, SID:2024, DB(UID):47371
+[23:21]AccountKick Success- serverId(1) sessionIdx(1460), uid(37303), 
+[23:33]AccountKick Fail - uid(0), 
+[24:00]AccountKick Success- serverId(2) sessionIdx(3750), uid(38705), 
+[24:45]AccountKick Fail - uid(0), 
+[25:03]PROTOCOL_ALIVE_USER_REQ NonUser : Server:2, SID:2024, DB(UID):47371
+[25:10]AccountKick Fail - uid(0), 
+[25:19]AccountKick Fail - uid(0), 
+[25:32]AccountKick Success- serverId(1) sessionIdx(2013), uid(34053), 
+[25:37]Kill User Leave Server TimeOut = 0 SessionIdx = 3122 UID = 226774
+[26:25]AccountKick Success- serverId(1) sessionIdx(3997), uid(64124), 
+[26:45]AccountKick Fail - uid(0), 
+[26:52]PROTOCOL_ALIVE_USER_REQ NonUser : Server:2, SID:2024, DB(UID):47371
+[27:45]AccountKick Fail - uid(0), 
+[28:41]PROTOCOL_ALIVE_USER_REQ NonUser : Server:2, SID:2024, DB(UID):47371
+[29:30]AccountKick Fail - uid(0), 
+[30:30]PROTOCOL_ALIVE_USER_REQ NonUser : Server:2, SID:2024, DB(UID):47371
+[31:32]AccountKick Fail - uid(0), 
+[31:36]AccountKick Fail - uid(0), 
+[32:08]AccountKick Fail - uid(0), 
+[32:19]PROTOCOL_ALIVE_USER_REQ NonUser : Server:2, SID:2024, DB(UID):47371
+[32:22]AccountKick Fail - uid(0), 
+[32:43]#### [ERROR]_SaveUserInfo CheckNum UID:276945, UpdateInfo:71, State:3, Server:1
