@@ -1,4 +1,4 @@
-# Point Blank OZ-Network
+![](PB-BI_Black.png)
 [![GitHub license](https://img.shields.io/github/license/mashape/apistatus.svg)](https://github.com/foxovsky/pointblank)
 
 Welcome to the OZ-Network project, an emulation server for Point Blank.
