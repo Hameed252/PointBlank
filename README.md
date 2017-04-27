@@ -24,7 +24,7 @@ Please *test your code* before committing changes/submitting a pull request.
 
 Official Files
 ========
-I publish official [documents](https://github.com/foxovsky/PointBlank/tree/master/docs), [utils](https://github.com/foxovsky/PointBlank/tree/master/tools_official) and [design files](https://github.com/foxovsky/PointBlank/tree/master/design).
+I publish official [server dumps](https://github.com/foxovsky/PointBlank/tree/master/official_server), [documents](https://github.com/foxovsky/PointBlank/tree/master/docs), [utils](https://github.com/foxovsky/PointBlank/tree/master/tools_official) and [design files](https://github.com/foxovsky/PointBlank/tree/master/design).
 
 About
 ========
