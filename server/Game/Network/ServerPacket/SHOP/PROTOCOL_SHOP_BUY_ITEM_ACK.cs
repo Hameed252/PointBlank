@@ -36,8 +36,12 @@ namespace Game.Network.ServerPacket
             if (error == 0)
             {
                 WriteD(1);
-                WriteD(Convert.ToInt32(DateTime.Now.ToString("yyMMddHHmm"))); //DateTimeUtil.getDateTime()
-                Logger.Warn("TIME: " + Convert.ToInt32(DateTime.Now.ToString("yyMMddHHmm")));
+                
+                int ItemDate;                
+                ItemDate = item.Count / 86400;    // 86400/ 86400 = 1 Day 604800/86400 = 7 Days;           
+                WriteD(ItemDate + Convert.ToInt32(DateTime.Now.ToString("yyMMddHHmm"))); //DateTimeUtil.getDateTime() * Now Added Count Days + Count Weapon
+                ItemsTable.AddCount(item.OwnerId,(ItemDate + Convert.ToInt32(DateTime.Now.ToString("yyMMddHHmm")))); 
+                
                 if (item.ItemType >= 0)
                 {
                     if (item.ItemType < 5)
