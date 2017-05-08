@@ -1,0 +1,178 @@
+Starting Nmap ( http://nmap.org ) at 2017-04-03 02:57 EEST
+NSE: Loaded 17 scripts for scanning.
+Initiating SYN Stealth Scan at 02:57
+Scanning 115.91.29.121 [65535 ports]
+Discovered open port 3389/tcp on 115.91.29.121
+Discovered open port 80/tcp on 115.91.29.121
+Discovered open port 139/tcp on 115.91.29.121
+Discovered open port 445/tcp on 115.91.29.121
+Discovered open port 135/tcp on 115.91.29.121
+SYN Stealth Scan Timing: About 6.77% done; ETC: 03:05 (0:07:07 remaining)
+Discovered open port 2000/tcp on 115.91.29.121
+SYN Stealth Scan Timing: About 18.23% done; ETC: 03:03 (0:04:34 remaining)
+Discovered open port 55920/tcp on 115.91.29.121
+Discovered open port 1801/tcp on 115.91.29.121
+SYN Stealth Scan Timing: About 32.51% done; ETC: 03:02 (0:03:09 remaining)
+SYN Stealth Scan Timing: About 49.23% done; ETC: 03:01 (0:02:05 remaining)
+SYN Stealth Scan Timing: About 61.02% done; ETC: 03:01 (0:01:37 remaining)
+SYN Stealth Scan Timing: About 61.36% done; ETC: 03:02 (0:02:02 remaining)
+SYN Stealth Scan Timing: About 61.43% done; ETC: 03:03 (0:02:23 remaining)
+SYN Stealth Scan Timing: About 61.66% done; ETC: 03:04 (0:02:42 remaining)
+Discovered open port 15018/tcp on 115.91.29.121
+Discovered open port 49670/tcp on 115.91.29.121
+Discovered open port 11888/tcp on 115.91.29.121
+Discovered open port 2103/tcp on 115.91.29.121
+Discovered open port 2105/tcp on 115.91.29.121
+Discovered open port 5060/tcp on 115.91.29.121
+SYN Stealth Scan Timing: About 80.20% done; ETC: 03:03 (0:01:12 remaining)
+Discovered open port 21300/tcp on 115.91.29.121
+Discovered open port 2107/tcp on 115.91.29.121
+Discovered open port 49667/tcp on 115.91.29.121
+Completed SYN Stealth Scan at 03:02, 316.00s elapsed (65535 total ports)
+Initiating Service scan at 03:02
+Scanning 17 services on 115.91.29.121
+Service scan Timing: About 41.18% done; ETC: 03:04 (0:00:53 remaining)
+Completed Service scan at 03:05, 137.81s elapsed (17 services on 1 host)
+Initiating OS detection (try #1) against 115.91.29.121
+Retrying OS detection (try #2) against 115.91.29.121
+Initiating Traceroute at 03:05
+Completed Traceroute at 03:05, 2.17s elapsed
+NSE: Script scanning 115.91.29.121.
+Initiating NSE at 03:05
+Completed NSE at 03:05, 30.35s elapsed
+
+[+] Nmap scan report for 115.91.29.121
+Host is up (0.27s latency).
+Not shown: 65517 filtered ports
+
+PORT      STATE  SERVICE       VERSION
+80/tcp    open   http          Microsoft IIS httpd 10.0      Scan with Web Server Scanner                                    
+113/tcp   closed ident
+135/tcp   open   msrpc         Microsoft Windows RPC
+139/tcp   open   netbios-ssn
+445/tcp   open   netbios-ssn
+1801/tcp  open   msmq?
+2000/tcp  open   cisco-sccp?
+2103/tcp  open   msrpc         Microsoft Windows RPC
+2105/tcp  open   msrpc         Microsoft Windows RPC
+2107/tcp  open   msrpc         Microsoft Windows RPC
+3389/tcp  open   ms-wbt-server Microsoft Terminal Service
+5060/tcp  open   sip?
+11888/tcp open   unknown
+15018/tcp open   ssl/unknown
+21300/tcp open   ssl/unknown
+49667/tcp open   msrpc         Microsoft Windows RPC
+49670/tcp open   msrpc         Microsoft Windows RPC
+55920/tcp open   tcpwrapped      Scan with Web Server Scanner                                    
+
+2 services unrecognized despite returning data. If you know the service/version, please submit the following fingerprints at http://www.insecure.org/cgi-bin/servicefp-submit.cgi :
+==============NEXT SERVICE FINGERPRINT (SUBMIT INDIVIDUALLY)==============
+SF-Port15018-TCP:V=6.00%T=SSL%I=7%D=4/3%Time=58E19145%P=x86_64-unknown-lin
+SF:ux-gnu%r(GenericLines,6E,"HTTP/1\.1\x20500\x20Server\x20Error\r\nConten
+SF:t-Length:\x2042\r\nConnection:\x20close\r\n\r\nError\x20500:\x20Server\
+SF:x20Error\nBad\x20request:\x20\[\r\n\r\]")%r(GetRequest,6E1,"HTTP/1\.1\x
+SF:20200\x20OK\r\nConnection:\x20close\r\nContent-Type:\x20text/html;\x20c
+SF:harset=utf-8\r\n\r\n<!DOCTYPE\x20HTML\x20/>\r\n<html>\r\n<head>\r\n\x20
+SF:<meta\x20http-equiv='Content-Type'\x20content='text/html;charset=utf-8'
+SF:/>\r\n<meta\x20charset='utf-8'\x20/>\r\n</head>\r\n<body>\r\n<script\x2
+SF:0type='text/javascript'\x20src='json2\.js'></script>\r\n<script\x20type
+SF:='text/javascript'>\r\n\x20var\x20messageFunction\x20=\x20function\x20\
+SF:(e\)\x20{\r\n\r\n\x20\x20\x20var\x20originalReq\x20=\x20JSON\.parse\(e\
+SF:.data\);\r\n\x20\x20\x20var\x20origin\x20=\x20e\.origin;\r\n\x20\x20\x2
+SF:0var\x20req\x20=\x20e\.data;\r\n\r\n\x20\x20\x20function\x20sendRequest
+SF:\(\x20origin,\x20req,\x20rvCallBack\x20\)\x20{\r\n\x20\x20\x20\x20\x20v
+SF:ar\x20xhr;\r\n\x20\x20\x20\x20\x20var\x20target;\r\n\x20\x20\x20\x20\x2
+SF:0var\x20msgRep\x20=\x20{};\r\n\x20\x20\x20\x20\x20target\x20=\x20'https
+SF:://'\x20\+\x20location\.host;\r\n\r\n\t\tif\x20\(\x20typeof\x20original
+SF:Req\.manager\x20!=\x20'undefined'\)\x20{\r\n\t\t\tif\x20\(\x20originalR
+SF:eq\.manager\x20==\x20'ccsign'\)\x20\r\n\t\t\t\ttarget\x20\+=\x20'/ccsig
+SF:n';\x20\r\n\t\t}\r\n\x20\x20\x20\x20\x20if\x20\(window\.XMLHttpRequest\
+SF:)\x20{\r\n\t\t\txhr\x20=\x20new\x20XMLHttpRequest\(\);\r\n\t\t}\x20else
+SF:\x20{\r\n\t\t\txhr\x20=\x20new\x20ActiveXObject\('Microsoft\.XMLHTTP'\)
+SF:;\r\n\t\t}\r\n\t\txhr\.open\('POST',\x20target,\x20true\);")%r(HTTPOpti
+SF:ons,63,"HTTP/1\.1\x20200\x20OK\r\nAllow:\x20GET,\x20POST,\x20HEAD,\x20C
+SF:ONNECT,\x20PUT,\x20DELETE,\x20OPTIONS,\x20PROPFIND,\x20MKCOL\r\nDAV:\x2
+SF:01\r\n\r\n")%r(RTSPRequest,72,"HTTP/1\.1\x20500\x20Server\x20Error\r\nC
+SF:ontent-Length:\x2046\r\nConnection:\x20close\r\n\r\nError\x20500:\x20Se
+SF:rver\x20Error\nBad\x20request:\x20\[OPTIONS\]")%r(RPCCheck,74,"HTTP/1\.
+SF:1\x20500\x20Server\x20Error\r\nContent-Length:\x2048\r\nConnection:\x20
+SF:close\r\n\r\nError\x20500:\x20Server\x20Error\nClient\x20closed\x20conn
+SF:ection");
+==============NEXT SERVICE FINGERPRINT (SUBMIT INDIVIDUALLY)==============
+SF-Port21300-TCP:V=6.00%T=SSL%I=7%D=4/3%Time=58E19161%P=x86_64-unknown-lin
+SF:ux-gnu%r(GenericLines,42,"HTTP/1\.1\x20200\x20OK\r\nContent-Type:\x20te
+SF:xt/plain\r\nContent-Length:\x200\r\n\r\n\r\n")%r(GetRequest,42,"HTTP/1\
+SF:.1\x20200\x20OK\r\nContent-Type:\x20text/plain\r\nContent-Length:\x200\
+SF:r\n\r\n\r\n")%r(HTTPOptions,42,"HTTP/1\.1\x20200\x20OK\r\nContent-Type:
+SF:\x20text/plain\r\nContent-Length:\x200\r\n\r\n\r\n")%r(RTSPRequest,42,"
+SF:HTTP/1\.1\x20200\x20OK\r\nContent-Type:\x20text/plain\r\nContent-Length
+SF::\x200\r\n\r\n\r\n")%r(RPCCheck,42,"HTTP/1\.1\x20200\x20OK\r\nContent-T
+SF:ype:\x20text/plain\r\nContent-Length:\x200\r\n\r\n\r\n")%r(DNSVersionBi
+SF:ndReq,42,"HTTP/1\.1\x20200\x20OK\r\nContent-Type:\x20text/plain\r\nCont
+SF:ent-Length:\x200\r\n\r\n\r\n")%r(DNSStatusRequest,42,"HTTP/1\.1\x20200\
+SF:x20OK\r\nContent-Type:\x20text/plain\r\nContent-Length:\x200\r\n\r\n\r\
+SF:n")%r(Help,42,"HTTP/1\.1\x20200\x20OK\r\nContent-Type:\x20text/plain\r\
+SF:nContent-Length:\x200\r\n\r\n\r\n")%r(SSLSessionReq,42,"HTTP/1\.1\x2020
+SF:0\x20OK\r\nContent-Type:\x20text/plain\r\nContent-Length:\x200\r\n\r\n\
+SF:r\n")%r(Kerberos,42,"HTTP/1\.1\x20200\x20OK\r\nContent-Type:\x20text/pl
+SF:ain\r\nContent-Length:\x200\r\n\r\n\r\n")%r(SMBProgNeg,42,"HTTP/1\.1\x2
+SF:0200\x20OK\r\nContent-Type:\x20text/plain\r\nContent-Length:\x200\r\n\r
+SF:\n\r\n")%r(X11Probe,42,"HTTP/1\.1\x20200\x20OK\r\nContent-Type:\x20text
+SF:/plain\r\nContent-Length:\x200\r\n\r\n\r\n")%r(FourOhFourRequest,42,"HT
+SF:TP/1\.1\x20200\x20OK\r\nContent-Type:\x20text/plain\r\nContent-Length:\
+SF:x200\r\n\r\n\r\n")%r(LPDString,42,"HTTP/1\.1\x20200\x20OK\r\nContent-Ty
+SF:pe:\x20text/plain\r\nContent-Length:\x200\r\n\r\n\r\n")%r(LDAPBindReq,4
+SF:2,"HTTP/1\.1\x20200\x20OK\r\nContent-Type:\x20text/plain\r\nContent-Len
+SF:gth:\x200\r\n\r\n\r\n")%r(SIPOptions,42,"HTTP/1\.1\x20200\x20OK\r\nCont
+SF:ent-Type:\x20text/plain\r\nContent-Length:\x200\r\n\r\n\r\n")%r(LANDesk
+SF:-RC,42,"HTTP/1\.1\x20200\x20OK\r\nContent-Type:\x20text/plain\r\nConten
+SF:t-Length:\x200\r\n\r\n\r\n")%r(TerminalServer,42,"HTTP/1\.1\x20200\x20O
+SF:K\r\nContent-Type:\x20text/plain\r\nContent-Length:\x200\r\n\r\n\r\n")%
+SF:r(NCP,42,"HTTP/1\.1\x20200\x20OK\r\nContent-Type:\x20text/plain\r\nCont
+SF:ent-Length:\x200\r\n\r\n\r\n");
+
+Device type: general purpose|WAP|load balancer
+Running (JUST GUESSING): FreeBSD 6.X (93%), Microsoft Windows 7|2008 (91%), AirSpan embedded (88%), Apple embedded (86%), Cisco embedded (85%)
+OS CPE: cpe:/o:freebsd:freebsd:6.2 cpe:/o:microsoft:windows_7 cpe:/o:microsoft:windows_server_2008
+
+Aggressive OS guesses: FreeBSD 6.2-RELEASE (93%), Microsoft Windows 7 (91%), AirSpan ProST WiMAX access point (88%), Microsoft Windows Server 2008 R2 (87%), FreeBSD 6.3-RELEASE (86%), Apple AirPort Extreme WAP v7.3.2 (86%), Microsoft Windows Server 2008 SP1 (85%), Cisco ACE load balancer (85%)
+No exact OS matches for host (test conditions non-ideal).
+Uptime guess: 18.584 days (since Wed Mar 15 12:04:39 2017)
+Network Distance: 25 hops
+TCP Sequence Prediction: Difficulty=254 (Good luck!)
+IP ID Sequence Generation: Incremental
+
+Service Info: OS: Windows; CPE: cpe:/o:microsoft:windows
+
+TRACEROUTE (using port 113/tcp)
+HOP RTT       ADDRESS
+1   13.54 ms  router2-lon.linode.com (212.111.33.230)
+2   4.31 ms   109.74.207.12
+3   4.41 ms   ldn-b3-link.telia.net (62.115.41.64)
+4   4.41 ms   ldn-bb2-link.telia.net (62.115.119.144)
+5   81.09 ms  be2317.ccr41.jfk02.atlas.cogentco.com (154.54.30.185)
+6   78.43 ms  ash-bb3-link.telia.net (62.115.141.244)
+7   77.59 ms  sprint.jfk10.atlas.cogentco.com (154.54.12.22)
+8   78.42 ms  144.232.0.201
+9   82.08 ms  144.232.14.7
+10  97.62 ms  144.232.15.19
+11  90.39 ms  144.232.13.14
+12  105.16 ms 144.232.5.210
+13  138.59 ms 144.232.13.81
+14  143.31 ms 144.232.13.83
+15  137.02 ms 144.232.22.88
+16  148.50 ms 144.232.17.40
+17  136.85 ms 211.118.180.165
+18  264.92 ms 210.120.102.254
+19  269.06 ms 1.208.150.209
+20  260.70 ms 211.53.88.194
+21  271.43 ms 1.213.0.62
+22  270.22 ms 1.213.0.62
+23  ...
+24  279.31 ms 1.208.3.38
+25  269.96 ms 115.91.29.121
+
+OS and Service detection performed. Please report any incorrect results at http://nmap.org/submit/ .
+
+Nmap done: 1 IP address (1 host up) scanned in 502.11 seconds
+           Raw packets sent: 131302 (5.782MB) | Rcvd: 667 (32.930KB)

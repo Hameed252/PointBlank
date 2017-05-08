@@ -1,0 +1,6 @@
+frostUpdate ./Frost/
+rootURL = http://frostsecurity.net:80/
+launcherName pb_live_frbl_0
+check connection ...
+setGameName(./Frost/, pb_live)
+frostSetGameName called!
