@@ -1,0 +1,1791 @@
+<!DOCTYPE html>
+<!-- saved from url=(0053)http://115.91.29.193/tiki-index.php?page_ref_id=12066 -->
+<html lang="ko" id="page_11931"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+		
+<!--Latest IE Compatibility-->
+<meta http-equiv="X-UA-Compatible" content="IE=Edge">
+
+
+<meta name="generator" content="Tiki Wiki CMS Groupware - http://tiki.org">
+
+
+			<link rel="canonical" href="http://115.91.29.193/tiki-index.php?page=Internal+Auth">
+		
+
+	<meta name="description" content="">
+
+
+<title>kLOUD-io | Internal Auth</title>
+
+	<link rel="icon" href="http://115.91.29.193/img/Favicon.gif">
+
+
+	<link rel="alternate" type="application/x-wiki" title="이 페이지 편집!" href="http://115.91.29.193/tiki-editpage.php?page=Internal%20Auth">
+
+
+	<link rel="alternate" type="application/rss+xml" title="Tiki RSS feed for weblogs" href="http://115.91.29.193/tiki-blogs_rss.php?ver=2">
+	<link rel="alternate" type="application/rss+xml" title="Tiki RSS feed for articles" href="http://115.91.29.193/tiki-articles_rss.php?ver=2">
+	<link rel="alternate" type="application/rss+xml" title="Tiki RSS feed for forums" href="http://115.91.29.193/tiki-forums_rss.php?ver=2">
+
+
+
+
+<!--[if lt IE 9]>
+	<script src="vendor/aFarkas/html5shiv/dist/html5shiv.js" type="text/javascript"></script>
+<![endif]-->
+
+		
+<link rel="stylesheet" href="./kLOUD-io _ Internal Auth_files/freetags.css" type="text/css">
+<link rel="stylesheet" href="./kLOUD-io _ Internal Auth_files/cssmenus.css" type="text/css">
+<link rel="stylesheet" href="./kLOUD-io _ Internal Auth_files/elfinder.full.css" type="text/css">
+<link rel="stylesheet" href="./kLOUD-io _ Internal Auth_files/codemirror.css" type="text/css">
+<link rel="stylesheet" href="./kLOUD-io _ Internal Auth_files/codemirror_tiki.css" type="text/css">
+<link rel="stylesheet" href="./kLOUD-io _ Internal Auth_files/codemirror_modes.css" type="text/css">
+<link rel="stylesheet" href="./kLOUD-io _ Internal Auth_files/jquery-ui.css" type="text/css">
+<link rel="stylesheet" href="./kLOUD-io _ Internal Auth_files/jquery-ui-timepicker-addon.css" type="text/css">
+<link rel="stylesheet" href="./kLOUD-io _ Internal Auth_files/jquery.cluetip.css" type="text/css">
+<link rel="stylesheet" href="./kLOUD-io _ Internal Auth_files/colorbox.css" type="text/css">
+<link rel="stylesheet" href="./kLOUD-io _ Internal Auth_files/jquery.treetable.css" type="text/css">
+<link rel="stylesheet" href="./kLOUD-io _ Internal Auth_files/draw.css" type="text/css">
+<link rel="stylesheet" href="./kLOUD-io _ Internal Auth_files/jqui.css" type="text/css">
+<link rel="stylesheet" href="./kLOUD-io _ Internal Auth_files/element.css" type="text/css">
+<style type="text/css"><!--
+/* css 0 */
+.fixed_width .fixedwidth, .fixed_width .fixedwidth .fixedwidth { width:100%; }
+.ui-autocomplete-loading { background: white url("img/spinner.gif") right center no-repeat; }
+div#outerToc-static {display: block;}
+div#outerToc-static {float: right;}
+-->
+</style>
+
+<!--[if lt IE 7]>
+<link rel="stylesheet" href="css/ie6.css" type="text/css" />
+<![endif]-->
+<!--[if IE 7]>
+<link rel="stylesheet" href="css/ie7.css" type="text/css" />
+<![endif]-->
+<!--[if IE 8]>
+<link rel="stylesheet" href="css/ie8.css" type="text/css" />
+<![endif]-->
+<!--[if IE 9]>
+<link rel="stylesheet" href="css/ie9.css" type="text/css" />
+<![endif]-->
+
+
+
+	</head>
+	<body class="tiki tiki_wiki_page fixed_width ">
+
+		<ul class="jumplinks" style="position:absolute;top:-9000px;left:-9000px;z-index:9;">
+			<li><a href="http://115.91.29.193/tiki-index.php?page_ref_id=12066#tiki-center" title="컨텐츠로 이동">컨텐츠로 이동</a></li>
+		</ul>
+		
+					<div id="fullscreenbutton">
+									<a title="전체 화면" href="http://115.91.29.193/tiki-index.php?page_ref_id=12066&amp;fullscreen=y"><img src="./kLOUD-io _ Internal Auth_files/application_get.png" alt="전체 화면" width="16" height="16" class="icon"></a>
+							</div>
+		
+		
+		
+					<div id="ajaxLoading">로드 중...</div>
+<div id="ajaxLoadingBG">&nbsp;</div>
+<div id="ajaxDebug"></div>
+
+				
+		<div id="cluetip-waitimage" style="position: absolute; display: none;"></div><div id="cluetip" style="position: absolute; display: none;"><div class="cluetip-outer" style="position: relative; z-index: 2000;"><h3 class="cluetip-title ui-widget-header ui-cluetip-header"></h3><div class="cluetip-inner ui-widget-content ui-cluetip-content"></div></div><div class="cluetip-extra"></div></div><div id="fixedwidth" class="fixedwidth"> 
+						<div id="main">
+																	<div class="middle_outer">
+											<div class="clearfix fixedwidth middle" id="middle">
+							<div class="content clearfix modules row" id="topbar_modules">
+	
+
+		<div id="module_1" style="" class="module box-menu clearfix">
+			<div id="mod-menutopbar1" class="clearfix">
+
+	<nav class="role_navigation">			<ul id="cssmenu0" class="cssmenu_horiz menu42 sf-js-enabled sf-arrows"><li class="option1 menuOption menuLevel0"><a href="http://115.91.29.193/"><span class="menuText">홈</span></a></li><li class="option3 menuOption menuLevel0"><a href="http://115.91.29.193/tiki-searchindex.php"><span class="menuText">검색</span></a></li><li class="option5 menuOption menuLevel0"><a href="http://115.91.29.193/tiki-stats.php"><span class="menuText">통계</span></a></li><li class="option7 menuOption menuLevel0"><a href="http://115.91.29.193/tiki-browse_freetags.php"><span class="menuText">프리태그</span></a></li><li class="option12 menuSection menuSection0 menuLevel0"><a href="http://115.91.29.193/tiki-my_tiki.php" class="sf-with-ul"><span class="menuText">마이티키</span></a><ul style="float: none; width: 11em; display: none;"><li class="option13 menuOption menuLevel1" style="white-space: normal; float: left; width: 100%;"><a href="http://115.91.29.193/tiki-my_tiki.php" style="float: none; width: auto;"><span class="menuText">마이티키 홈</span></a></li><li class="option14 menuOption menuLevel1" style="white-space: normal; float: left; width: 100%;"><a href="http://115.91.29.193/tiki-user_preferences.php" style="float: none; width: auto;"><span class="menuText">선호설정</span></a></li><li class="option15 menuOption menuLevel1" style="white-space: normal; float: left; width: 100%;"><a href="http://115.91.29.193/messu-mailbox.php" style="float: none; width: auto;"><span class="menuText">메시지</span></a></li><li class="option16 menuOption menuLevel1" style="white-space: normal; float: left; width: 100%;"><a href="http://115.91.29.193/tiki-user_tasks.php" style="float: none; width: auto;"><span class="menuText">작업</span></a></li><li class="option17 menuOption menuLevel1" style="white-space: normal; float: left; width: 100%;"><a href="http://115.91.29.193/tiki-user_bookmarks.php" style="float: none; width: auto;"><span class="menuText">책갈피</span></a></li><li class="option20 menuOption menuLevel1" style="white-space: normal; float: left; width: 100%;"><a href="http://115.91.29.193/tiki-contacts.php" style="float: none; width: auto;"><span class="menuText">연락처</span></a></li><li class="option21 menuOption menuLevel1" style="white-space: normal; float: left; width: 100%;"><a href="http://115.91.29.193/tiki-notepad_list.php" style="float: none; width: auto;"><span class="menuText">메모장</span></a></li><li class="option23 menuOption menuLevel1" style="white-space: normal; float: left; width: 100%;"><a href="http://115.91.29.193/tiki-usermenu.php" style="float: none; width: auto;"><span class="menuText">사용자 메뉴</span></a></li><li class="option24 menuOption menuLevel1" style="white-space: normal; float: left; width: 100%;"><a href="http://115.91.29.193/tiki-minical.php" style="float: none; width: auto;"><span class="menuText">미니 달력</span></a></li><li class="option25 menuOption menuLevel1" style="white-space: normal; float: left; width: 100%;"><a href="http://115.91.29.193/tiki-user_watches.php" style="float: none; width: auto;"><span class="menuText">내 주시목록</span></a></li></ul></li><li class="option29 menuSection menuSection0 menuLevel0"><a href="http://115.91.29.193/tiki-index.php" class="sf-with-ul"><span class="menuText">위키</span></a><ul style="float: none; width: 11em; display: none;"><li class="option30 menuOption menuLevel1" style="white-space: normal; float: left; width: 100%;"><a href="http://115.91.29.193/tiki-index.php" style="float: none; width: auto;"><span class="menuText">위키 홈</span></a></li><li class="option31 menuOption menuLevel1" style="white-space: normal; float: left; width: 100%;"><a href="http://115.91.29.193/tiki-lastchanges.php" style="float: none; width: auto;"><span class="menuText">마지막 변경</span></a></li><li class="option33 menuOption menuLevel1" style="white-space: normal; float: left; width: 100%;"><a href="http://115.91.29.193/tiki-wiki_rankings.php" style="float: none; width: auto;"><span class="menuText">순위</span></a></li><li class="option34 menuOption menuLevel1" style="white-space: normal; float: left; width: 100%;"><a href="http://115.91.29.193/tiki-listpages.php" style="float: none; width: auto;"><span class="menuText">페이지 목록</span></a></li><li class="option35 menuOption menuLevel1" style="white-space: normal; float: left; width: 100%;"><a href="http://115.91.29.193/tiki-listpages.php?cookietab=2#tab2" style="float: none; width: auto;"><span class="menuText">위키페이지 만들기</span></a></li><li class="option36 menuOption menuLevel1" style="white-space: normal; float: left; width: 100%;"><a href="http://115.91.29.193/tiki-orphan_pages.php" style="float: none; width: auto;"><span class="menuText">고아 페이지</span></a></li><li class="option37 menuOption menuLevel1" style="white-space: normal; float: left; width: 100%;"><a href="http://115.91.29.193/tiki-editpage.php?page=sandbox" style="float: none; width: auto;"><span class="menuText">모래상자</span></a></li><li class="option38 menuOption menuLevel1" style="white-space: normal; float: left; width: 100%;"><a href="http://115.91.29.193/tiki-print_pages.php" style="float: none; width: auto;"><span class="menuText">다중 인쇄</span></a></li><li class="option39 menuOption menuLevel1" style="white-space: normal; float: left; width: 100%;"><a href="http://115.91.29.193/tiki-send_objects.php" style="float: none; width: auto;"><span class="menuText">페이지 전송</span></a></li><li class="option40 menuOption menuLevel1" style="white-space: normal; float: left; width: 100%;"><a href="http://115.91.29.193/tiki-received_pages.php" style="float: none; width: auto;"><span class="menuText">수신페이지</span></a></li><li class="option41 menuOption menuLevel1" style="white-space: normal; float: left; width: 100%;"><a href="http://115.91.29.193/tiki-admin_structures.php" style="float: none; width: auto;"><span class="menuText">구조체</span></a></li><li class="option42 menuOption menuLevel1" style="white-space: normal; float: left; width: 100%;"><a href="http://115.91.29.193/tiki-mindmap.php" style="float: none; width: auto;"><span class="menuText">Mind Map</span></a></li></ul></li><li class="option49 menuSection menuSection0 menuLevel0"><a href="http://115.91.29.193/tiki-view_articles.php" class="sf-with-ul"><span class="menuText">기사</span></a><ul style="float: none; width: 11em; display: none;"><li class="option51 menuOption menuLevel1" style="white-space: normal; float: left; width: 100%;"><a href="http://115.91.29.193/tiki-view_articles.php" style="float: none; width: auto;"><span class="menuText">기사 홈</span></a></li><li class="option53 menuOption menuLevel1" style="white-space: normal; float: left; width: 100%;"><a href="http://115.91.29.193/tiki-list_articles.php" style="float: none; width: auto;"><span class="menuText">목록 표시</span></a></li><li class="option55 menuOption menuLevel1" style="white-space: normal; float: left; width: 100%;"><a href="http://115.91.29.193/tiki-cms_rankings.php" style="float: none; width: auto;"><span class="menuText">순위</span></a></li><li class="option56 menuOption menuLevel1" style="white-space: normal; float: left; width: 100%;"><a href="http://115.91.29.193/tiki-edit_submission.php" style="float: none; width: auto;"><span class="menuText">기사 투고</span></a></li><li class="option57 menuOption menuLevel1" style="white-space: normal; float: left; width: 100%;"><a href="http://115.91.29.193/tiki-list_submissions.php" style="float: none; width: auto;"><span class="menuText">투고기사 보기</span></a></li><li class="option60 menuOption menuLevel1" style="white-space: normal; float: left; width: 100%;"><a href="http://115.91.29.193/tiki-edit_article.php" style="float: none; width: auto;"><span class="menuText">새 기사</span></a></li><li class="option61 menuOption menuLevel1" style="white-space: normal; float: left; width: 100%;"><a href="http://115.91.29.193/tiki-send_objects.php" style="float: none; width: auto;"><span class="menuText">기사 전송</span></a></li><li class="option64 menuOption menuLevel1" style="white-space: normal; float: left; width: 100%;"><a href="http://115.91.29.193/tiki-admin_topics.php" style="float: none; width: auto;"><span class="menuText">토픽 관리</span></a></li><li class="option63 menuOption menuLevel1" style="white-space: normal; float: left; width: 100%;"><a href="http://115.91.29.193/tiki-article_types.php" style="float: none; width: auto;"><span class="menuText">종류 관리</span></a></li></ul></li><li class="option65 menuSection menuSection0 menuLevel0"><a href="http://115.91.29.193/tiki-list_blogs.php" class="sf-with-ul"><span class="menuText">블로그</span></a><ul style="float: none; width: 11.1667em; display: none;"><li class="option66 menuOption menuLevel1" style="white-space: normal; float: left; width: 100%;"><a href="http://115.91.29.193/tiki-list_blogs.php" style="float: none; width: auto;"><span class="menuText">블로그 목록</span></a></li><li class="option67 menuOption menuLevel1" style="white-space: normal; float: left; width: 100%;"><a href="http://115.91.29.193/tiki-blog_rankings.php" style="float: none; width: auto;"><span class="menuText">순위</span></a></li><li class="option68 menuOption menuLevel1" style="white-space: normal; float: left; width: 100%;"><a href="http://115.91.29.193/tiki-edit_blog.php" style="float: none; width: auto;"><span class="menuText">블로그 만들기</span></a></li><li class="option69 menuOption menuLevel1" style="white-space: normal; float: left; width: 100%;"><a href="http://115.91.29.193/tiki-blog_post.php" style="float: none; width: auto;"><span class="menuText">새 블로그 게시물</span></a></li><li class="option70 menuOption menuLevel1" style="white-space: normal; float: left; width: 100%;"><a href="http://115.91.29.193/tiki-list_posts.php" style="float: none; width: auto;"><span class="menuText">블로그 게시물 목록</span></a></li></ul></li><li class="option71 menuSection menuSection0 menuLevel0"><a href="http://115.91.29.193/tiki-forums.php" class="sf-with-ul"><span class="menuText">게시판</span></a><ul style="float: none; width: 11em; display: none;"><li class="option72 menuOption menuLevel1" style="white-space: normal; float: left; width: 100%;"><a href="http://115.91.29.193/tiki-forums.php" style="float: none; width: auto;"><span class="menuText">게시판 목록</span></a></li><li class="option73 menuOption menuLevel1" style="white-space: normal; float: left; width: 100%;"><a href="http://115.91.29.193/tiki-forum_rankings.php" style="float: none; width: auto;"><span class="menuText">순위</span></a></li><li class="option74 menuOption menuLevel1" style="white-space: normal; float: left; width: 100%;"><a href="http://115.91.29.193/tiki-admin_forums.php" style="float: none; width: auto;"><span class="menuText">게시판 관리</span></a></li></ul></li><li class="option81 menuSection menuSection0 menuLevel0"><a href="http://115.91.29.193/tiki-list_file_gallery.php" class="sf-with-ul"><span class="menuText">파일 갤러리</span></a><ul style="float: none; width: 11em; display: none;"><li class="option82 menuOption menuLevel1" style="white-space: normal; float: left; width: 100%;"><a href="http://115.91.29.193/tiki-list_file_gallery.php" style="float: none; width: auto;"><span class="menuText">갤러리 목록</span></a></li><li class="option84 menuOption menuLevel1" style="white-space: normal; float: left; width: 100%;"><a href="http://115.91.29.193/tiki-upload_file.php" style="float: none; width: auto;"><span class="menuText">파일 업로드</span></a></li></ul></li><li class="option98 menuSection menuSection0 menuLevel0"><a href="http://115.91.29.193/tiki-list_trackers.php" class="sf-with-ul"><span class="menuText">트래커</span></a><ul style="float: none; width: 11em; display: none;"><li class="option99 menuOption menuLevel1" style="white-space: normal; float: left; width: 100%;"><a href="http://115.91.29.193/tiki-list_trackers.php" style="float: none; width: auto;"><span class="menuText">트래커 목록</span></a></li></ul></li><li class="option183 menuSection menuSection0 menuLevel0"><a href="http://115.91.29.193/tiki-list_kaltura_entries.php" class="sf-with-ul"><span class="menuText">칼투라 동영상</span></a><ul style="float: none; width: 11em; display: none;"><li class="option184 menuOption menuLevel1" style="white-space: normal; float: left; width: 100%;"><a href="http://115.91.29.193/tiki-list_kaltura_entries.php" style="float: none; width: auto;"><span class="menuText">미디어 나열</span></a></li><li class="option185 menuOption menuLevel1" style="white-space: normal; float: left; width: 100%;"><a href="http://115.91.29.193/tiki-kaltura_upload.php" style="float: none; width: auto;"><span class="menuText">미디어 업로드</span></a></li></ul></li><li class="option112 menuSection menuSection0 menuLevel0"><a href="http://115.91.29.193/tiki-admin.php" class="sf-with-ul"><span class="menuText">관리</span></a><ul style="float: none; width: 12.5833em; display: none;"><li class="option138 menuOption menuLevel1" style="white-space: normal; float: left; width: 100%;"><a href="http://115.91.29.193/tiki-admin_banning.php" style="float: none; width: auto;"><span class="menuText">Banning</span></a></li><li class="option167 menuOption menuLevel1" style="white-space: normal; float: left; width: 100%;"><a href="http://115.91.29.193/tiki-phpinfo.php" style="float: none; width: auto;"><span class="menuText">phpinfo</span></a></li><li class="option135 menuOption menuLevel1" style="white-space: normal; float: left; width: 100%;"><a href="http://115.91.29.193/tiki-admin.php" style="float: none; width: auto;"><span class="menuText">관리 홈</span></a></li><li class="option186 menuOption menuLevel1" style="white-space: normal; float: left; width: 100%;"><a href="http://115.91.29.193/tiki-objectpermissions.php" style="float: none; width: auto;"><span class="menuText">권한</span></a></li><li class="option142 menuOption menuLevel1" style="white-space: normal; float: left; width: 100%;"><a href="http://115.91.29.193/tiki-admingroups.php" style="float: none; width: auto;"><span class="menuText">그룹</span></a></li><li class="option182 menuOption menuLevel1" style="white-space: normal; float: left; width: 100%;"><a href="http://115.91.29.193/tiki-admin_contribution.php" style="float: none; width: auto;"><span class="menuText">기여도</span></a></li><li class="option176 menuOption menuLevel1" style="white-space: normal; float: left; width: 100%;"><a href="http://115.91.29.193/tiki-list_comments.php" style="float: none; width: auto;"><span class="menuText">댓글</span></a></li><li class="option148 menuOption menuLevel1" style="white-space: normal; float: left; width: 100%;"><a href="http://115.91.29.193/tiki-admin_menus.php" style="float: none; width: auto;"><span class="menuText">메뉴</span></a></li><li class="option150 menuOption menuLevel1" style="white-space: normal; float: left; width: 100%;"><a href="http://115.91.29.193/tiki-admin_notifications.php" style="float: none; width: auto;"><span class="menuText">메일 알림</span></a></li><li class="option144 menuOption menuLevel1" style="white-space: normal; float: left; width: 100%;"><a href="http://115.91.29.193/tiki-admin_modules.php" style="float: none; width: auto;"><span class="menuText">모듈</span></a></li><li class="option171 menuOption menuLevel1" style="white-space: normal; float: left; width: 100%;"><a href="http://115.91.29.193/tiki-admin_security.php" style="float: none; width: auto;"><span class="menuText">보안 관리</span></a></li><li class="option141 menuOption menuLevel1" style="white-space: normal; float: left; width: 100%;"><a href="http://115.91.29.193/tiki-adminusers.php" style="float: none; width: auto;"><span class="menuText">사용자</span></a></li><li class="option146 menuOption menuLevel1" style="white-space: normal; float: left; width: 100%;"><a href="http://115.91.29.193/tiki-edit_languages.php" style="float: none; width: auto;"><span class="menuText">언어 편집</span></a></li><li class="option147 menuOption menuLevel1" style="white-space: normal; float: left; width: 100%;"><a href="http://115.91.29.193/tiki-admin_rssmodules.php" style="float: none; width: auto;"><span class="menuText">외부 피드</span></a></li><li class="option160 menuOption menuLevel1" style="white-space: normal; float: left; width: 100%;"><a href="http://115.91.29.193/tiki-list_contents.php" style="float: none; width: auto;"><span class="menuText">유동 컨텐츠</span></a></li><li class="option172 menuOption menuLevel1" style="white-space: normal; float: left; width: 100%;"><a href="http://115.91.29.193/tiki-admin_actionlog.php" style="float: none; width: auto;"><span class="menuText">작업 로그</span></a></li><li class="option154 menuOption menuLevel1" style="white-space: normal; float: left; width: 100%;"><a href="http://115.91.29.193/tiki-admin_transitions.php" style="float: none; width: auto;"><span class="menuText">전이</span></a></li><li class="option175 menuOption menuLevel1" style="white-space: normal; float: left; width: 100%;"><a href="http://115.91.29.193/tiki-admin_content_templates.php" style="float: none; width: auto;"><span class="menuText">컨텐츠 템플릿</span></a></li><li class="option153 menuOption menuLevel1" style="white-space: normal; float: left; width: 100%;"><a href="http://115.91.29.193/tiki-admin_toolbars.php" style="float: none; width: auto;"><span class="menuText">툴바</span></a></li><li class="option169 menuOption menuLevel1" style="white-space: normal; float: left; width: 100%;"><a href="http://115.91.29.193/tiki-importer.php" style="float: none; width: auto;"><span class="menuText">티키 가져오기 도구</span></a></li><li class="option170 menuOption menuLevel1" style="white-space: normal; float: left; width: 100%;"><a href="http://115.91.29.193/tiki-syslog.php" style="float: none; width: auto;"><span class="menuText">티키 로그</span></a></li><li class="option168 menuOption menuLevel1" style="white-space: normal; float: left; width: 100%;"><a href="http://115.91.29.193/tiki-admin_system.php" style="float: none; width: auto;"><span class="menuText">티키 캐시/시스템 관리</span></a></li></ul></li></ul>
+</nav>
+
+
+		</div>
+	</div>
+
+
+</div>
+							<div class="clearfix nofullscreen" id="c1c2">
+								<div class="clearfix" id="wrapper">
+									<div id="col1" class="marginleft">
+																			<div id="tiki-center" class="clearfix content">
+																																																														<div class="share">
+												<a title="이 페이지 공유" href="http://115.91.29.193/tiki-share.php?url=%2Ftiki-index.php%3Fpage_ref_id%3D12066">이 페이지 공유</a>
+											</div>
+																															<div id="error_report"></div>
+																						<div id="role_main">
+												
+												
+												
+		
+
+
+	
+	<div class="wikitopline clearfix" style="clear: both;">
+	<div class="content">
+					<div class="wikiinfo" style="float: left">
+								
+									<small><a class="link" href="http://115.91.29.193/tiki-index.php?page_id=11931">페이지 id: 11931</a></small>
+								
+				
+				
+											</div>
+
+												<div class="wikiactions" style="float: right; padding-left:10px; white-space: nowrap">
+						<div class="icons" style="float: left;">
+															<a href="http://115.91.29.193/tiki-print.php?page_ref_id=12066&amp;display=pdf&amp;page=Internal+Auth" title="PDF"><img src="./kLOUD-io _ Internal Auth_files/page_white_acrobat.png" alt="PDF" width="16" height="16" title="PDF" class="icon"></a>
+																															<a title="이 페이지 편집" href="http://115.91.29.193/tiki-editpage.php?page=Internal%20Auth&amp;page_ref_id=12066"><img src="./kLOUD-io _ Internal Auth_files/page_edit.png" alt="이 페이지 편집" width="16" height="16" title="이 페이지 편집" class="icon"></a>
+																			
+										<a title="편집 아이콘 보기" href="http://115.91.29.193/tiki-index.php?page_ref_id=12066#" id="wiki_plugin_edit_view"><img src="./kLOUD-io _ Internal Auth_files/wiki_plugin_edit_view.png" alt="표시" width="16" height="16" title="편집 아이콘 보기" class="icon"></a>
+																																																																														<a title="인쇄" href="http://115.91.29.193/tiki-print.php?page_ref_id=12066"><img src="./kLOUD-io _ Internal Auth_files/printer.png" alt="인쇄" width="16" height="16" title="인쇄" class="icon"></a>
+												
+															<a title="이 페이지 공유" href="http://115.91.29.193/tiki-share.php?url=%2Ftiki-index.php%3Fpage_ref_id%3D12066"><img src="./kLOUD-io _ Internal Auth_files/share_link.png" alt="이 페이지 공유" width="16" height="16" title="이 페이지 공유" class="icon"></a>
+																													<a title="메모장에 저장" href="http://115.91.29.193/tiki-index.php?page=Internal%20Auth&amp;savenotepad=1&amp;page_ref_id=12066"><img src="./kLOUD-io _ Internal Auth_files/disk.png" alt="메모장에 저장" width="16" height="16" title="메모장에 저장" class="icon"></a>
+																															<a href="http://115.91.29.193/tiki-index.php?page=Internal%20Auth&amp;watch_event=wiki_page_changed&amp;watch_object=Internal%20Auth&amp;watch_action=add&amp;structure=Team-Web" class="icon"><img src="./kLOUD-io _ Internal Auth_files/eye.png" alt="페이지가 주시하고 있지 않습니다. 아이콘을 클릭하여 주시하십시오." width="16" height="16" title="페이지가 주시하고 있지 않습니다. 아이콘을 클릭하여 주시하십시오." class="icon"></a>
+																																			<a href="http://115.91.29.193/tiki-index.php?page=Internal%20Auth&amp;watch_event=structure_changed&amp;watch_object=12066&amp;watch_action=add_desc&amp;structure=Team-Web"><img src="./kLOUD-io _ Internal Auth_files/eye_arrow_down.png" alt="하위 구조체를 주시" width="16" height="16" title="하위 구조체를 주시" class="icon"></a>
+																																							<a href="http://115.91.29.193/tiki-object_watches.php?objectId=Internal%20Auth&amp;watch_event=wiki_page_changed&amp;objectType=wiki+page&amp;objectName=Internal%20Auth&amp;objectHref=tiki-index.php%3Fpage%3DInternal%20Auth" class="icon"><img src="./kLOUD-io _ Internal Auth_files/eye_group.png" alt="그룹 주시" width="16" height="16" title="그룹 주시" class="icon"></a>
+					
+																	<a href="http://115.91.29.193/tiki-object_watches.php?objectId=12066&amp;watch_event=structure_changed&amp;objectType=structure&amp;objectName=Internal%20Auth&amp;objectHref=tiki-index.php%3Fpage_ref_id%3D12066" class="icon"><img src="./kLOUD-io _ Internal Auth_files/eye_group_arrow_down.png" alt="구조체를 그룹 주시" width="16" height="16" title="구조체를 그룹 주시" class="icon"></a>
+																																												<div class="lang_select">
+									
+<ul class="clearfix cssmenu_horiz sf-js-enabled sf-arrows">
+	<li class="tabmark">
+	
+		<img src="./kLOUD-io _ Internal Auth_files/world.png" alt="세계" width="16" height="16" class="icon" title="현재 언어: 한국어 (ko)">
+	
+        		<ul style="float: none; width: 11em; display: none;">
+			<li class="tabcontent" style="white-space: normal; float: left; width: 100%;">
+			
+							<a href="http://115.91.29.193/tiki-index.php?page=Internal%20Auth&amp;no_bl=y" title="한국어 (ko): Internal Auth" class="selected" style="float: none; width: auto;">
+					한국어 (ko)
+				</a>
+						
+							
+										
+									
+												
+							
+							
+													<div>
+						<img src="./kLOUD-io _ Internal Auth_files/world_edit.png" alt="편집" width="16" height="16" title="유지" class="icon"> 유지
+					</div>
+										<a href="http://115.91.29.193/tiki-edit_translation.php?page=Internal%20Auth&amp;no_bl=y" title="페이지 번역" style="float: none; width: auto;">
+						번역
+					</a>
+					<a href="http://115.91.29.193/tiki-ajax_services.php?controller=translation&amp;action=manage&amp;type=wiki+page&amp;source=Internal+Auth" class="attach_detach_translation" data-object_type="wiki page" data-object_id="Internal Auth" title="페이지 번역 관리" style="float: none; width: auto;">
+						번역 관리
+					</a>
+				
+								
+			</li>
+		</ul>
+        	</li>
+</ul>
+
+
+								</div>
+													</div><!-- END of icons -->
+					</div> 
+				 
+					 
+	</div> 
+</div> 
+
+	
+
+
+
+<article id="top" class="wikitext clearfix">
+			
+		
+					<h1 class="pagetitle"><strong><a class="pagetitle" title="갱신" href="http://115.91.29.193/tiki-index.php?page=Internal+Auth">Internal Auth</a></strong></h1>
+		
+					<div class="tocnav">
+	<div class="clearfix">
+		<div style="float: left; width: 100px">
+  
+        	<a href="http://115.91.29.193/tiki-index.php?page_ref_id=12063&amp;page=Team-Web&amp;structure=Team-Web"><img src="./kLOUD-io _ Internal Auth_files/house.png" alt="목차" width="16" height="16" title="Team-Web" class="icon"></a>
+    
+        	<a href="http://115.91.29.193/tiki-index.php?page=External+Auth&amp;structure=Team-Web">
+    		<img src="./kLOUD-io _ Internal Auth_files/resultset_previous.png" alt="페이지 미리보기" width="16" height="16" title="External Auth" class="icon"></a>
+    
+        	<a href="http://115.91.29.193/tiki-index.php?page=Auth&amp;structure=Team-Web">
+    		<img src="./kLOUD-io _ Internal Auth_files/resultset_up.png" alt="부모 페이지" width="16" height="16" title="Auth" class="icon"></a>
+    
+    <a href="http://115.91.29.193/tiki-index.php?page=%EA%B0%9C%EB%B0%9C+host+%EC%85%8B%ED%8C%85&amp;structure=Team-Web"><img src="./kLOUD-io _ Internal Auth_files/resultset_next.png" alt="다음 페이지" width="16" height="16" title="개발 host 셋팅" class="icon"></a>
+		</div>
+  		<div style="float: left;">
+	<form action="http://115.91.29.193/tiki-editpage.php" method="post">
+		<div class="form">
+			<input type="hidden" name="current_page_id" value="12066">
+			<span role="status" aria-live="polite" class="ui-helper-hidden-accessible"></span><input type="text" id="structure_add_page" name="page" class="ui-autocomplete-input" autocomplete="off">
+			
+			
+							<input type="checkbox" name="add_child"> 자식
+			      
+			<input type="submit" class="btn btn-default" name="insert_into_struct" value="페이지 추가">
+		</div>
+	</form>
+	</div>
+	</div>
+	<div>
+	<a title="구조체 (1.2)" href="http://115.91.29.193/tiki-edit_structure.php?page_ref_id=12063"><img src="./kLOUD-io _ Internal Auth_files/chart_organisation.png" alt="구조체" width="16" height="16" title="구조체 (1.2)" class="icon"></a>&nbsp;&nbsp;
+	    	      		  <a href="http://115.91.29.193/tiki-index.php?page=Team-Web&amp;structure=Team-Web">
+	      	        Team-Web
+		  		  </a>
+			      &nbsp;»&nbsp;		  <a href="http://115.91.29.193/tiki-index.php?page=Auth&amp;structure=Team-Web">
+	      	        Auth
+		  		  </a>
+			      &nbsp;»&nbsp;		  <a href="http://115.91.29.193/tiki-index.php?page=Internal+Auth&amp;structure=Team-Web">
+	      	        Internal Auth
+		  		  </a>
+				</div>
+</div>
+		
+								 
+
+		
+	<div id="page-data" class="clearfix">
+					<div>
+	<h3 class="editable">
+		<strong>Zepetto 시스템 서버&nbsp;접속 정보</strong></h3>
+	<p>
+		&nbsp;</p>
+	<table border="0" cellspacing="0" frame="box" style="border-bottom:1px solid;border-left:1px solid;border-top:1px solid;border-right:1px solid;"><colgroup><col width="128"><col width="183"><col width="167"><col width="211"><col width="237"></colgroup><tbody><tr><td colspan="5" height="36" width="926">
+					<span style="font-size:10px;"><span style="font-family:arial, helvetica, sans-serif;"><span style="font-size:20px;"><strong>IDC 서버</strong></span></span></span></td>
+			</tr><tr><td align="left" height="17">
+					&nbsp;</td>
+				<td align="left">
+					&nbsp;</td>
+				<td align="left">
+					&nbsp;</td>
+				<td align="left">
+					&nbsp;</td>
+				<td align="left">
+					&nbsp;</td>
+			</tr><tr><td align="left" bgcolor="#ffcc99" colspan="5" height="25" style="border-bottom:#000000 1px solid;border-left:#000000 1px solid;border-top:#000000 1px solid;border-right:#000000 1px solid;">
+					<span style="font-size:10px;"><span style="font-family:arial, helvetica, sans-serif;"><strong>Zeptto Deki (백업용)</strong></span></span></td>
+			</tr><tr><td bgcolor="#e6e6ff" height="25" style="border-bottom:#000000 1px solid;border-left:#000000 1px solid;border-top:#000000 1px solid;border-right:#000000 1px solid;">
+					&nbsp;</td>
+				<td bgcolor="#e6e6ff" style="border-bottom:#000000 1px solid;border-left:#000000 1px solid;border-top:#000000 1px solid;border-right:#000000 1px solid;">
+					<span style="font-size:10px;"><span style="font-family:arial, helvetica, sans-serif;">SSH</span></span></td>
+				<td bgcolor="#e6e6ff" style="border-bottom:#000000 1px solid;border-left:#000000 1px solid;border-top:#000000 1px solid;border-right:#000000 1px solid;">
+					<span style="font-size:10px;"><span style="font-family:arial, helvetica, sans-serif;">MYSQL</span></span></td>
+				<td bgcolor="#e6e6ff" style="border-bottom:#000000 1px solid;border-left:#000000 1px solid;border-top:#000000 1px solid;border-right:#000000 1px solid;">
+					<span style="font-size:10px;"><span style="font-family:arial, helvetica, sans-serif;">PHPMYADMIN</span></span></td>
+				<td bgcolor="#e6e6ff" style="border-bottom:#000000 1px solid;border-left:#000000 1px solid;border-top:#000000 1px solid;border-right:#000000 1px solid;">
+					<span style="font-size:10px;"><span style="font-family:arial, helvetica, sans-serif;">FTP</span></span></td>
+			</tr><tr><td bgcolor="#e6e6ff" height="25" style="border-bottom:#000000 1px solid;border-left:#000000 1px solid;border-top:#000000 1px solid;border-right:#000000 1px solid;">
+					<span style="font-size:10px;"><span style="font-family:arial, helvetica, sans-serif;">HOST / url</span></span></td>
+				<td bgcolor="#ffffcc" style="border-bottom:#000000 1px solid;border-left:#000000 1px solid;border-top:#000000 1px solid;border-right:#000000 1px solid;">
+					<span style="font-size:10px;"><span style="font-family:arial, helvetica, sans-serif;">218.145.27.226</span></span></td>
+				<td bgcolor="#ffffcc" style="border-bottom:#000000 1px solid;border-left:#000000 1px solid;border-top:#000000 1px solid;border-right:#000000 1px solid;">
+					&nbsp;</td>
+				<td bgcolor="#ffffcc" style="border-bottom:#000000 1px solid;border-left:#000000 1px solid;border-top:#000000 1px solid;border-right:#000000 1px solid;">
+					&nbsp;</td>
+				<td bgcolor="#ffffcc" style="border-bottom:#000000 1px solid;border-left:#000000 1px solid;border-top:#000000 1px solid;border-right:#000000 1px solid;">
+					&nbsp;</td>
+			</tr><tr><td bgcolor="#e6e6ff" height="25" style="border-bottom:#000000 1px solid;border-left:#000000 1px solid;border-top:#000000 1px solid;border-right:#000000 1px solid;">
+					<span style="font-size:10px;"><span style="font-family:arial, helvetica, sans-serif;">PORT</span></span></td>
+				<td bgcolor="#ffffcc" style="border-bottom:#000000 1px solid;border-left:#000000 1px solid;border-top:#000000 1px solid;border-right:#000000 1px solid;">
+					<span style="font-size:10px;"><span style="font-family:arial, helvetica, sans-serif;">22</span></span></td>
+				<td bgcolor="#ffffcc" style="border-bottom:#000000 1px solid;border-left:#000000 1px solid;border-top:#000000 1px solid;border-right:#000000 1px solid;">
+					&nbsp;</td>
+				<td bgcolor="#ffffcc" style="border-bottom:#000000 1px solid;border-left:#000000 1px solid;border-top:#000000 1px solid;border-right:#000000 1px solid;">
+					&nbsp;</td>
+				<td bgcolor="#ffffcc" style="border-bottom:#000000 1px solid;border-left:#000000 1px solid;border-top:#000000 1px solid;border-right:#000000 1px solid;">
+					&nbsp;</td>
+			</tr><tr><td bgcolor="#e6e6ff" height="25" style="border-bottom:#000000 1px solid;border-left:#000000 1px solid;border-top:#000000 1px solid;border-right:#000000 1px solid;">
+					<span style="font-size:10px;"><span style="font-family:arial, helvetica, sans-serif;">ID</span></span></td>
+				<td bgcolor="#ffffcc" style="border-bottom:#000000 1px solid;border-left:#000000 1px solid;border-top:#000000 1px solid;border-right:#000000 1px solid;">
+					<span style="font-size:10px;"><span style="font-family:arial, helvetica, sans-serif;">root</span></span></td>
+				<td bgcolor="#ffffcc" style="border-bottom:#000000 1px solid;border-left:#000000 1px solid;border-top:#000000 1px solid;border-right:#000000 1px solid;">
+					<span style="font-size:10px;"><span style="font-family:arial, helvetica, sans-serif;">root</span></span></td>
+				<td bgcolor="#ffffcc" style="border-bottom:#000000 1px solid;border-left:#000000 1px solid;border-top:#000000 1px solid;border-right:#000000 1px solid;">
+					&nbsp;</td>
+				<td bgcolor="#ffffcc" style="border-bottom:#000000 1px solid;border-left:#000000 1px solid;border-top:#000000 1px solid;border-right:#000000 1px solid;">
+					&nbsp;</td>
+			</tr><tr><td bgcolor="#e6e6ff" height="25" style="border-bottom:#000000 1px solid;border-left:#000000 1px solid;border-top:#000000 1px solid;border-right:#000000 1px solid;">
+					<span style="font-size:10px;"><span style="font-family:arial, helvetica, sans-serif;">PW</span></span></td>
+				<td bgcolor="#ffffcc" style="border-bottom:#000000 1px solid;border-left:#000000 1px solid;border-top:#000000 1px solid;border-right:#000000 1px solid;">
+					<span style="font-size:10px;"><span style="font-family:arial, helvetica, sans-serif;">eldkqmffhTmfl20!!</span></span></td>
+				<td bgcolor="#ffffcc" style="border-bottom:#000000 1px solid;border-left:#000000 1px solid;border-top:#000000 1px solid;border-right:#000000 1px solid;">
+					<span style="font-size:10px;"><span style="font-family:arial, helvetica, sans-serif;">dlssl20aksehfvk2010</span></span></td>
+				<td bgcolor="#ffffcc" style="border-bottom:#000000 1px solid;border-left:#000000 1px solid;border-top:#000000 1px solid;border-right:#000000 1px solid;">
+					&nbsp;</td>
+				<td bgcolor="#ffffcc" style="border-bottom:#000000 1px solid;border-left:#000000 1px solid;border-top:#000000 1px solid;border-right:#000000 1px solid;">
+					&nbsp;</td>
+			</tr><tr><td bgcolor="#e6e6ff" height="25" style="border-bottom:#000000 1px solid;border-left:#000000 1px solid;border-top:#000000 1px solid;border-right:#000000 1px solid;">
+					<span style="font-size:10px;"><span style="font-family:arial, helvetica, sans-serif;">ETC</span></span></td>
+				<td bgcolor="#ffffcc" style="border-bottom:#000000 1px solid;border-left:#000000 1px solid;border-top:#000000 1px solid;border-right:#000000 1px solid;">
+					&nbsp;</td>
+				<td bgcolor="#ffffcc" style="border-bottom:#000000 1px solid;border-left:#000000 1px solid;border-top:#000000 1px solid;border-right:#000000 1px solid;">
+					&nbsp;</td>
+				<td bgcolor="#ffffcc" style="border-bottom:#000000 1px solid;border-left:#000000 1px solid;border-top:#000000 1px solid;border-right:#000000 1px solid;">
+					&nbsp;</td>
+				<td bgcolor="#ffffcc" style="border-bottom:#000000 1px solid;border-left:#000000 1px solid;border-top:#000000 1px solid;border-right:#000000 1px solid;">
+					&nbsp;</td>
+			</tr><tr><td height="25">
+					&nbsp;</td>
+				<td>
+					&nbsp;</td>
+				<td>
+					&nbsp;</td>
+				<td>
+					&nbsp;</td>
+				<td>
+					&nbsp;</td>
+			</tr><tr><td align="left" bgcolor="#ffcc99" colspan="5" height="25" style="border-bottom:#000000 1px solid;border-left:#000000 1px solid;border-top:#000000 1px solid;border-right:#000000 1px solid;">
+					<span style="font-size:10px;"><span style="font-family:arial, helvetica, sans-serif;"><strong>San Web Server</strong></span></span></td>
+			</tr><tr><td bgcolor="#e6e6ff" height="25" style="border-bottom:#000000 1px solid;border-left:#000000 1px solid;border-top:#000000 1px solid;border-right:#000000 1px solid;">
+					&nbsp;</td>
+				<td bgcolor="#e6e6ff" style="border-bottom:#000000 1px solid;border-left:#000000 1px solid;border-top:#000000 1px solid;border-right:#000000 1px solid;">
+					<span style="font-size:10px;"><span style="font-family:arial, helvetica, sans-serif;">SSH</span></span></td>
+				<td bgcolor="#e6e6ff" style="border-bottom:#000000 1px solid;border-left:#000000 1px solid;border-top:#000000 1px solid;border-right:#000000 1px solid;">
+					<span style="font-size:10px;"><span style="font-family:arial, helvetica, sans-serif;">MYSQL</span></span></td>
+				<td bgcolor="#e6e6ff" style="border-bottom:#000000 1px solid;border-left:#000000 1px solid;border-top:#000000 1px solid;border-right:#000000 1px solid;">
+					<span style="font-size:10px;"><span style="font-family:arial, helvetica, sans-serif;">PHPMYADMIN</span></span></td>
+				<td bgcolor="#e6e6ff" style="border-bottom:#000000 1px solid;border-left:#000000 1px solid;border-top:#000000 1px solid;border-right:#000000 1px solid;">
+					<span style="font-size:10px;"><span style="font-family:arial, helvetica, sans-serif;">FTP</span></span></td>
+			</tr><tr><td bgcolor="#e6e6ff" height="25" style="border-bottom:#000000 1px solid;border-left:#000000 1px solid;border-top:#000000 1px solid;border-right:#000000 1px solid;">
+					<span style="font-size:10px;"><span style="font-family:arial, helvetica, sans-serif;">HOST / url</span></span></td>
+				<td bgcolor="#ffffcc" style="border-bottom:#000000 1px solid;border-left:#000000 1px solid;border-top:#000000 1px solid;border-right:#000000 1px solid;">
+					<span style="font-size:10px;"><span style="font-family:arial, helvetica, sans-serif;">218.145.27.227</span></span></td>
+				<td bgcolor="#ffffcc" style="border-bottom:#000000 1px solid;border-left:#000000 1px solid;border-top:#000000 1px solid;border-right:#000000 1px solid;">
+					&nbsp;</td>
+				<td bgcolor="#ffffcc" style="border-bottom:#000000 1px solid;border-left:#000000 1px solid;border-top:#000000 1px solid;border-right:#000000 1px solid;">
+					<span style="font-size:10px;"><span style="font-family:arial, helvetica, sans-serif;">sf.zepetto.com/sanadmin</span></span></td>
+				<td bgcolor="#ffffcc" style="border-bottom:#000000 1px solid;border-left:#000000 1px solid;border-top:#000000 1px solid;border-right:#000000 1px solid;">
+					<span style="font-size:10px;"><span style="font-family:arial, helvetica, sans-serif;">sf.zepetto.com</span></span></td>
+			</tr><tr><td bgcolor="#e6e6ff" height="25" style="border-bottom:#000000 1px solid;border-left:#000000 1px solid;border-top:#000000 1px solid;border-right:#000000 1px solid;">
+					<span style="font-size:10px;"><span style="font-family:arial, helvetica, sans-serif;">PORT</span></span></td>
+				<td bgcolor="#ffffcc" style="border-bottom:#000000 1px solid;border-left:#000000 1px solid;border-top:#000000 1px solid;border-right:#000000 1px solid;">
+					<span style="font-size:10px;"><span style="font-family:arial, helvetica, sans-serif;">22</span></span></td>
+				<td bgcolor="#ffffcc" style="border-bottom:#000000 1px solid;border-left:#000000 1px solid;border-top:#000000 1px solid;border-right:#000000 1px solid;">
+					&nbsp;</td>
+				<td bgcolor="#ffffcc" style="border-bottom:#000000 1px solid;border-left:#000000 1px solid;border-top:#000000 1px solid;border-right:#000000 1px solid;">
+					<span style="font-size:10px;"><span style="font-family:arial, helvetica, sans-serif;">80</span></span></td>
+				<td bgcolor="#ffffcc" style="border-bottom:#000000 1px solid;border-left:#000000 1px solid;border-top:#000000 1px solid;border-right:#000000 1px solid;">
+					<span style="font-size:10px;"><span style="font-family:arial, helvetica, sans-serif;">50002</span></span></td>
+			</tr><tr><td bgcolor="#e6e6ff" height="25" style="border-bottom:#000000 1px solid;border-left:#000000 1px solid;border-top:#000000 1px solid;border-right:#000000 1px solid;">
+					<span style="font-size:10px;"><span style="font-family:arial, helvetica, sans-serif;">ID</span></span></td>
+				<td bgcolor="#ffffcc" style="border-bottom:#000000 1px solid;border-left:#000000 1px solid;border-top:#000000 1px solid;border-right:#000000 1px solid;">
+					<span style="font-size:10px;"><span style="font-family:arial, helvetica, sans-serif;">administrator</span></span></td>
+				<td bgcolor="#ffffcc" style="border-bottom:#000000 1px solid;border-left:#000000 1px solid;border-top:#000000 1px solid;border-right:#000000 1px solid;">
+					&nbsp;</td>
+				<td bgcolor="#ffffcc" style="border-bottom:#000000 1px solid;border-left:#000000 1px solid;border-top:#000000 1px solid;border-right:#000000 1px solid;">
+					<span style="font-size:10px;"><span style="font-family:arial, helvetica, sans-serif;">root</span></span></td>
+				<td bgcolor="#ffffcc" style="border-bottom:#000000 1px solid;border-left:#000000 1px solid;border-top:#000000 1px solid;border-right:#000000 1px solid;">
+					<span style="font-size:10px;"><span style="font-family:arial, helvetica, sans-serif;">sanuser</span></span></td>
+			</tr><tr><td bgcolor="#e6e6ff" height="25" style="border-bottom:#000000 1px solid;border-left:#000000 1px solid;border-top:#000000 1px solid;border-right:#000000 1px solid;">
+					<span style="font-size:10px;"><span style="font-family:arial, helvetica, sans-serif;">PW</span></span></td>
+				<td bgcolor="#ffffcc" style="border-bottom:#000000 1px solid;border-left:#000000 1px solid;border-top:#000000 1px solid;border-right:#000000 1px solid;">
+					<span style="font-size:10px;"><span style="font-family:arial, helvetica, sans-serif;">eldkqmffhTmfl20!!</span></span></td>
+				<td bgcolor="#ffffcc" style="border-bottom:#000000 1px solid;border-left:#000000 1px solid;border-top:#000000 1px solid;border-right:#000000 1px solid;">
+					&nbsp;</td>
+				<td bgcolor="#ffffcc" style="border-bottom:#000000 1px solid;border-left:#000000 1px solid;border-top:#000000 1px solid;border-right:#000000 1px solid;">
+					<span style="font-size:10px;"><span style="font-family:arial, helvetica, sans-serif;">dlssl20aksehfvk2010</span></span></td>
+				<td bgcolor="#ffffcc" style="border-bottom:#000000 1px solid;border-left:#000000 1px solid;border-top:#000000 1px solid;border-right:#000000 1px solid;">
+					<span style="font-size:10px;"><span style="font-family:arial, helvetica, sans-serif;">wpvpxh12#$</span></span></td>
+			</tr><tr><td bgcolor="#e6e6ff" height="25" style="border-bottom:#000000 1px solid;border-left:#000000 1px solid;border-top:#000000 1px solid;border-right:#000000 1px solid;">
+					<span style="font-size:10px;"><span style="font-family:arial, helvetica, sans-serif;">ETC</span></span></td>
+				<td bgcolor="#ffffcc" style="border-bottom:#000000 1px solid;border-left:#000000 1px solid;border-top:#000000 1px solid;border-right:#000000 1px solid;">
+					&nbsp;</td>
+				<td bgcolor="#ffffcc" style="border-bottom:#000000 1px solid;border-left:#000000 1px solid;border-top:#000000 1px solid;border-right:#000000 1px solid;">
+					&nbsp;</td>
+				<td bgcolor="#ffffcc" style="border-bottom:#000000 1px solid;border-left:#000000 1px solid;border-top:#000000 1px solid;border-right:#000000 1px solid;">
+					&nbsp;</td>
+				<td bgcolor="#ffffcc" style="border-bottom:#000000 1px solid;border-left:#000000 1px solid;border-top:#000000 1px solid;border-right:#000000 1px solid;">
+					<span style="font-size:10px;"><span style="font-family:arial, helvetica, sans-serif;">Write / Read</span></span></td>
+			</tr><tr><td height="25">
+					&nbsp;</td>
+				<td>
+					&nbsp;</td>
+				<td>
+					&nbsp;</td>
+				<td>
+					&nbsp;</td>
+				<td>
+					&nbsp;</td>
+			</tr><tr><td align="left" bgcolor="#ffcc99" colspan="5" height="25" style="border-bottom:#000000 1px solid;border-left:#000000 1px solid;border-top:#000000 1px solid;border-right:#000000 1px solid;">
+					<span style="font-size:10px;"><span style="font-family:arial, helvetica, sans-serif;"><strong>San DB Server</strong></span></span></td>
+			</tr><tr><td bgcolor="#e6e6ff" height="25" style="border-bottom:#000000 1px solid;border-left:#000000 1px solid;border-top:#000000 1px solid;border-right:#000000 1px solid;">
+					&nbsp;</td>
+				<td bgcolor="#e6e6ff" style="border-bottom:#000000 1px solid;border-left:#000000 1px solid;border-top:#000000 1px solid;border-right:#000000 1px solid;">
+					<span style="font-size:10px;"><span style="font-family:arial, helvetica, sans-serif;">SSH</span></span></td>
+				<td bgcolor="#e6e6ff" style="border-bottom:#000000 1px solid;border-left:#000000 1px solid;border-top:#000000 1px solid;border-right:#000000 1px solid;">
+					<span style="font-size:10px;"><span style="font-family:arial, helvetica, sans-serif;">MYSQL</span></span></td>
+				<td bgcolor="#e6e6ff" style="border-bottom:#000000 1px solid;border-left:#000000 1px solid;border-top:#000000 1px solid;border-right:#000000 1px solid;">
+					<span style="font-size:10px;"><span style="font-family:arial, helvetica, sans-serif;">PHPMYADMIN</span></span></td>
+				<td bgcolor="#e6e6ff" style="border-bottom:#000000 1px solid;border-left:#000000 1px solid;border-top:#000000 1px solid;border-right:#000000 1px solid;">
+					<span style="font-size:10px;"><span style="font-family:arial, helvetica, sans-serif;">FTP</span></span></td>
+			</tr><tr><td bgcolor="#e6e6ff" height="25" style="border-bottom:#000000 1px solid;border-left:#000000 1px solid;border-top:#000000 1px solid;border-right:#000000 1px solid;">
+					<span style="font-size:10px;"><span style="font-family:arial, helvetica, sans-serif;">HOST / url</span></span></td>
+				<td bgcolor="#ffffcc" style="border-bottom:#000000 1px solid;border-left:#000000 1px solid;border-top:#000000 1px solid;border-right:#000000 1px solid;">
+					<span style="font-size:10px;"><span style="font-family:arial, helvetica, sans-serif;">218.145.27.241</span></span></td>
+				<td bgcolor="#ffffcc" style="border-bottom:#000000 1px solid;border-left:#000000 1px solid;border-top:#000000 1px solid;border-right:#000000 1px solid;">
+					&nbsp;</td>
+				<td bgcolor="#ffffcc" style="border-bottom:#000000 1px solid;border-left:#000000 1px solid;border-top:#000000 1px solid;border-right:#000000 1px solid;">
+					&nbsp;</td>
+				<td bgcolor="#ffffcc" style="border-bottom:#000000 1px solid;border-left:#000000 1px solid;border-top:#000000 1px solid;border-right:#000000 1px solid;">
+					&nbsp;</td>
+			</tr><tr><td bgcolor="#e6e6ff" height="25" style="border-bottom:#000000 1px solid;border-left:#000000 1px solid;border-top:#000000 1px solid;border-right:#000000 1px solid;">
+					<span style="font-size:10px;"><span style="font-family:arial, helvetica, sans-serif;">PORT</span></span></td>
+				<td bgcolor="#ffffcc" style="border-bottom:#000000 1px solid;border-left:#000000 1px solid;border-top:#000000 1px solid;border-right:#000000 1px solid;">
+					<span style="font-size:10px;"><span style="font-family:arial, helvetica, sans-serif;">22</span></span></td>
+				<td bgcolor="#ffffcc" style="border-bottom:#000000 1px solid;border-left:#000000 1px solid;border-top:#000000 1px solid;border-right:#000000 1px solid;">
+					&nbsp;</td>
+				<td bgcolor="#ffffcc" style="border-bottom:#000000 1px solid;border-left:#000000 1px solid;border-top:#000000 1px solid;border-right:#000000 1px solid;">
+					&nbsp;</td>
+				<td bgcolor="#ffffcc" style="border-bottom:#000000 1px solid;border-left:#000000 1px solid;border-top:#000000 1px solid;border-right:#000000 1px solid;">
+					&nbsp;</td>
+			</tr><tr><td bgcolor="#e6e6ff" height="25" style="border-bottom:#000000 1px solid;border-left:#000000 1px solid;border-top:#000000 1px solid;border-right:#000000 1px solid;">
+					<span style="font-size:10px;"><span style="font-family:arial, helvetica, sans-serif;">ID</span></span></td>
+				<td bgcolor="#ffffcc" style="border-bottom:#000000 1px solid;border-left:#000000 1px solid;border-top:#000000 1px solid;border-right:#000000 1px solid;">
+					<span style="font-size:10px;"><span style="font-family:arial, helvetica, sans-serif;">administrator / root</span></span></td>
+				<td bgcolor="#ffffcc" style="border-bottom:#000000 1px solid;border-left:#000000 1px solid;border-top:#000000 1px solid;border-right:#000000 1px solid;">
+					<p>
+						<span style="font-size:10px;"><span style="font-family:arial, helvetica, sans-serif;">root</span></span></p>
+					<p>
+						<span style="font-size:10px;"><span style="font-family:arial, helvetica, sans-serif;">repluser</span></span></p>
+					<p>
+						<span style="font-size:10px;"><span style="font-family:arial, helvetica, sans-serif;">backupuser</span></span></p>
+				</td>
+				<td bgcolor="#ffffcc" style="border-bottom:#000000 1px solid;border-left:#000000 1px solid;border-top:#000000 1px solid;border-right:#000000 1px solid;">
+					&nbsp;</td>
+				<td bgcolor="#ffffcc" style="border-bottom:#000000 1px solid;border-left:#000000 1px solid;border-top:#000000 1px solid;border-right:#000000 1px solid;">
+					&nbsp;</td>
+			</tr><tr><td bgcolor="#e6e6ff" height="25" style="border-bottom:#000000 1px solid;border-left:#000000 1px solid;border-top:#000000 1px solid;border-right:#000000 1px solid;">
+					<span style="font-size:10px;"><span style="font-family:arial, helvetica, sans-serif;">PW</span></span></td>
+				<td bgcolor="#ffffcc" style="border-bottom:#000000 1px solid;border-left:#000000 1px solid;border-top:#000000 1px solid;border-right:#000000 1px solid;">
+					<span style="font-size:10px;"><span style="font-family:arial, helvetica, sans-serif;">eldkqmffhTmfl20!! / thzptdpfj00!</span></span></td>
+				<td bgcolor="#ffffcc" style="border-bottom:#000000 1px solid;border-left:#000000 1px solid;border-top:#000000 1px solid;border-right:#000000 1px solid;">
+					<p>
+						<span style="font-size:10px;"><span style="font-family:arial, helvetica, sans-serif;">dlssl20aksehfvk2010</span></span></p>
+					<p>
+						<span style="font-size:10px;"><span style="font-family:arial, helvetica, sans-serif;">리플리케이션20120928</span></span></p>
+					<p>
+						<span style="font-size:10px;"><span style="font-family:arial, helvetica, sans-serif;">백업사용자0928</span></span></p>
+				</td>
+				<td bgcolor="#ffffcc" style="border-bottom:#000000 1px solid;border-left:#000000 1px solid;border-top:#000000 1px solid;border-right:#000000 1px solid;">
+					&nbsp;</td>
+				<td bgcolor="#ffffcc" style="border-bottom:#000000 1px solid;border-left:#000000 1px solid;border-top:#000000 1px solid;border-right:#000000 1px solid;">
+					&nbsp;</td>
+			</tr><tr><td bgcolor="#e6e6ff" height="25" style="border-bottom:#000000 1px solid;border-left:#000000 1px solid;border-top:#000000 1px solid;border-right:#000000 1px solid;">
+					<span style="font-size:10px;"><span style="font-family:arial, helvetica, sans-serif;">ETC</span></span></td>
+				<td bgcolor="#ffffcc" style="border-bottom:#000000 1px solid;border-left:#000000 1px solid;border-top:#000000 1px solid;border-right:#000000 1px solid;">
+					&nbsp;</td>
+				<td bgcolor="#ffffcc" style="border-bottom:#000000 1px solid;border-left:#000000 1px solid;border-top:#000000 1px solid;border-right:#000000 1px solid;">
+					&nbsp;</td>
+				<td bgcolor="#ffffcc" style="border-bottom:#000000 1px solid;border-left:#000000 1px solid;border-top:#000000 1px solid;border-right:#000000 1px solid;">
+					&nbsp;</td>
+				<td bgcolor="#ffffcc" style="border-bottom:#000000 1px solid;border-left:#000000 1px solid;border-top:#000000 1px solid;border-right:#000000 1px solid;">
+					&nbsp;</td>
+			</tr><tr><td height="25">
+					&nbsp;</td>
+				<td>
+					&nbsp;</td>
+				<td>
+					&nbsp;</td>
+				<td>
+					&nbsp;</td>
+				<td>
+					&nbsp;</td>
+			</tr><tr><td align="left" bgcolor="#ffcc99" colspan="5" height="25" style="border-bottom:#000000 1px solid;border-left:#000000 1px solid;border-top:#000000 1px solid;border-right:#000000 1px solid;">
+					<span style="font-size:10px;"><span style="font-family:arial, helvetica, sans-serif;"><strong>MindWorld</strong></span></span></td>
+			</tr><tr><td bgcolor="#e6e6ff" height="25" style="border-bottom:#000000 1px solid;border-left:#000000 1px solid;border-top:#000000 1px solid;border-right:#000000 1px solid;">
+					&nbsp;</td>
+				<td bgcolor="#e6e6ff" style="border-bottom:#000000 1px solid;border-left:#000000 1px solid;border-top:#000000 1px solid;border-right:#000000 1px solid;">
+					<span style="font-size:10px;"><span style="font-family:arial, helvetica, sans-serif;">SSH</span></span></td>
+				<td bgcolor="#e6e6ff" style="border-bottom:#000000 1px solid;border-left:#000000 1px solid;border-top:#000000 1px solid;border-right:#000000 1px solid;">
+					<span style="font-size:10px;"><span style="font-family:arial, helvetica, sans-serif;">MYSQL</span></span></td>
+				<td bgcolor="#e6e6ff" style="border-bottom:#000000 1px solid;border-left:#000000 1px solid;border-top:#000000 1px solid;border-right:#000000 1px solid;">
+					<span style="font-size:10px;"><span style="font-family:arial, helvetica, sans-serif;">PHPMYADMIN</span></span></td>
+				<td bgcolor="#e6e6ff" style="border-bottom:#000000 1px solid;border-left:#000000 1px solid;border-top:#000000 1px solid;border-right:#000000 1px solid;">
+					<span style="font-size:10px;"><span style="font-family:arial, helvetica, sans-serif;">FTP</span></span></td>
+			</tr><tr><td bgcolor="#e6e6ff" height="25" style="border-bottom:#000000 1px solid;border-left:#000000 1px solid;border-top:#000000 1px solid;border-right:#000000 1px solid;">
+					<span style="font-size:10px;"><span style="font-family:arial, helvetica, sans-serif;">HOST / url</span></span></td>
+				<td bgcolor="#ffffcc" style="border-bottom:#000000 1px solid;border-left:#000000 1px solid;border-top:#000000 1px solid;border-right:#000000 1px solid;">
+					<span style="font-size:10px;"><span style="font-family:arial, helvetica, sans-serif;">218.145.27.230</span></span></td>
+				<td bgcolor="#ffffcc" style="border-bottom:#000000 1px solid;border-left:#000000 1px solid;border-top:#000000 1px solid;border-right:#000000 1px solid;">
+					&nbsp;</td>
+				<td bgcolor="#ffffcc" style="border-bottom:#000000 1px solid;border-left:#000000 1px solid;border-top:#000000 1px solid;border-right:#000000 1px solid;">
+					<span style="font-size:10px;"><span style="font-family:arial, helvetica, sans-serif;">mw.zepetto.biz/mango</span></span></td>
+				<td bgcolor="#ffffcc" style="border-bottom:#000000 1px solid;border-left:#000000 1px solid;border-top:#000000 1px solid;border-right:#000000 1px solid;">
+					<span style="font-size:10px;"><span style="font-family:arial, helvetica, sans-serif;"><font color="#000080">mw.zepetto.biz</font></span></span></td>
+			</tr><tr><td bgcolor="#e6e6ff" height="25" style="border-bottom:#000000 1px solid;border-left:#000000 1px solid;border-top:#000000 1px solid;border-right:#000000 1px solid;">
+					<span style="font-size:10px;"><span style="font-family:arial, helvetica, sans-serif;">PORT</span></span></td>
+				<td bgcolor="#ffffcc" style="border-bottom:#000000 1px solid;border-left:#000000 1px solid;border-top:#000000 1px solid;border-right:#000000 1px solid;">
+					<span style="font-size:10px;"><span style="font-family:arial, helvetica, sans-serif;">22</span></span></td>
+				<td bgcolor="#ffffcc" style="border-bottom:#000000 1px solid;border-left:#000000 1px solid;border-top:#000000 1px solid;border-right:#000000 1px solid;">
+					&nbsp;</td>
+				<td bgcolor="#ffffcc" style="border-bottom:#000000 1px solid;border-left:#000000 1px solid;border-top:#000000 1px solid;border-right:#000000 1px solid;">
+					<span style="font-size:10px;"><span style="font-family:arial, helvetica, sans-serif;">&nbsp;80</span></span></td>
+				<td bgcolor="#ffffcc" style="border-bottom:#000000 1px solid;border-left:#000000 1px solid;border-top:#000000 1px solid;border-right:#000000 1px solid;">
+					<span style="font-size:10px;"><span style="font-family:arial, helvetica, sans-serif;">50002</span></span></td>
+			</tr><tr><td bgcolor="#e6e6ff" height="25" style="border-bottom:#000000 1px solid;border-left:#000000 1px solid;border-top:#000000 1px solid;border-right:#000000 1px solid;">
+					<span style="font-size:10px;"><span style="font-family:arial, helvetica, sans-serif;">ID</span></span></td>
+				<td bgcolor="#ffffcc" style="border-bottom:#000000 1px solid;border-left:#000000 1px solid;border-top:#000000 1px solid;border-right:#000000 1px solid;">
+					<span style="font-size:10px;"><span style="font-family:arial, helvetica, sans-serif;">administrator</span></span></td>
+				<td bgcolor="#ffffcc" style="border-bottom:#000000 1px solid;border-left:#000000 1px solid;border-top:#000000 1px solid;border-right:#000000 1px solid;">
+					<span style="font-size:10px;"><span style="font-family:arial, helvetica, sans-serif;">root</span></span></td>
+				<td bgcolor="#ffffcc" style="border-bottom:#000000 1px solid;border-left:#000000 1px solid;border-top:#000000 1px solid;border-right:#000000 1px solid;">
+					<span style="font-size:10px;"><span style="font-family:arial, helvetica, sans-serif;">root</span></span></td>
+				<td bgcolor="#ffffcc" style="border-bottom:#000000 1px solid;border-left:#000000 1px solid;border-top:#000000 1px solid;border-right:#000000 1px solid;">
+					<span style="font-size:10px;"><span style="font-family:arial, helvetica, sans-serif;">mwuser / zptuser</span></span></td>
+			</tr><tr><td bgcolor="#e6e6ff" height="49" style="border-bottom:#000000 1px solid;border-left:#000000 1px solid;border-top:#000000 1px solid;border-right:#000000 1px solid;">
+					<span style="font-size:10px;"><span style="font-family:arial, helvetica, sans-serif;">PW</span></span></td>
+				<td bgcolor="#ffffcc" style="border-bottom:#000000 1px solid;border-left:#000000 1px solid;border-top:#000000 1px solid;border-right:#000000 1px solid;">
+					<span style="font-size:10px;"><span style="font-family:arial, helvetica, sans-serif;">eldkqmffhTmfl20!!</span></span></td>
+				<td bgcolor="#ffffcc" style="border-bottom:#000000 1px solid;border-left:#000000 1px solid;border-top:#000000 1px solid;border-right:#000000 1px solid;">
+					<span style="font-size:10px;"><span style="font-family:arial, helvetica, sans-serif;">dlssl20aksehfvk2010</span></span></td>
+				<td bgcolor="#ffffcc" style="border-bottom:#000000 1px solid;border-left:#000000 1px solid;border-top:#000000 1px solid;border-right:#000000 1px solid;">
+					<span style="font-size:10px;"><span style="font-family:arial, helvetica, sans-serif;">dlssl20aksehfvk2010</span></span></td>
+				<td bgcolor="#ffffcc" style="border-bottom:#000000 1px solid;border-left:#000000 1px solid;border-top:#000000 1px solid;border-right:#000000 1px solid;">
+					<span style="font-size:10px;"><span style="font-family:arial, helvetica, sans-serif;">test01 / 히어로즈오브마이트앤매직6</span></span></td>
+			</tr><tr><td bgcolor="#e6e6ff" height="25" style="border-bottom:#000000 1px solid;border-left:#000000 1px solid;border-top:#000000 1px solid;border-right:#000000 1px solid;">
+					<span style="font-size:10px;"><span style="font-family:arial, helvetica, sans-serif;">ETC</span></span></td>
+				<td bgcolor="#ffffcc" style="border-bottom:#000000 1px solid;border-left:#000000 1px solid;border-top:#000000 1px solid;border-right:#000000 1px solid;">
+					&nbsp;</td>
+				<td bgcolor="#ffffcc" style="border-bottom:#000000 1px solid;border-left:#000000 1px solid;border-top:#000000 1px solid;border-right:#000000 1px solid;">
+					&nbsp;</td>
+				<td bgcolor="#ffffcc" style="border-bottom:#000000 1px solid;border-left:#000000 1px solid;border-top:#000000 1px solid;border-right:#000000 1px solid;">
+					&nbsp;</td>
+				<td bgcolor="#ffffcc" style="border-bottom:#000000 1px solid;border-left:#000000 1px solid;border-top:#000000 1px solid;border-right:#000000 1px solid;">
+					<span style="font-size:10px;"><span style="font-family:arial, helvetica, sans-serif;">Write / Read</span></span></td>
+			</tr><tr><td height="25">
+					&nbsp;</td>
+				<td>
+					&nbsp;</td>
+				<td>
+					&nbsp;</td>
+				<td>
+					&nbsp;</td>
+				<td>
+					&nbsp;</td>
+			</tr><tr><td align="left" bgcolor="#ffcc99" colspan="5" height="25" style="border-bottom:#000000 1px solid;border-left:#000000 1px solid;border-top:#000000 1px solid;border-right:#000000 1px solid;">
+					<span style="font-size:10px;"><span style="font-family:arial, helvetica, sans-serif;"><strong>Zepetto Homepage</strong></span></span></td>
+			</tr><tr><td bgcolor="#e6e6ff" height="25" style="border-bottom:#000000 1px solid;border-left:#000000 1px solid;border-top:#000000 1px solid;border-right:#000000 1px solid;">
+					&nbsp;</td>
+				<td bgcolor="#e6e6ff" style="border-bottom:#000000 1px solid;border-left:#000000 1px solid;border-top:#000000 1px solid;border-right:#000000 1px solid;">
+					<span style="font-size:10px;"><span style="font-family:arial, helvetica, sans-serif;">SSH</span></span></td>
+				<td bgcolor="#e6e6ff" style="border-bottom:#000000 1px solid;border-left:#000000 1px solid;border-top:#000000 1px solid;border-right:#000000 1px solid;">
+					<span style="font-size:10px;"><span style="font-family:arial, helvetica, sans-serif;">MYSQL</span></span></td>
+				<td bgcolor="#e6e6ff" style="border-bottom:#000000 1px solid;border-left:#000000 1px solid;border-top:#000000 1px solid;border-right:#000000 1px solid;">
+					<span style="font-size:10px;"><span style="font-family:arial, helvetica, sans-serif;">PHPMYADMIN</span></span></td>
+				<td bgcolor="#e6e6ff" style="border-bottom:#000000 1px solid;border-left:#000000 1px solid;border-top:#000000 1px solid;border-right:#000000 1px solid;">
+					<span style="font-size:10px;"><span style="font-family:arial, helvetica, sans-serif;">FTP</span></span></td>
+			</tr><tr><td bgcolor="#e6e6ff" height="25" style="border-bottom:#000000 1px solid;border-left:#000000 1px solid;border-top:#000000 1px solid;border-right:#000000 1px solid;">
+					<span style="font-size:10px;"><span style="font-family:arial, helvetica, sans-serif;">HOST / url</span></span></td>
+				<td bgcolor="#ffffcc" style="border-bottom:#000000 1px solid;border-left:#000000 1px solid;border-top:#000000 1px solid;border-right:#000000 1px solid;">
+					<span style="font-size:10px;"><span style="font-family:arial, helvetica, sans-serif;">218.145.27.228</span></span></td>
+				<td bgcolor="#ffffcc" style="border-bottom:#000000 1px solid;border-left:#000000 1px solid;border-top:#000000 1px solid;border-right:#000000 1px solid;">
+					&nbsp;</td>
+				<td bgcolor="#ffffcc" style="border-bottom:#000000 1px solid;border-left:#000000 1px solid;border-top:#000000 1px solid;border-right:#000000 1px solid;">
+					<span style="font-size:10px;"><span style="font-family:arial, helvetica, sans-serif;">www.zepetto.com/goat</span></span></td>
+				<td bgcolor="#ffffcc" style="border-bottom:#000000 1px solid;border-left:#000000 1px solid;border-top:#000000 1px solid;border-right:#000000 1px solid;">
+					<span style="font-size:10px;"><span style="font-family:arial, helvetica, sans-serif;"><font color="#800080">www.zepetto.com</font></span></span></td>
+			</tr><tr><td bgcolor="#e6e6ff" height="25" style="border-bottom:#000000 1px solid;border-left:#000000 1px solid;border-top:#000000 1px solid;border-right:#000000 1px solid;">
+					<span style="font-size:10px;"><span style="font-family:arial, helvetica, sans-serif;">PORT</span></span></td>
+				<td bgcolor="#ffffcc" style="border-bottom:#000000 1px solid;border-left:#000000 1px solid;border-top:#000000 1px solid;border-right:#000000 1px solid;">
+					<span style="font-size:10px;"><span style="font-family:arial, helvetica, sans-serif;">22</span></span></td>
+				<td bgcolor="#ffffcc" style="border-bottom:#000000 1px solid;border-left:#000000 1px solid;border-top:#000000 1px solid;border-right:#000000 1px solid;">
+					&nbsp;</td>
+				<td bgcolor="#ffffcc" style="border-bottom:#000000 1px solid;border-left:#000000 1px solid;border-top:#000000 1px solid;border-right:#000000 1px solid;">
+					<span style="font-size:10px;"><span style="font-family:arial, helvetica, sans-serif;">80&nbsp;</span></span></td>
+				<td bgcolor="#ffffcc" style="border-bottom:#000000 1px solid;border-left:#000000 1px solid;border-top:#000000 1px solid;border-right:#000000 1px solid;">
+					<span style="font-size:10px;"><span style="font-family:arial, helvetica, sans-serif;">21</span></span></td>
+			</tr><tr><td bgcolor="#e6e6ff" height="25" style="border-bottom:#000000 1px solid;border-left:#000000 1px solid;border-top:#000000 1px solid;border-right:#000000 1px solid;">
+					<span style="font-size:10px;"><span style="font-family:arial, helvetica, sans-serif;">ID</span></span></td>
+				<td bgcolor="#ffffcc" style="border-bottom:#000000 1px solid;border-left:#000000 1px solid;border-top:#000000 1px solid;border-right:#000000 1px solid;">
+					<span style="font-size:10px;"><span style="font-family:arial, helvetica, sans-serif;">administrator</span></span></td>
+				<td bgcolor="#ffffcc" style="border-bottom:#000000 1px solid;border-left:#000000 1px solid;border-top:#000000 1px solid;border-right:#000000 1px solid;">
+					<span style="font-size:10px;"><span style="font-family:arial, helvetica, sans-serif;">root</span></span></td>
+				<td bgcolor="#ffffcc" style="border-bottom:#000000 1px solid;border-left:#000000 1px solid;border-top:#000000 1px solid;border-right:#000000 1px solid;">
+					<span style="font-size:10px;"><span style="font-family:arial, helvetica, sans-serif;">root</span></span></td>
+				<td bgcolor="#ffffcc" style="border-bottom:#000000 1px solid;border-left:#000000 1px solid;border-top:#000000 1px solid;border-right:#000000 1px solid;">
+					<span style="font-size:10px;"><span style="font-family:arial, helvetica, sans-serif;">zptuser</span></span></td>
+			</tr><tr><td bgcolor="#e6e6ff" height="25" style="border-bottom:#000000 1px solid;border-left:#000000 1px solid;border-top:#000000 1px solid;border-right:#000000 1px solid;">
+					<span style="font-size:10px;"><span style="font-family:arial, helvetica, sans-serif;">PW</span></span></td>
+				<td bgcolor="#ffffcc" style="border-bottom:#000000 1px solid;border-left:#000000 1px solid;border-top:#000000 1px solid;border-right:#000000 1px solid;">
+					<span style="font-size:10px;"><span style="font-family:arial, helvetica, sans-serif;">eldkqmffhTmfl20!!</span></span></td>
+				<td bgcolor="#ffffcc" style="border-bottom:#000000 1px solid;border-left:#000000 1px solid;border-top:#000000 1px solid;border-right:#000000 1px solid;">
+					<span style="font-size:10px;"><span style="font-family:arial, helvetica, sans-serif;">dlssl20aksehfvk2010</span></span></td>
+				<td bgcolor="#ffffcc" style="border-bottom:#000000 1px solid;border-left:#000000 1px solid;border-top:#000000 1px solid;border-right:#000000 1px solid;">
+					<span style="font-size:10px;"><span style="font-family:arial, helvetica, sans-serif;">dlssl20aksehfvk2010</span></span></td>
+				<td bgcolor="#ffffcc" style="border-bottom:#000000 1px solid;border-left:#000000 1px solid;border-top:#000000 1px solid;border-right:#000000 1px solid;">
+					<span style="font-size:10px;"><span style="font-family:arial, helvetica, sans-serif;">제페토12#$</span></span></td>
+			</tr><tr><td bgcolor="#e6e6ff" height="25" style="border-bottom:#000000 1px solid;border-left:#000000 1px solid;border-top:#000000 1px solid;border-right:#000000 1px solid;">
+					<span style="font-size:10px;"><span style="font-family:arial, helvetica, sans-serif;">ETC</span></span></td>
+				<td bgcolor="#ffffcc" style="border-bottom:#000000 1px solid;border-left:#000000 1px solid;border-top:#000000 1px solid;border-right:#000000 1px solid;">
+					&nbsp;</td>
+				<td bgcolor="#ffffcc" style="border-bottom:#000000 1px solid;border-left:#000000 1px solid;border-top:#000000 1px solid;border-right:#000000 1px solid;">
+					&nbsp;</td>
+				<td bgcolor="#ffffcc" style="border-bottom:#000000 1px solid;border-left:#000000 1px solid;border-top:#000000 1px solid;border-right:#000000 1px solid;">
+					&nbsp;</td>
+				<td bgcolor="#ffffcc" style="border-bottom:#000000 1px solid;border-left:#000000 1px solid;border-top:#000000 1px solid;border-right:#000000 1px solid;">
+					<span style="font-size:10px;"><span style="font-family:arial, helvetica, sans-serif;">Write / Read</span></span></td>
+			</tr><tr><td height="25">
+					&nbsp;</td>
+				<td>
+					&nbsp;</td>
+				<td>
+					&nbsp;</td>
+				<td>
+					&nbsp;</td>
+				<td>
+					&nbsp;</td>
+			</tr><tr><td align="left" bgcolor="#ffcc99" colspan="5" height="25" style="border-bottom:#000000 1px solid;border-left:#000000 1px solid;border-top:#000000 1px solid;border-right:#000000 1px solid;">
+					<span style="font-size:10px;"><span style="font-family:arial, helvetica, sans-serif;"><strong>PBIC Homepage</strong></span></span></td>
+			</tr><tr><td bgcolor="#e6e6ff" height="25" style="border-bottom:#000000 1px solid;border-left:#000000 1px solid;border-top:#000000 1px solid;border-right:#000000 1px solid;">
+					&nbsp;</td>
+				<td bgcolor="#e6e6ff" style="border-bottom:#000000 1px solid;border-left:#000000 1px solid;border-top:#000000 1px solid;border-right:#000000 1px solid;">
+					<span style="font-size:10px;"><span style="font-family:arial, helvetica, sans-serif;">SSH</span></span></td>
+				<td bgcolor="#e6e6ff" style="border-bottom:#000000 1px solid;border-left:#000000 1px solid;border-top:#000000 1px solid;border-right:#000000 1px solid;">
+					<span style="font-size:10px;"><span style="font-family:arial, helvetica, sans-serif;">MYSQL</span></span></td>
+				<td bgcolor="#e6e6ff" style="border-bottom:#000000 1px solid;border-left:#000000 1px solid;border-top:#000000 1px solid;border-right:#000000 1px solid;">
+					<span style="font-size:10px;"><span style="font-family:arial, helvetica, sans-serif;">PHPMYADMIN</span></span></td>
+				<td bgcolor="#e6e6ff" style="border-bottom:#000000 1px solid;border-left:#000000 1px solid;border-top:#000000 1px solid;border-right:#000000 1px solid;">
+					<span style="font-size:10px;"><span style="font-family:arial, helvetica, sans-serif;">FTP</span></span></td>
+			</tr><tr><td bgcolor="#e6e6ff" height="25" style="border-bottom:#000000 1px solid;border-left:#000000 1px solid;border-top:#000000 1px solid;border-right:#000000 1px solid;">
+					<span style="font-size:10px;"><span style="font-family:arial, helvetica, sans-serif;">HOST / url</span></span></td>
+				<td bgcolor="#ffffcc" style="border-bottom:#000000 1px solid;border-left:#000000 1px solid;border-top:#000000 1px solid;border-right:#000000 1px solid;">
+					<span style="font-size:10px;"><span style="font-family:arial, helvetica, sans-serif;">218.145.27.237</span></span></td>
+				<td bgcolor="#ffffcc" style="border-bottom:#000000 1px solid;border-left:#000000 1px solid;border-top:#000000 1px solid;border-right:#000000 1px solid;">
+					&nbsp;</td>
+				<td bgcolor="#ffffcc" style="border-bottom:#000000 1px solid;border-left:#000000 1px solid;border-top:#000000 1px solid;border-right:#000000 1px solid;">
+					<span style="font-size:10px;"><span style="font-family:arial, helvetica, sans-serif;">www.fps-pb.com/pbicDB</span></span></td>
+				<td bgcolor="#ffffcc" style="border-bottom:#000000 1px solid;border-left:#000000 1px solid;border-top:#000000 1px solid;border-right:#000000 1px solid;">
+					<span style="font-size:10px;"><span style="font-family:arial, helvetica, sans-serif;">www.fps-pb.com</span></span></td>
+			</tr><tr><td bgcolor="#e6e6ff" height="25" style="border-bottom:#000000 1px solid;border-left:#000000 1px solid;border-top:#000000 1px solid;border-right:#000000 1px solid;">
+					<span style="font-size:10px;"><span style="font-family:arial, helvetica, sans-serif;">PORT</span></span></td>
+				<td bgcolor="#ffffcc" style="border-bottom:#000000 1px solid;border-left:#000000 1px solid;border-top:#000000 1px solid;border-right:#000000 1px solid;">
+					<span style="font-size:10px;"><span style="font-family:arial, helvetica, sans-serif;">22</span></span></td>
+				<td bgcolor="#ffffcc" style="border-bottom:#000000 1px solid;border-left:#000000 1px solid;border-top:#000000 1px solid;border-right:#000000 1px solid;">
+					&nbsp;</td>
+				<td bgcolor="#ffffcc" style="border-bottom:#000000 1px solid;border-left:#000000 1px solid;border-top:#000000 1px solid;border-right:#000000 1px solid;">
+					<span style="font-size:10px;"><span style="font-family:arial, helvetica, sans-serif;">80&nbsp;</span></span></td>
+				<td bgcolor="#ffffcc" style="border-bottom:#000000 1px solid;border-left:#000000 1px solid;border-top:#000000 1px solid;border-right:#000000 1px solid;">
+					<span style="font-size:10px;"><span style="font-family:arial, helvetica, sans-serif;">21</span></span></td>
+			</tr><tr><td bgcolor="#e6e6ff" height="25" style="border-bottom:#000000 1px solid;border-left:#000000 1px solid;border-top:#000000 1px solid;border-right:#000000 1px solid;">
+					<span style="font-size:10px;"><span style="font-family:arial, helvetica, sans-serif;">ID</span></span></td>
+				<td bgcolor="#ffffcc" style="border-bottom:#000000 1px solid;border-left:#000000 1px solid;border-top:#000000 1px solid;border-right:#000000 1px solid;">
+					<span style="font-size:10px;"><span style="font-family:arial, helvetica, sans-serif;">administrator</span></span></td>
+				<td bgcolor="#ffffcc" style="border-bottom:#000000 1px solid;border-left:#000000 1px solid;border-top:#000000 1px solid;border-right:#000000 1px solid;">
+					<span style="font-size:10px;"><span style="font-family:arial, helvetica, sans-serif;">root</span></span></td>
+				<td bgcolor="#ffffcc" style="border-bottom:#000000 1px solid;border-left:#000000 1px solid;border-top:#000000 1px solid;border-right:#000000 1px solid;">
+					<span style="font-size:10px;"><span style="font-family:arial, helvetica, sans-serif;">root</span></span></td>
+				<td bgcolor="#ffffcc" style="border-bottom:#000000 1px solid;border-left:#000000 1px solid;border-top:#000000 1px solid;border-right:#000000 1px solid;">
+					<span style="font-size:10px;"><span style="font-family:arial, helvetica, sans-serif;">zptuser</span></span></td>
+			</tr><tr><td bgcolor="#e6e6ff" height="25" style="border-bottom:#000000 1px solid;border-left:#000000 1px solid;border-top:#000000 1px solid;border-right:#000000 1px solid;">
+					<span style="font-size:10px;"><span style="font-family:arial, helvetica, sans-serif;">PW</span></span></td>
+				<td bgcolor="#ffffcc" style="border-bottom:#000000 1px solid;border-left:#000000 1px solid;border-top:#000000 1px solid;border-right:#000000 1px solid;">
+					<span style="font-size:10px;"><span style="font-family:arial, helvetica, sans-serif;">eldkqmffhTmfl20!!</span></span></td>
+				<td bgcolor="#ffffcc" style="border-bottom:#000000 1px solid;border-left:#000000 1px solid;border-top:#000000 1px solid;border-right:#000000 1px solid;">
+					<span style="font-size:10px;"><span style="font-family:arial, helvetica, sans-serif;">4월9일디아쓰리한정판</span></span></td>
+				<td bgcolor="#ffffcc" style="border-bottom:#000000 1px solid;border-left:#000000 1px solid;border-top:#000000 1px solid;border-right:#000000 1px solid;">
+					<span style="font-size:10px;"><span style="font-family:arial, helvetica, sans-serif;">4월9일디아쓰리한정판</span></span></td>
+				<td bgcolor="#ffffcc" style="border-bottom:#000000 1px solid;border-left:#000000 1px solid;border-top:#000000 1px solid;border-right:#000000 1px solid;">
+					<span style="font-size:10px;"><span style="font-family:arial, helvetica, sans-serif;">제페토12#$</span></span></td>
+			</tr><tr><td bgcolor="#e6e6ff" height="25" style="border-bottom:#000000 1px solid;border-left:#000000 1px solid;border-top:#000000 1px solid;border-right:#000000 1px solid;">
+					<span style="font-size:10px;"><span style="font-family:arial, helvetica, sans-serif;">ETC</span></span></td>
+				<td bgcolor="#ffffcc" style="border-bottom:#000000 1px solid;border-left:#000000 1px solid;border-top:#000000 1px solid;border-right:#000000 1px solid;">
+					&nbsp;</td>
+				<td bgcolor="#ffffcc" style="border-bottom:#000000 1px solid;border-left:#000000 1px solid;border-top:#000000 1px solid;border-right:#000000 1px solid;">
+					&nbsp;</td>
+				<td bgcolor="#ffffcc" style="border-bottom:#000000 1px solid;border-left:#000000 1px solid;border-top:#000000 1px solid;border-right:#000000 1px solid;">
+					&nbsp;</td>
+				<td bgcolor="#ffffcc" style="border-bottom:#000000 1px solid;border-left:#000000 1px solid;border-top:#000000 1px solid;border-right:#000000 1px solid;">
+					<span style="font-size:10px;"><span style="font-family:arial, helvetica, sans-serif;">Write / Read</span></span></td>
+			</tr></tbody></table><p>
+		&nbsp;</p>
+	<p>
+		<strike><strong><span style="color:#ff0000;">* Zepetto SVN에 프로젝트별 유저 ssh 접속 아이디</span></strong></strike><strong><span style="color:#ff0000;"> (정책문제로 인해 임시로 잠궈놈)</span></strong></p>
+	<p>
+		<strike><span style="color:#0000ff;"><strong>SOW&nbsp;프로젝트</strong></span></strike></p>
+	<p>
+		<strike><span style="color:#0000ff;">ID : sow</span></strike></p>
+	<p>
+		<strike><span style="color:#0000ff;">PW : jazzjackrabbit1999</span></strike></p>
+	<p>
+		<strike><span style="color:#0000ff;"><strong>MPVP 프로젝트</strong></span></strike></p>
+	<p>
+		<strike><span style="color:#0000ff;">ID : mpvp</span></strike></p>
+	<p>
+		<strike><span style="color:#0000ff;">PW : jazzjackrabbit1999</span></strike></p>
+	<p>
+		&nbsp;</p>
+	<p>
+		<strong>DMZ</strong></p>
+	<p>
+		deki (&nbsp;내부서비스용 )&nbsp;115.91.29.156</p>
+	<p>
+		tama (&nbsp;내부개발용&nbsp;) 115.91.29.167</p>
+	<p>
+		homepage (&nbsp;내부개발용&nbsp;) 115.91.29.161</p>
+	<p>
+		pbsvn (&nbsp;내부서비스용 ) 115.91.29.181</p>
+	<p>
+		redmine (&nbsp;내부서비스용 ) 115.91.29.157</p>
+	<p>
+		tama (&nbsp;내부서비스용 ) 115.91.29.163</p>
+	<p>
+		tiki (&nbsp;내부서비스용 ) 115.91.29.168</p>
+	<p>
+		&nbsp;</p>
+	<p>
+		<strong>IDC</strong></p>
+	<p>
+		deki 218.145.27.226</p>
+	<p>
+		mw, ftp, svn 218.145.27.230</p>
+	<p>
+		redmine 218.145.27.229</p>
+	<p>
+		sanDB 218.145.27.241</p>
+	<p>
+		sanWeb 218.145.27.227</p>
+	<p>
+		sanCLONE 218.145.27.240</p>
+	<p>
+		tms 218.145.27.233</p>
+	<p>
+		testdeki 218.145.27.232</p>
+	<p>
+		homepage 218.145.27.228</p>
+	<p>
+		login.zepetto.biz 218.145.27.234</p>
+	<p>
+		시스템3메인 218.145.27.231</p>
+	<p>
+		&nbsp;</p>
+	<p>
+		etc</p>
+	<p>
+		pb하자하자 192.168.101.12</p>
+</div>
+<ol style="list-style-type:none;padding-left:0px;margin-left:0px;"><li>
+		<span>1.</span> <a href="http://115.91.29.193/tiki-index.php?page_ref_id=12066#Zepetto_.EC.8B.9C.EC.8A.A4.ED.85.9C_.EC.84.9C.EB.B2.84.C2.A0.EC.A0.91.EC.86.8D_.EC.A0.95.EB.B3.B4" rel="internal">Zepetto 시스템 서버&nbsp;접속 정보</a></li>
+</ol>
+
+			</div>
+	
+	
+	<hr class="hrwikibottom"> 
+
+	
+	</article> 
+
+
+<footer class="editdate">
+			이 페이지 등급 지정:
+	    <form method="post" action="http://115.91.29.193/tiki-index.php?page_ref_id=12066">
+			<div class="rating">
+						<input type="radio" name="rating_value[wiki page][11931]" value="1" id="wiki page11931_1">
+			<label for="wiki page11931_1">
+					<img src="./kLOUD-io _ Internal Auth_files/2.png">
+			</label>
+					<input type="radio" name="rating_value[wiki page][11931]" value="2" id="wiki page11931_2">
+			<label for="wiki page11931_2">
+					<img src="./kLOUD-io _ Internal Auth_files/12.png">
+			</label>
+				<input type="hidden" name="rating_prev[wiki page][11931]" value="">
+	<input type="submit" class="btn btn-default" value="평가">
+
+			<table class="ratingDeliberationResultTable" style="width:100%;"><tbody><tr></tr></tbody></table>
+	</div>
+
+	    </form>
+	
+				본 페이지에 기여하신 분: <a title="사용자정보" href="http://115.91.29.193/tiki-user_information.php?userId=-1" class="userlink ajaxtips" rel="tiki-ajax_services.php?controller=user&amp;action=info&amp;username=seunghyun.yi%40zepetto.com">seunghyun.yi@zepetto.com</a>
+	.
+	<br>
+	페이지는 2012년 9월 28일 금요일 16:24:49 KST 에 <a title="사용자정보" href="http://115.91.29.193/tiki-user_information.php?userId=-1" class="userlink ajaxtips" rel="tiki-ajax_services.php?controller=user&amp;action=info&amp;username=seunghyun.yi%40zepetto.com">seunghyun.yi@zepetto.com</a> 님에 의하여 최종 수정되었습니다. 
+			(버전 8)
+	
+	
+	
+	
+	</footer>
+
+
+	<div class="wikitopline clearfix" style="clear: both;">
+	<div class="content">
+					<div class="wikiinfo" style="float: left">
+								
+									<small><a class="link" href="http://115.91.29.193/tiki-index.php?page_id=11931">페이지 id: 11931</a></small>
+								
+				
+				
+											</div>
+
+												<div class="wikiactions" style="float: right; padding-left:10px; white-space: nowrap">
+						<div class="icons" style="float: left;">
+															<a href="http://115.91.29.193/tiki-print.php?page_ref_id=12066&amp;display=pdf&amp;page=Internal+Auth" title="PDF"><img src="./kLOUD-io _ Internal Auth_files/page_white_acrobat.png" alt="PDF" width="16" height="16" title="PDF" class="icon"></a>
+																															<a title="이 페이지 편집" href="http://115.91.29.193/tiki-editpage.php?page=Internal%20Auth&amp;page_ref_id=12066"><img src="./kLOUD-io _ Internal Auth_files/page_edit.png" alt="이 페이지 편집" width="16" height="16" title="이 페이지 편집" class="icon"></a>
+																			
+										<a title="편집 아이콘 보기" href="http://115.91.29.193/tiki-index.php?page_ref_id=12066#" id="wiki_plugin_edit_view"><img src="./kLOUD-io _ Internal Auth_files/wiki_plugin_edit_view.png" alt="표시" width="16" height="16" title="편집 아이콘 보기" class="icon"></a>
+																																																																														<a title="인쇄" href="http://115.91.29.193/tiki-print.php?page_ref_id=12066"><img src="./kLOUD-io _ Internal Auth_files/printer.png" alt="인쇄" width="16" height="16" title="인쇄" class="icon"></a>
+												
+															<a title="이 페이지 공유" href="http://115.91.29.193/tiki-share.php?url=%2Ftiki-index.php%3Fpage_ref_id%3D12066"><img src="./kLOUD-io _ Internal Auth_files/share_link.png" alt="이 페이지 공유" width="16" height="16" title="이 페이지 공유" class="icon"></a>
+																													<a title="메모장에 저장" href="http://115.91.29.193/tiki-index.php?page=Internal%20Auth&amp;savenotepad=1&amp;page_ref_id=12066"><img src="./kLOUD-io _ Internal Auth_files/disk.png" alt="메모장에 저장" width="16" height="16" title="메모장에 저장" class="icon"></a>
+																															<a href="http://115.91.29.193/tiki-index.php?page=Internal%20Auth&amp;watch_event=wiki_page_changed&amp;watch_object=Internal%20Auth&amp;watch_action=add&amp;structure=Team-Web" class="icon"><img src="./kLOUD-io _ Internal Auth_files/eye.png" alt="페이지가 주시하고 있지 않습니다. 아이콘을 클릭하여 주시하십시오." width="16" height="16" title="페이지가 주시하고 있지 않습니다. 아이콘을 클릭하여 주시하십시오." class="icon"></a>
+																																			<a href="http://115.91.29.193/tiki-index.php?page=Internal%20Auth&amp;watch_event=structure_changed&amp;watch_object=12066&amp;watch_action=add_desc&amp;structure=Team-Web"><img src="./kLOUD-io _ Internal Auth_files/eye_arrow_down.png" alt="하위 구조체를 주시" width="16" height="16" title="하위 구조체를 주시" class="icon"></a>
+																																							<a href="http://115.91.29.193/tiki-object_watches.php?objectId=Internal%20Auth&amp;watch_event=wiki_page_changed&amp;objectType=wiki+page&amp;objectName=Internal%20Auth&amp;objectHref=tiki-index.php%3Fpage%3DInternal%20Auth" class="icon"><img src="./kLOUD-io _ Internal Auth_files/eye_group.png" alt="그룹 주시" width="16" height="16" title="그룹 주시" class="icon"></a>
+					
+																	<a href="http://115.91.29.193/tiki-object_watches.php?objectId=12066&amp;watch_event=structure_changed&amp;objectType=structure&amp;objectName=Internal%20Auth&amp;objectHref=tiki-index.php%3Fpage_ref_id%3D12066" class="icon"><img src="./kLOUD-io _ Internal Auth_files/eye_group_arrow_down.png" alt="구조체를 그룹 주시" width="16" height="16" title="구조체를 그룹 주시" class="icon"></a>
+																																												<div class="lang_select">
+									
+<ul class="clearfix cssmenu_horiz sf-js-enabled sf-arrows">
+	<li class="tabmark">
+	
+		<img src="./kLOUD-io _ Internal Auth_files/world.png" alt="세계" width="16" height="16" class="icon" title="현재 언어: 한국어 (ko)">
+	
+        		<ul style="float: none; width: 11em; display: none;">
+			<li class="tabcontent" style="white-space: normal; float: left; width: 100%;">
+			
+							<a href="http://115.91.29.193/tiki-index.php?page=Internal%20Auth&amp;no_bl=y" title="한국어 (ko): Internal Auth" class="selected" style="float: none; width: auto;">
+					한국어 (ko)
+				</a>
+						
+							
+										
+									
+												
+							
+							
+													<div>
+						<img src="./kLOUD-io _ Internal Auth_files/world_edit.png" alt="편집" width="16" height="16" title="유지" class="icon"> 유지
+					</div>
+										<a href="http://115.91.29.193/tiki-edit_translation.php?page=Internal%20Auth&amp;no_bl=y" title="페이지 번역" style="float: none; width: auto;">
+						번역
+					</a>
+					<a href="http://115.91.29.193/tiki-ajax_services.php?controller=translation&amp;action=manage&amp;type=wiki+page&amp;source=Internal+Auth" class="attach_detach_translation" data-object_type="wiki page" data-object_id="Internal Auth" title="페이지 번역 관리" style="float: none; width: auto;">
+						번역 관리
+					</a>
+				
+								
+			</li>
+		</ul>
+        	</li>
+</ul>
+
+
+								</div>
+													</div><!-- END of icons -->
+					</div> 
+				 
+					 
+	</div> 
+</div> 
+
+				
+					<div class="clearfix favorite_unselected" id="page-bar">
+				<span type="button" class="btn btn-default button"><a href="http://115.91.29.193/tiki-ajax_services.php?controller=favorite&amp;action=toggle&amp;type=wiki+page&amp;object=Internal+Auth" class="register"><img style="vertical-align: top; margin-right: .2em;" src="./kLOUD-io _ Internal Auth_files/star_grey.png">Favorite</a></span><span type="button" class="btn btn-default button"><a href="http://115.91.29.193/tiki-editpage.php?page=Internal+Auth&amp;page_ref_id=12066">이 페이지 편집</a></span><span type="button" class="btn btn-default button"><a href="http://115.91.29.193/tiki-pagehistory.php?page=Internal+Auth&amp;source=0">소스</a></span><span type="button" class="btn btn-default button"><a href="http://115.91.29.193/tiki-removepage.php?page=Internal+Auth&amp;version=last">제거</a></span><span type="button" class="btn btn-default button"><a href="http://115.91.29.193/tiki-rename_page.php?page=Internal+Auth">이름변경</a></span><span type="button" class="btn btn-default button"><a href="http://115.91.29.193/tiki-objectpermissions.php?objectId=Internal+Auth&amp;objectName=Internal+Auth&amp;objectType=wiki%2Bpage&amp;permType=wiki">권한</a></span><span type="button" class="btn btn-default button"><a href="http://115.91.29.193/tiki-pagehistory.php?page=Internal+Auth">기록</a></span><span type="button" class="btn btn-default button"><a href="http://115.91.29.193/tiki-index.php?page=Internal+Auth&amp;undo=1">복구</a></span><span type="button" class="btn btn-default button"><a href="http://115.91.29.193/tiki-slideshow.php?page=Internal+Auth">슬라이드쇼</a></span><span type="button" class="btn btn-default button"><a href="http://115.91.29.193/tiki-export_wiki_pages.php?page=Internal+Auth">내보내기</a></span>													<span type="button" class="btn btn-default button"><a onclick="javascript:flip(&#39;attzone&#39;);flip(&#39;attzone_close&#39;,&#39;inline&#39;);return false;" href="http://115.91.29.193/tiki-index.php?page_ref_id=12066#attachments">파일 첨부						<span id="attzone_close" style="display:inline;"> (숨김)</span></a></span>
+											
+											<span type="button" class="btn btn-default button"><a href="http://115.91.29.193/tiki-edit_translation.php?page=Internal+Auth">번역</a></span>
+					
+											<span type="button" class="btn btn-default button"><a href="http://115.91.29.193/tiki-admin_keywords.php?page=Internal+Auth">키워드</a></span>
+																<span type="button" class="btn btn-default button"><a href="http://115.91.29.193/tiki-user_bookmarks.php?urlname=Internal+Auth&amp;urlurl=tiki-index.php%3Fpage%3DInternal%2BAuth%3Fpage_ref_id%3D12066&amp;addurl=Add">북마크</a></span>
+														
+			</div>
+		
+					<a name="attachments"></a>
+							
+<a name="attachments"></a>
+
+	<div id="attzone" style="display:block;">
+
+	
+
+	
+	
+
+			<form enctype="multipart/form-data" action="http://115.91.29.193/tiki-index.php?page=Internal%20Auth" method="post">
+							<input type="hidden" name="page_ref_id" value="12066">
+									<table class="formcolor">
+				<tbody><tr>
+					<td>
+						<label for="attach-upload">파일 업로드:</label><input type="hidden" name="MAX_FILE_SIZE" value="1000000000">
+						<input size="16" name="userfile1" type="file" id="attach-upload">
+						<label for="attach-comment">댓글:</label><input type="text" name="attach_comment" maxlength="250" id="attach-comment">
+						<input type="submit" class="btn btn-default" name="attach" value="첨부">
+					</td>
+				</tr>
+			</tbody></table>
+		</form>
+	</div>
+					
+					<div id="comment-container"></div>
+		
+	
+	
+											</div>
+																						
+										</div>
+																			</div>
+								</div>
+
+																											<div id="col2">
+											<div class="content modules" id="left_modules">
+	
+
+
+		
+
+			<div id="module_3" class="box box-login_box module">
+			<h3 class="box-title clearfix">
+							<span class="moduletitle"><a href="http://115.91.29.193/tiki-index.php?page=%EB%A1%9C%EA%B7%B8%EC%9D%B8">로그인</a></span>
+							<span class="moduleflip" id="moduleflip-login_boxleft1">
+				<a title="모듈 컨텐츠 토글" class="flipmodtitle" href="javascript:icntoggle(&#39;mod-login_boxleft1&#39;,&#39;module.png&#39;);">
+					<img src="./kLOUD-io _ Internal Auth_files/module.png" alt="[토글]" width="16" height="16" id="icnmod-login_boxleft1" class="flipmodimage" title="[토글]">
+				</a>
+			</span>
+							<!--[if IE]><br class="clear" style="height: 1px !important" /><![endif]--></h3>
+			<div id="mod-login_boxleft1" style="display: block;" class="clearfix ">
+
+							<div>로그인 된 계정: <span style="white-space: nowrap"><a title="Your Information" href="http://115.91.29.193/tiki-user_information.php?userId=1" class="userlink ajaxtips" rel="tiki-ajax_services.php?controller=user&amp;action=info&amp;username=admin">System Administrator</a></span></div>
+			<div style="text-align: center;">
+				<span type="button" class="btn btn-default button"><a href="http://115.91.29.193/tiki-logout.php">로그아웃</a></span>
+			</div>
+							<form action="http://115.91.29.193/tiki-login.php" method="post">
+					<fieldset>
+						<legend>사용자 변경</legend>
+						<label for="login-switchuser_1">사용자이름:</label>
+						<input type="hidden" name="su" value="1">
+													<a title="사용자 변경:사용자명을 입력하고 &#39;전환&#39;을 클릭하십시오.&lt;br&gt;권한 테스트용으로 유용합니다." href="http://doc.tiki.org/Switch+User" target="tikihelp" class="tikihelp"><img src="./kLOUD-io _ Internal Auth_files/help.png" height="16" width="16" alt="도움말"></a>
+												<span role="status" aria-live="polite" class="ui-helper-hidden-accessible"></span><input type="text" name="username" id="login-switchuser_1" size="15" class="ui-autocomplete-input" autocomplete="off">
+						<div style="text-align: center"><button type="submit" class="btn btn-default" name="actsu">변경</button></div>
+						
+					</fieldset>
+				</form>
+								
+
+		</div>
+		<div class="box-footer">
+
+		</div>
+	</div>
+	
+ <div id="module_38" class="box box-search module"><h3 class="box-title"><a href="http://115.91.29.193/tiki-index.php?page=%EA%B2%80%EC%83%89">검색</a><!--[if IE]><br class="clear" style="height: 1px !important" /><![endif]--></h3><div id="mod-searchleft2" style="display: block;" class="clearfix "><form id="search-module-form1" method="get" action="http://115.91.29.193/tiki-searchindex.php" onsubmit="return submitSearch1()"><div><span role="status" aria-live="polite" class="ui-helper-hidden-accessible"></span><input id="search_mod_input_1" name="filter~content" type="text" accesskey="s" value="" class="ui-autocomplete-input" autocomplete="off"> in: <select name="filter~type" style="width:10em;"><option value="">사이트 전체</option><option value="wiki page">위키 페이지들</option><option value="blog post">블로그 게시물</option><option value="article">기사</option><option value="file">파일</option><option value="forum post">게시판</option><option value="trackeritem">트래커</option></select><input type="submit" class="wikiaction tips button_default" name="search" value="검색" title="검색|사이트를 통하여 텍스트에 대하여 검색." onclick="$(&#39;#search-module-form1&#39;).attr(&#39;action&#39;, &#39;tiki-searchindex.php&#39;).attr(&#39;page_selected&#39;,&#39;&#39;);"><input type="submit" class="wikiaction tips" name="go" value="제목" title="검색|페이지로 직접 이동하거나 정확한 일치가 발견되지 않는 경우 페이지 내부에서 찾습니다." onclick="$(&#39;#search-module-form1&#39;).attr(&#39;action&#39;, &#39;tiki-listpages.php&#39;).attr(&#39;page_selected&#39;,&#39;&#39;); $(&#39;#search-module-form1 input[name=\&#39;filter~content\&#39;]&#39;).attr(&#39;name&#39;, &#39;find&#39;); "><input type="hidden" name="exact_match" value=""><input type="submit" class="wikiaction tips" name="edit" value="편집" title="검색|기존 페이지 편집 혹은 새 페이지 만들기." onclick="$(&#39;#search-module-form1 input[name!=\&#39;filter~content\&#39;]&#39;).attr(&#39;name&#39;, &#39;&#39;); $(&#39;#search-module-form1 input[name=\&#39;filter~content\&#39;]&#39;).attr(&#39;name&#39;, &#39;page&#39;); $(&#39;#search-module-form1&#39;).attr(&#39;action&#39;, &#39;tiki-editpage.php&#39;).attr(&#39;page_selected&#39;,&#39;&#39;);"></div></form></div><div class="box-footer"></div></div> 
+
+
+		<div id="module_4" style="" class="module box-quickadmin clearfix">
+			<div id="mod-quickadminleft3" class="clearfix">
+
+			<div id="quickadmin" style="text-align: left; padding-left: 12px;">
+			<ul class="cssmenu_horiz clearfix sf-js-enabled sf-arrows" style="display: inline-block;line-height: 30px;">
+				<li>
+											<a class="sf-with-ul">&nbsp;</a>
+										<ul class="recent-prefs" style="float: none; width: 13.8182em; display: none;">
+						<li style="line-height: 2em; white-space: normal; float: left; width: 100%;"><em>최근:</em></li>
+													<li style="white-space: normal; float: left; width: 100%;">
+								<a href="http://115.91.29.193/tiki-admin.php?lm_criteria=language" style="float: none; width: auto;">language</a>
+							</li>
+													<li style="white-space: normal; float: left; width: 100%;">
+								<a href="http://115.91.29.193/tiki-admin.php?lm_criteria=memcache%20AND%20servers" style="float: none; width: auto;">memcache servers</a>
+							</li>
+													<li style="white-space: normal; float: left; width: 100%;">
+								<a href="http://115.91.29.193/tiki-admin.php?lm_criteria=zend%20AND%20mail%20AND%20smtp%20AND%20server" style="float: none; width: auto;">zend mail smtp server</a>
+							</li>
+													<li style="white-space: normal; float: left; width: 100%;">
+								<a href="http://115.91.29.193/tiki-admin.php?lm_criteria=testMail" style="float: none; width: auto;">testMail</a>
+							</li>
+													<li style="white-space: normal; float: left; width: 100%;">
+								<a href="http://115.91.29.193/tiki-admin.php?lm_criteria=wikiplugin%20AND%20js" style="float: none; width: auto;">wikiplugin js</a>
+							</li>
+													<li style="white-space: normal; float: left; width: 100%;">
+								<a href="http://115.91.29.193/tiki-admin.php?lm_criteria=known%20AND%20hosts" style="float: none; width: auto;">known hosts</a>
+							</li>
+													<li style="white-space: normal; float: left; width: 100%;">
+								<a href="http://115.91.29.193/tiki-admin.php?lm_criteria=kaltura%20AND%20kServiceUrl" style="float: none; width: auto;">kaltura kServiceUrl</a>
+							</li>
+													<li style="white-space: normal; float: left; width: 100%;">
+								<a href="http://115.91.29.193/tiki-admin.php?lm_criteria=kaltura%20AND%20secret" style="float: none; width: auto;">kaltura secret</a>
+							</li>
+													<li style="white-space: normal; float: left; width: 100%;">
+								<a href="http://115.91.29.193/tiki-admin.php?lm_criteria=kaltura%20AND%20adminSecret" style="float: none; width: auto;">kaltura adminSecret</a>
+							</li>
+													<li style="white-space: normal; float: left; width: 100%;">
+								<a href="http://115.91.29.193/tiki-admin.php?lm_criteria=kaltura%20AND%20kdpEditUIConf" style="float: none; width: auto;">kaltura kdpEditUIConf</a>
+							</li>
+											</ul>
+				</li>
+			</ul>
+			<a href="http://115.91.29.193/tiki-admin.php"><img src="./kLOUD-io _ Internal Auth_files/house.png" alt="House" width="16" height="16" title="관리 홈" class="icon"></a> 
+			<a href="http://115.91.29.193/tiki-admin.php?page=look&amp;cookietab=2"><img src="./kLOUD-io _ Internal Auth_files/wrench.png" alt="Wrench" width="16" height="16" title="UX 수정 (로고, 테마, 등등.)" class="icon"></a> 
+			<a href="http://115.91.29.193/tiki-adminusers.php"><img src="./kLOUD-io _ Internal Auth_files/user.png" alt="사용자" width="16" height="16" title="사용자" class="icon"></a>
+			<a href="http://115.91.29.193/tiki-admingroups.php"><img src="./kLOUD-io _ Internal Auth_files/group.png" alt="그룹" width="16" height="16" title="그룹" class="icon"></a>			
+			<a href="http://115.91.29.193/tiki-objectpermissions.php"><img src="./kLOUD-io _ Internal Auth_files/key.png" alt="키" width="16" height="16" title="권한" class="icon"></a>
+			<a href="http://115.91.29.193/tiki-admin_menus.php"><img src="./kLOUD-io _ Internal Auth_files/application_side_tree.png" alt="트리" width="16" height="16" title="메뉴" class="icon"></a>
+												<a href="http://115.91.29.193/tiki-interactive_trans.php?interactive_translation_mode=on"><img src="./kLOUD-io _ Internal Auth_files/world_edit.png" alt="편집" width="16" height="16" title="대화형 번역기능을 토글" class="icon"></a>
+																<a href="http://115.91.29.193/tiki-admin_system.php?do=all"><img src="./kLOUD-io _ Internal Auth_files/database_refresh.png" alt="갱신" width="16" height="16" title="모든 티키 캐시 삭제" class="icon"></a>
+			<a href="http://115.91.29.193/tiki-admin.php?page=search&amp;rebuild=now"><img src="./kLOUD-io _ Internal Auth_files/table_refresh.png" alt="갱신" width="16" height="16" title="검색 색인 다시 빌드" class="icon"></a>
+			<a href="http://115.91.29.193/tiki-plugins.php"><img src="./kLOUD-io _ Internal Auth_files/plugin.png" alt="플러그인" width="16" height="16" title="플러그인 승인" class="icon"></a>
+			<a href="http://115.91.29.193/tiki-syslog.php"><img src="./kLOUD-io _ Internal Auth_files/book.png" alt="장부" width="16" height="16" title="시스로그" class="icon"></a>
+			<a href="http://115.91.29.193/tiki-admin_modules.php"><img src="./kLOUD-io _ Internal Auth_files/module.png" alt="모듈" width="16" height="16" title="모듈" class="icon"></a>
+							<a href="http://115.91.29.193/tiki-index.php?page_ref_id=12066&amp;show_smarty_debug=1"><img src="./kLOUD-io _ Internal Auth_files/bug.png" alt="Bug" width="16" height="16" title="스마티 디버그 창 열기" class="icon"></a>
+								</div>
+	
+
+		</div>
+	</div>
+
+
+
+			<div id="module_13" class="box box-menu module">
+			<h3 class="box-title clearfix">
+							<span class="moduletitle"><a href="http://115.91.29.193/tiki-index.php?page=Life%20on%20kLOUD">Life on kLOUD</a></span>
+						<!--[if IE]><br class="clear" style="height: 1px !important" /><![endif]--></h3>
+			<div id="mod-menuleft4" style="display: block;" class="clearfix ">
+
+	
+<nav class="role_navigation"><link rel="stylesheet" type="text/css" media="screen" href="./kLOUD-io _ Internal Auth_files/css.css">
+<link rel="stylesheet" type="text/css" media="screen" href="./kLOUD-io _ Internal Auth_files/expandablenav.css"> 
+<script type="text/javascript" src="./kLOUD-io _ Internal Auth_files/js.js.Без названия"></script>    
+<script type="text/javascript">
+	var aLt = aLt || []; var wfMsg = wfMsg || function (key) { return aLt[key] ? aLt[key] : 'MISSING: ' + key; };
+	YAHOO.util.Event.addListener(document, 'click', function () { DWMenu.BodyClick(); });
+	YAHOO.util.Event.onDOMReady(function () { new clientWindow });
+	YAHOO.util.Event.onDOMReady(function() {new hookTOCLinks});
+	YAHOO.util.Event.onDOMReady(function() {
+		tb_init("a.lightbox, area.lightbox, input.lightbox, a[rel='awesomebox']");//pass where to apply thickbox
+	});
+
+	YAHOO.util.Event.onDOMReady(function() {
+		MTComments.HookBehavior();
+	});
+</script>
+<script type="text/javascript" src="./kLOUD-io _ Internal Auth_files/expandablenav.js.Без названия"></script>
+<div id="siteNavTree">
+		<ul class="">
+			<li id="n12398" class="node parentClosed child">
+			<div class="icon" onclick="TikiExpandableNav.Toggle(this,event);"><a onclick="if (!event) var event = window.event; event.cancelBubble = true; if (event.stopPropagation) event.stopPropagation();" href="http://115.91.29.193/tiki-index.php?page_ref_id=12398&amp;page=FAQ+%EC%9E%90%EC%A3%BC+%EB%AC%BB%EB%8A%94+%EC%A7%88%EB%AC%B8">FAQ 자주 묻는 질문</a></div>
+			
+			</li>
+		</ul>
+	
+		<ul class="">
+			<li id="n11751" class="node parentClosed">
+			<div class="icon" onclick="TikiExpandableNav.Toggle(this,event);"><a onclick="if (!event) var event = window.event; event.cancelBubble = true; if (event.stopPropagation) event.stopPropagation();" href="http://115.91.29.193/tiki-index.php?page_ref_id=11751&amp;page=K-%EA%B0%80%EC%A1%B1+%EC%86%8C%EA%B0%9C">K-가족 소개</a></div>
+			
+			</li>
+		</ul>
+	
+		<ul class="">
+			<li id="n11305" class="node parentClosed">
+			<div class="icon" onclick="TikiExpandableNav.Toggle(this,event);"><a onclick="if (!event) var event = window.event; event.cancelBubble = true; if (event.stopPropagation) event.stopPropagation();" href="http://115.91.29.193/tiki-index.php?page_ref_id=11305&amp;page=Photo+Gallery">Photo Gallery</a></div>
+			
+			</li>
+		</ul>
+	
+		<ul class="">
+			<li id="n7650" class="node parentClosed child">
+			<div class="icon" onclick="TikiExpandableNav.Toggle(this,event);"><a onclick="if (!event) var event = window.event; event.cancelBubble = true; if (event.stopPropagation) event.stopPropagation();" href="http://115.91.29.193/tiki-index.php?page_ref_id=7650&amp;page=Serendipity+Wall-%EB%8F%84%EC%84%9C%EB%AA%A9%EB%A1%9D">Serendipity Wall-도서목록</a></div>
+			
+			</li>
+		</ul>
+	
+		<ul class="">
+			<li id="n12527" class="node parentClosed">
+			<div class="icon" onclick="TikiExpandableNav.Toggle(this,event);"><a onclick="if (!event) var event = window.event; event.cancelBubble = true; if (event.stopPropagation) event.stopPropagation();" href="http://115.91.29.193/tiki-index.php?page_ref_id=12527&amp;page=%EA%B3%B5%EC%9A%A9+%EB%AC%BC%ED%92%88+%EB%B0%8F+%EA%B3%B5%EA%B0%84">공용 물품 및 공간</a></div>
+			
+			</li>
+		</ul>
+	
+		<ul class="">
+			<li id="n498" class="node parentClosed">
+			<div class="icon" onclick="TikiExpandableNav.Toggle(this,event);"><a onclick="if (!event) var event = window.event; event.cancelBubble = true; if (event.stopPropagation) event.stopPropagation();" href="http://115.91.29.193/tiki-index.php?page_ref_id=498&amp;page=%EB%B3%B5%EC%A7%80">복지</a></div>
+			
+			</li>
+		</ul>
+	
+		<ul class="">
+			<li id="n12530" class="node parentClosed">
+			<div class="icon" onclick="TikiExpandableNav.Toggle(this,event);"><a onclick="if (!event) var event = window.event; event.cancelBubble = true; if (event.stopPropagation) event.stopPropagation();" href="http://115.91.29.193/tiki-index.php?page_ref_id=12530&amp;page=%EC%84%A4%EB%AA%85%EC%84%9C+%EB%B0%8F+%EC%82%AC%EC%9A%A9%EB%B2%95">설명서 및 사용법</a></div>
+			
+			</li>
+		</ul>
+	
+		<ul class="">
+			<li id="n355" class="node parentClosed">
+			<div class="icon" onclick="TikiExpandableNav.Toggle(this,event);"><a onclick="if (!event) var event = window.event; event.cancelBubble = true; if (event.stopPropagation) event.stopPropagation();" href="http://115.91.29.193/tiki-index.php?page_ref_id=355&amp;page=%EC%9D%B4%EB%B2%A4%ED%8A%B8+%EC%95%88%EB%82%B4">이벤트 안내</a></div>
+			
+			</li>
+		</ul>
+	
+		<ul class="">
+			<li id="n12525" class="node parentClosed">
+			<div class="icon" onclick="TikiExpandableNav.Toggle(this,event);"><a onclick="if (!event) var event = window.event; event.cancelBubble = true; if (event.stopPropagation) event.stopPropagation();" href="http://115.91.29.193/tiki-index.php?page_ref_id=12525&amp;page=%EC%A7%80%EA%B8%89%ED%92%88">지급품</a></div>
+			
+			</li>
+		</ul>
+	
+		<ul class="">
+			<li id="n12880" class="node parentClosed child">
+			<div class="icon" onclick="TikiExpandableNav.Toggle(this,event);"><a onclick="if (!event) var event = window.event; event.cancelBubble = true; if (event.stopPropagation) event.stopPropagation();" href="http://115.91.29.193/tiki-index.php?page_ref_id=12880&amp;page=%EC%A7%80%EC%8B%9D%EC%B0%BD%EA%B3%A0+Knowledge+Base">지식창고 Knowledge Base</a></div>
+			
+			</li>
+		</ul>
+	
+		<ul class="">
+			<li id="n11303" class="node parentClosed child">
+			<div class="icon" onclick="TikiExpandableNav.Toggle(this,event);"><a onclick="if (!event) var event = window.event; event.cancelBubble = true; if (event.stopPropagation) event.stopPropagation();" href="http://115.91.29.193/tiki-index.php?page_ref_id=11303&amp;page=%EC%B1%84%EC%9A%A9+%EA%B5%AC%EC%9D%B8+%EA%B3%B5%EA%B3%A0">채용 구인 공고</a></div>
+			
+			</li>
+		</ul>
+	
+		<ul class="">
+			<li id="n12964" class="node parentClosed">
+			<div class="icon" onclick="TikiExpandableNav.Toggle(this,event);"><a onclick="if (!event) var event = window.event; event.cancelBubble = true; if (event.stopPropagation) event.stopPropagation();" href="http://115.91.29.193/tiki-index.php?page_ref_id=12964&amp;page=%ED%95%B4%EC%9A%B0%EC%86%8C%28%EB%85%B8%EC%82%AC%ED%98%91%EC%9D%98%ED%9A%8C%29">해우소(노사협의회)</a></div>
+			
+			</li>
+		</ul>
+	
+		<ul class="">
+			<li id="n12516" class="node parentClosed">
+			<div class="icon" onclick="TikiExpandableNav.Toggle(this,event);"><a onclick="if (!event) var event = window.event; event.cancelBubble = true; if (event.stopPropagation) event.stopPropagation();" href="http://115.91.29.193/tiki-index.php?page_ref_id=12516&amp;page=%ED%9A%8C%EC%82%AC+%EC%A3%BC%EB%B3%80+%EC%A0%95%EB%B3%B4">회사 주변 정보</a></div>
+			
+			</li>
+		</ul>
+	
+		<ul class="">
+			<li id="n12933" class="node parentClosed child">
+			<div class="icon" onclick="TikiExpandableNav.Toggle(this,event);"><a onclick="if (!event) var event = window.event; event.cancelBubble = true; if (event.stopPropagation) event.stopPropagation();" href="http://115.91.29.193/tiki-index.php?page_ref_id=12933&amp;page=%ED%9A%8C%EC%9D%98%EC%8B%A4">회의실</a></div>
+			
+			</li>
+		</ul>
+	
+		<script> 
+		 function wrapWindowByMask( url, page_ref_id ){
+			winda =
+			window.open(url+'?page_ref_id='+page_ref_id, 'newone', 'scrollbars, toolbar=no, location=no, directories=no, status=no, menubar=no, resizable=yes, width=400, height=500');
+			winda.focus();
+		} 
+		</script>
+
+			<ul class="">
+				<li id="n100000" class="node ancestor ">
+				<div class="icon"><a href="http://115.91.29.193/tiki-index.php?page_ref_id=12066#" onclick="javascript:wrapWindowByMask(&#39;/WikiTreeDataMove.php&#39;, &#39;12066&#39;);"><b>페이지 이동하기</b></a></div>
+				</li>
+			</ul>
+
+		</div></nav>
+
+
+		</div>
+		<div class="box-footer">
+
+		</div>
+	</div>
+	
+
+
+			<div id="module_17" class="box box-menu module">
+			<h3 class="box-title clearfix">
+							<span class="moduletitle"><a href="http://115.91.29.193/tiki-index.php?page=Education">Education</a></span>
+						<!--[if IE]><br class="clear" style="height: 1px !important" /><![endif]--></h3>
+			<div id="mod-menuleft5" style="display: block;" class="clearfix ">
+
+	
+<nav class="role_navigation"><link rel="stylesheet" type="text/css" media="screen" href="./kLOUD-io _ Internal Auth_files/css.css">
+<link rel="stylesheet" type="text/css" media="screen" href="./kLOUD-io _ Internal Auth_files/expandablenav.css"> 
+<script type="text/javascript" src="./kLOUD-io _ Internal Auth_files/js.js.Без названия"></script>    
+<script type="text/javascript">
+	var aLt = aLt || []; var wfMsg = wfMsg || function (key) { return aLt[key] ? aLt[key] : 'MISSING: ' + key; };
+	YAHOO.util.Event.addListener(document, 'click', function () { DWMenu.BodyClick(); });
+	YAHOO.util.Event.onDOMReady(function () { new clientWindow });
+	YAHOO.util.Event.onDOMReady(function() {new hookTOCLinks});
+	YAHOO.util.Event.onDOMReady(function() {
+		tb_init("a.lightbox, area.lightbox, input.lightbox, a[rel='awesomebox']");//pass where to apply thickbox
+	});
+
+	YAHOO.util.Event.onDOMReady(function() {
+		MTComments.HookBehavior();
+	});
+</script>
+<script type="text/javascript" src="./kLOUD-io _ Internal Auth_files/expandablenav.js.Без названия"></script>
+<div id="siteNavTree">
+		<ul class="">
+			<li id="n1" class="node parentClosed">
+			<div class="icon" onclick="TikiExpandableNav.Toggle(this,event);"><a onclick="if (!event) var event = window.event; event.cancelBubble = true; if (event.stopPropagation) event.stopPropagation();" href="http://115.91.29.193/tiki-index.php?page_ref_id=1&amp;page=Education">Education</a></div>
+			
+			</li>
+		</ul>
+	
+		<ul class="">
+			<li id="n11042" class="node parentClosed">
+			<div class="icon" onclick="TikiExpandableNav.Toggle(this,event);"><a onclick="if (!event) var event = window.event; event.cancelBubble = true; if (event.stopPropagation) event.stopPropagation();" href="http://115.91.29.193/tiki-index.php?page_ref_id=11042&amp;page=HomePage">HomePage</a></div>
+			
+			</li>
+		</ul>
+	
+		<ul class="">
+			<li id="n11812" class="node parentClosed">
+			<div class="icon" onclick="TikiExpandableNav.Toggle(this,event);"><a onclick="if (!event) var event = window.event; event.cancelBubble = true; if (event.stopPropagation) event.stopPropagation();" href="http://115.91.29.193/tiki-index.php?page_ref_id=11812&amp;page=hr-old">hr-old</a></div>
+			
+			</li>
+		</ul>
+	
+		<ul class="">
+			<li id="n10779" class="node parentClosed child">
+			<div class="icon" onclick="TikiExpandableNav.Toggle(this,event);"><a onclick="if (!event) var event = window.event; event.cancelBubble = true; if (event.stopPropagation) event.stopPropagation();" href="http://115.91.29.193/tiki-index.php?page_ref_id=10779&amp;page=KLOUD">KLOUD</a></div>
+			
+			</li>
+		</ul>
+	
+		<ul class="">
+			<li id="n349" class="node parentClosed">
+			<div class="icon" onclick="TikiExpandableNav.Toggle(this,event);"><a onclick="if (!event) var event = window.event; event.cancelBubble = true; if (event.stopPropagation) event.stopPropagation();" href="http://115.91.29.193/tiki-index.php?page_ref_id=349&amp;page=Life+on+kLOUD">Life on kLOUD</a></div>
+			
+			</li>
+		</ul>
+	
+		<ul class="">
+			<li id="n12663" class="node parentClosed">
+			<div class="icon" onclick="TikiExpandableNav.Toggle(this,event);"><a onclick="if (!event) var event = window.event; event.cancelBubble = true; if (event.stopPropagation) event.stopPropagation();" href="http://115.91.29.193/tiki-index.php?page_ref_id=12663&amp;page=Lost%2BFound">Lost+Found</a></div>
+			
+			</li>
+		</ul>
+	
+		<ul class="">
+			<li id="n2898" class="node parentClosed">
+			<div class="icon" onclick="TikiExpandableNav.Toggle(this,event);"><a onclick="if (!event) var event = window.event; event.cancelBubble = true; if (event.stopPropagation) event.stopPropagation();" href="http://115.91.29.193/tiki-index.php?page_ref_id=2898&amp;page=Operations">Operations</a></div>
+			
+			</li>
+		</ul>
+	
+		<ul class="">
+			<li id="n10781" class="node parentClosed">
+			<div class="icon" onclick="TikiExpandableNav.Toggle(this,event);"><a onclick="if (!event) var event = window.event; event.cancelBubble = true; if (event.stopPropagation) event.stopPropagation();" href="http://115.91.29.193/tiki-index.php?page_ref_id=10781&amp;page=Standards">Standards</a></div>
+			
+			</li>
+		</ul>
+	
+		<ul class="">
+			<li id="n4045" class="node parentClosed">
+			<div class="icon" onclick="TikiExpandableNav.Toggle(this,event);"><a onclick="if (!event) var event = window.event; event.cancelBubble = true; if (event.stopPropagation) event.stopPropagation();" href="http://115.91.29.193/tiki-index.php?page_ref_id=4045&amp;page=T-Biz">T-Biz</a></div>
+			
+			</li>
+		</ul>
+	
+		<ul class="">
+			<li id="n7862" class="node parentClosed">
+			<div class="icon" onclick="TikiExpandableNav.Toggle(this,event);"><a onclick="if (!event) var event = window.event; event.cancelBubble = true; if (event.stopPropagation) event.stopPropagation();" href="http://115.91.29.193/tiki-index.php?page_ref_id=7862&amp;page=T-OP">T-OP</a></div>
+			
+			</li>
+		</ul>
+	
+		<ul class="">
+			<li id="n11068" class="node parentClosed">
+			<div class="icon" onclick="TikiExpandableNav.Toggle(this,event);"><a onclick="if (!event) var event = window.event; event.cancelBubble = true; if (event.stopPropagation) event.stopPropagation();" href="http://115.91.29.193/tiki-index.php?page_ref_id=11068&amp;page=Team_SE">Team_SE</a></div>
+			
+			</li>
+		</ul>
+	
+		<ul class="">
+			<li id="n12063" class="node parentClosed">
+			<div class="icon" onclick="TikiExpandableNav.Toggle(this,event);"><a onclick="if (!event) var event = window.event; event.cancelBubble = true; if (event.stopPropagation) event.stopPropagation();" href="http://115.91.29.193/tiki-index.php?page_ref_id=12063&amp;page=Team-Web">Team-Web</a></div>
+			
+			</li>
+		</ul>
+	
+		<ul class="">
+			<li id="n7291" class="node parentClosed">
+			<div class="icon" onclick="TikiExpandableNav.Toggle(this,event);"><a onclick="if (!event) var event = window.event; event.cancelBubble = true; if (event.stopPropagation) event.stopPropagation();" href="http://115.91.29.193/tiki-index.php?page_ref_id=7291&amp;page=TeamHR">TeamHR</a></div>
+			
+			</li>
+		</ul>
+	
+		<ul class="">
+			<li id="n12882" class="node parentClosed child">
+			<div class="icon" onclick="TikiExpandableNav.Toggle(this,event);"><a onclick="if (!event) var event = window.event; event.cancelBubble = true; if (event.stopPropagation) event.stopPropagation();" href="http://115.91.29.193/tiki-index.php?page_ref_id=12882&amp;page=UserPages">UserPages</a></div>
+			
+			</li>
+		</ul>
+	
+		<ul class="">
+			<li id="n10473" class="node parentClosed">
+			<div class="icon" onclick="TikiExpandableNav.Toggle(this,event);"><a onclick="if (!event) var event = window.event; event.cancelBubble = true; if (event.stopPropagation) event.stopPropagation();" href="http://115.91.29.193/tiki-index.php?page_ref_id=10473&amp;page=%EA%B2%BD%EC%98%81%EC%A7%80%EC%9B%90_%ED%9A%8C%EC%9D%98%EB%A1%9D+%28FN%2FOP%29">경영지원_회의록 (FN/OP)</a></div>
+			
+			</li>
+		</ul>
+	
+		<ul class="">
+			<li id="n10638" class="node parentClosed">
+			<div class="icon" onclick="TikiExpandableNav.Toggle(this,event);"><a onclick="if (!event) var event = window.event; event.cancelBubble = true; if (event.stopPropagation) event.stopPropagation();" href="http://115.91.29.193/tiki-index.php?page_ref_id=10638&amp;page=%EA%B3%BC%EA%B1%B0%EA%B3%B5%EC%A7%80">과거공지</a></div>
+			
+			</li>
+		</ul>
+	
+		<ul class="">
+			<li id="n12540" class="node parentClosed">
+			<div class="icon" onclick="TikiExpandableNav.Toggle(this,event);"><a onclick="if (!event) var event = window.event; event.cancelBubble = true; if (event.stopPropagation) event.stopPropagation();" href="http://115.91.29.193/tiki-index.php?page_ref_id=12540&amp;page=%EC%A7%80%EC%8B%9D%EC%B0%BD%EA%B3%A0">지식창고</a></div>
+			
+			</li>
+		</ul>
+	
+		<script> 
+		 function wrapWindowByMask( url, page_ref_id ){
+			winda =
+			window.open(url+'?page_ref_id='+page_ref_id, 'newone', 'scrollbars, toolbar=no, location=no, directories=no, status=no, menubar=no, resizable=yes, width=400, height=500');
+			winda.focus();
+		} 
+		</script>
+
+			<ul class="">
+				<li id="n100000" class="node ancestor ">
+				<div class="icon"><a href="http://115.91.29.193/tiki-index.php?page_ref_id=12066#" onclick="javascript:wrapWindowByMask(&#39;/WikiTreeDataMove.php&#39;, &#39;12066&#39;);"><b>페이지 이동하기</b></a></div>
+				</li>
+			</ul>
+
+		</div></nav>
+
+
+		</div>
+		<div class="box-footer">
+
+		</div>
+	</div>
+	
+
+</div>
+										</div>
+																								</div>
+																													<!--[if IE 7]><br style="clear:both; height: 0" /><![endif]-->
+						</div>
+									</div>
+																						<footer class="footer" id="footer">
+								<div class="footer_liner">
+									<div class="fixedwidth footerbgtrap">
+										<div class="content modules" id="bottom_modules">
+	
+		<div id="module_5" style="" class="module box-rsslist clearfix">
+			<div id="mod-rsslistbottom1" class="clearfix">
+
+  <div id="rss">
+                <a class="linkmodule" title="블로그 피드" href="http://115.91.29.193/tiki-blogs_rss.php?ver=2"><img src="./kLOUD-io _ Internal Auth_files/feed.png" style="border: 0; vertical-align: text-bottom;" alt="피드" title="피드" width="16" height="16">
+        블로그
+        </a>
+        <br>
+                <a class="linkmodule" title="기사 피드" href="http://115.91.29.193/tiki-articles_rss.php?ver=2"><img src="./kLOUD-io _ Internal Auth_files/feed.png" style="border: 0; vertical-align: text-bottom;" alt="피드" title="피드" width="16" height="16">
+        기사
+        </a>
+        <br>
+                        <a class="linkmodule" title="게시판 피드" href="http://115.91.29.193/tiki-forums_rss.php?ver=2"><img src="./kLOUD-io _ Internal Auth_files/feed.png" style="border: 0; vertical-align: text-bottom;" alt="피드" title="피드" width="16" height="16">
+        게시판
+        </a>
+        <br>
+            	  	  </div>
+
+
+		</div>
+	</div>
+
+
+
+</div>
+									</div>
+								</div>
+							</footer>
+																		</div>		</div> 
+
+		
+					<span type="button" class="btn btn-default button" id="show-errors-button"><a onclick="flip(&#39;errors&#39;);return false;" href="http://115.91.29.193/tiki-index.php">php 오류 메세지 보기</a></span>
+		<div id="errors" class="rbox warning" style="display:none;">
+			&nbsp;<label>필터:&nbsp;<input type="text" id="listfilter_1" class="listfilter"><img src="./kLOUD-io _ Internal Auth_files/close.png" onclick="$(&#39;#listfilter_1&#39;).val(&#39;&#39;).focus().keyup();return false;" class="closeicon" width="16" height="16" style="visibility:hidden;position:relative;right:20px;top:6px;"></label>
+							<div class="rbox-data" style="font-size:10px;border:1px solid"><b>PHP (5.3.3) NOTICE (E_NOTICE):</b><br><b style="font-family: monospace">File:</b> WikiTreeUtil.php<br><b style="font-family: monospace">Line:</b> 13<br><b style="font-family: monospace">Type:</b> Undefined variable: i</div>
+							<div class="rbox-data" style="font-size:10px;border:1px solid"><b>PHP (5.3.3) NOTICE (E_NOTICE):</b><br><b style="font-family: monospace">File:</b> WikiTreeUtil.php<br><b style="font-family: monospace">Line:</b> 13<br><b style="font-family: monospace">Type:</b> Undefined variable: i</div>
+							<div class="rbox-data" style="font-size:10px;border:1px solid"><b>PHP (5.3.3) NOTICE (E_NOTICE):</b><br><b style="font-family: monospace">File:</b> WikiTreeUtil.php<br><b style="font-family: monospace">Line:</b> 13<br><b style="font-family: monospace">Type:</b> Undefined variable: i</div>
+							<div class="rbox-data" style="font-size:10px;border:1px solid"><b>PHP (5.3.3) NOTICE (E_NOTICE):</b><br><b style="font-family: monospace">File:</b> WikiTreeData.php<br><b style="font-family: monospace">Line:</b> 133<br><b style="font-family: monospace">Type:</b> Undefined index: levels</div>
+							<div class="rbox-data" style="font-size:10px;border:1px solid"><b>PHP (5.3.3) NOTICE (E_NOTICE):</b><br><b style="font-family: monospace">File:</b> WikiTreeData.php<br><b style="font-family: monospace">Line:</b> 133<br><b style="font-family: monospace">Type:</b> Undefined index: levels</div>
+							<div class="rbox-data" style="font-size:10px;border:1px solid"><b>PHP (5.3.3) NOTICE (E_NOTICE):</b><br><b style="font-family: monospace">File:</b> WikiTreeData.php<br><b style="font-family: monospace">Line:</b> 133<br><b style="font-family: monospace">Type:</b> Undefined index: levels</div>
+							<div class="rbox-data" style="font-size:10px;border:1px solid"><b>PHP (5.3.3) NOTICE (E_NOTICE):</b><br><b style="font-family: monospace">File:</b> WikiTreeData.php<br><b style="font-family: monospace">Line:</b> 133<br><b style="font-family: monospace">Type:</b> Undefined index: levels</div>
+							<div class="rbox-data" style="font-size:10px;border:1px solid"><b>PHP (5.3.3) NOTICE (E_NOTICE):</b><br><b style="font-family: monospace">File:</b> WikiTreeData.php<br><b style="font-family: monospace">Line:</b> 133<br><b style="font-family: monospace">Type:</b> Undefined index: levels</div>
+							<div class="rbox-data" style="font-size:10px;border:1px solid"><b>PHP (5.3.3) NOTICE (E_NOTICE):</b><br><b style="font-family: monospace">File:</b> WikiTreeData.php<br><b style="font-family: monospace">Line:</b> 133<br><b style="font-family: monospace">Type:</b> Undefined index: levels</div>
+							<div class="rbox-data" style="font-size:10px;border:1px solid"><b>PHP (5.3.3) NOTICE (E_NOTICE):</b><br><b style="font-family: monospace">File:</b> WikiTreeData.php<br><b style="font-family: monospace">Line:</b> 133<br><b style="font-family: monospace">Type:</b> Undefined index: levels</div>
+							<div class="rbox-data" style="font-size:10px;border:1px solid"><b>PHP (5.3.3) NOTICE (E_NOTICE):</b><br><b style="font-family: monospace">File:</b> WikiTreeData.php<br><b style="font-family: monospace">Line:</b> 133<br><b style="font-family: monospace">Type:</b> Undefined index: levels</div>
+							<div class="rbox-data" style="font-size:10px;border:1px solid"><b>PHP (5.3.3) NOTICE (E_NOTICE):</b><br><b style="font-family: monospace">File:</b> WikiTreeData.php<br><b style="font-family: monospace">Line:</b> 133<br><b style="font-family: monospace">Type:</b> Undefined index: levels</div>
+							<div class="rbox-data" style="font-size:10px;border:1px solid"><b>PHP (5.3.3) NOTICE (E_NOTICE):</b><br><b style="font-family: monospace">File:</b> WikiTreeData.php<br><b style="font-family: monospace">Line:</b> 133<br><b style="font-family: monospace">Type:</b> Undefined index: levels</div>
+							<div class="rbox-data" style="font-size:10px;border:1px solid"><b>PHP (5.3.3) NOTICE (E_NOTICE):</b><br><b style="font-family: monospace">File:</b> WikiTreeData.php<br><b style="font-family: monospace">Line:</b> 133<br><b style="font-family: monospace">Type:</b> Undefined index: levels</div>
+							<div class="rbox-data" style="font-size:10px;border:1px solid"><b>PHP (5.3.3) NOTICE (E_NOTICE):</b><br><b style="font-family: monospace">File:</b> WikiTreeData.php<br><b style="font-family: monospace">Line:</b> 133<br><b style="font-family: monospace">Type:</b> Undefined index: levels</div>
+							<div class="rbox-data" style="font-size:10px;border:1px solid"><b>PHP (5.3.3) NOTICE (E_NOTICE):</b><br><b style="font-family: monospace">File:</b> WikiTreeData.php<br><b style="font-family: monospace">Line:</b> 133<br><b style="font-family: monospace">Type:</b> Undefined index: levels</div>
+							<div class="rbox-data" style="font-size:10px;border:1px solid"><b>PHP (5.3.3) NOTICE (E_NOTICE):</b><br><b style="font-family: monospace">File:</b> WikiTreeData.php<br><b style="font-family: monospace">Line:</b> 133<br><b style="font-family: monospace">Type:</b> Undefined index: levels</div>
+							<div class="rbox-data" style="font-size:10px;border:1px solid"><b>PHP (5.3.3) NOTICE (E_DEPRECATED):</b><br><b style="font-family: monospace">File:</b> WikiTreeData.php<br><b style="font-family: monospace">Line:</b> 182<br><b style="font-family: monospace">Type:</b> Function ereg() is deprecated</div>
+							<div class="rbox-data" style="font-size:10px;border:1px solid"><b>PHP (5.3.3) NOTICE (E_NOTICE):</b><br><b style="font-family: monospace">File:</b> WikiTreeUtil.php<br><b style="font-family: monospace">Line:</b> 13<br><b style="font-family: monospace">Type:</b> Undefined variable: i</div>
+							<div class="rbox-data" style="font-size:10px;border:1px solid"><b>PHP (5.3.3) NOTICE (E_NOTICE):</b><br><b style="font-family: monospace">File:</b> WikiTreeUtil.php<br><b style="font-family: monospace">Line:</b> 13<br><b style="font-family: monospace">Type:</b> Undefined variable: i</div>
+							<div class="rbox-data" style="font-size:10px;border:1px solid"><b>PHP (5.3.3) NOTICE (E_NOTICE):</b><br><b style="font-family: monospace">File:</b> WikiTreeUtil.php<br><b style="font-family: monospace">Line:</b> 13<br><b style="font-family: monospace">Type:</b> Undefined variable: i</div>
+							<div class="rbox-data" style="font-size:10px;border:1px solid"><b>PHP (5.3.3) NOTICE (E_NOTICE):</b><br><b style="font-family: monospace">File:</b> WikiTreeData.php<br><b style="font-family: monospace">Line:</b> 133<br><b style="font-family: monospace">Type:</b> Undefined index: levels</div>
+							<div class="rbox-data" style="font-size:10px;border:1px solid"><b>PHP (5.3.3) NOTICE (E_NOTICE):</b><br><b style="font-family: monospace">File:</b> WikiTreeData.php<br><b style="font-family: monospace">Line:</b> 133<br><b style="font-family: monospace">Type:</b> Undefined index: levels</div>
+							<div class="rbox-data" style="font-size:10px;border:1px solid"><b>PHP (5.3.3) NOTICE (E_NOTICE):</b><br><b style="font-family: monospace">File:</b> WikiTreeData.php<br><b style="font-family: monospace">Line:</b> 133<br><b style="font-family: monospace">Type:</b> Undefined index: levels</div>
+							<div class="rbox-data" style="font-size:10px;border:1px solid"><b>PHP (5.3.3) NOTICE (E_NOTICE):</b><br><b style="font-family: monospace">File:</b> WikiTreeData.php<br><b style="font-family: monospace">Line:</b> 133<br><b style="font-family: monospace">Type:</b> Undefined index: levels</div>
+							<div class="rbox-data" style="font-size:10px;border:1px solid"><b>PHP (5.3.3) NOTICE (E_NOTICE):</b><br><b style="font-family: monospace">File:</b> WikiTreeData.php<br><b style="font-family: monospace">Line:</b> 133<br><b style="font-family: monospace">Type:</b> Undefined index: levels</div>
+							<div class="rbox-data" style="font-size:10px;border:1px solid"><b>PHP (5.3.3) NOTICE (E_NOTICE):</b><br><b style="font-family: monospace">File:</b> WikiTreeData.php<br><b style="font-family: monospace">Line:</b> 133<br><b style="font-family: monospace">Type:</b> Undefined index: levels</div>
+							<div class="rbox-data" style="font-size:10px;border:1px solid"><b>PHP (5.3.3) NOTICE (E_NOTICE):</b><br><b style="font-family: monospace">File:</b> WikiTreeData.php<br><b style="font-family: monospace">Line:</b> 133<br><b style="font-family: monospace">Type:</b> Undefined index: levels</div>
+							<div class="rbox-data" style="font-size:10px;border:1px solid"><b>PHP (5.3.3) NOTICE (E_NOTICE):</b><br><b style="font-family: monospace">File:</b> WikiTreeData.php<br><b style="font-family: monospace">Line:</b> 133<br><b style="font-family: monospace">Type:</b> Undefined index: levels</div>
+							<div class="rbox-data" style="font-size:10px;border:1px solid"><b>PHP (5.3.3) NOTICE (E_NOTICE):</b><br><b style="font-family: monospace">File:</b> WikiTreeData.php<br><b style="font-family: monospace">Line:</b> 133<br><b style="font-family: monospace">Type:</b> Undefined index: levels</div>
+							<div class="rbox-data" style="font-size:10px;border:1px solid"><b>PHP (5.3.3) NOTICE (E_NOTICE):</b><br><b style="font-family: monospace">File:</b> WikiTreeData.php<br><b style="font-family: monospace">Line:</b> 133<br><b style="font-family: monospace">Type:</b> Undefined index: levels</div>
+							<div class="rbox-data" style="font-size:10px;border:1px solid"><b>PHP (5.3.3) NOTICE (E_NOTICE):</b><br><b style="font-family: monospace">File:</b> WikiTreeData.php<br><b style="font-family: monospace">Line:</b> 133<br><b style="font-family: monospace">Type:</b> Undefined index: levels</div>
+							<div class="rbox-data" style="font-size:10px;border:1px solid"><b>PHP (5.3.3) NOTICE (E_NOTICE):</b><br><b style="font-family: monospace">File:</b> WikiTreeData.php<br><b style="font-family: monospace">Line:</b> 133<br><b style="font-family: monospace">Type:</b> Undefined index: levels</div>
+							<div class="rbox-data" style="font-size:10px;border:1px solid"><b>PHP (5.3.3) NOTICE (E_NOTICE):</b><br><b style="font-family: monospace">File:</b> WikiTreeData.php<br><b style="font-family: monospace">Line:</b> 133<br><b style="font-family: monospace">Type:</b> Undefined index: levels</div>
+							<div class="rbox-data" style="font-size:10px;border:1px solid"><b>PHP (5.3.3) NOTICE (E_NOTICE):</b><br><b style="font-family: monospace">File:</b> WikiTreeData.php<br><b style="font-family: monospace">Line:</b> 133<br><b style="font-family: monospace">Type:</b> Undefined index: levels</div>
+							<div class="rbox-data" style="font-size:10px;border:1px solid"><b>PHP (5.3.3) NOTICE (E_NOTICE):</b><br><b style="font-family: monospace">File:</b> WikiTreeData.php<br><b style="font-family: monospace">Line:</b> 133<br><b style="font-family: monospace">Type:</b> Undefined index: levels</div>
+							<div class="rbox-data" style="font-size:10px;border:1px solid"><b>PHP (5.3.3) NOTICE (E_NOTICE):</b><br><b style="font-family: monospace">File:</b> WikiTreeData.php<br><b style="font-family: monospace">Line:</b> 133<br><b style="font-family: monospace">Type:</b> Undefined index: levels</div>
+							<div class="rbox-data" style="font-size:10px;border:1px solid"><b>PHP (5.3.3) NOTICE (E_NOTICE):</b><br><b style="font-family: monospace">File:</b> WikiTreeData.php<br><b style="font-family: monospace">Line:</b> 133<br><b style="font-family: monospace">Type:</b> Undefined index: levels</div>
+							<div class="rbox-data" style="font-size:10px;border:1px solid"><b>PHP (5.3.3) NOTICE (E_DEPRECATED):</b><br><b style="font-family: monospace">File:</b> WikiTreeData.php<br><b style="font-family: monospace">Line:</b> 182<br><b style="font-family: monospace">Type:</b> Function ereg() is deprecated</div>
+					</div>
+			
+	
+
+		
+						
+		<!-- Put JS at the end -->
+					
+			
+<!-- jsfile -1 -->
+<script type="text/javascript" src="./kLOUD-io _ Internal Auth_files/jquery-1.10.2.js.Без названия"></script>
+<script type="text/javascript" src="./kLOUD-io _ Internal Auth_files/jquery-migrate-1.2.1.js.Без названия"></script>
+<script type="text/javascript" src="./kLOUD-io _ Internal Auth_files/codemirror.js.Без названия"></script>
+<script type="text/javascript" src="./kLOUD-io _ Internal Auth_files/jquery-ui.js.Без названия"></script>
+<!-- jsfile late -->
+<script type="text/javascript" src="./kLOUD-io _ Internal Auth_files/autoToc.js.Без названия"></script>
+<script type="text/javascript" src="./kLOUD-io _ Internal Auth_files/menu.js.Без названия"></script>
+<!-- jsfile 0 -->
+<script type="text/javascript" src="./kLOUD-io _ Internal Auth_files/tiki-js.js.Без названия"></script>
+<script type="text/javascript" src="./kLOUD-io _ Internal Auth_files/elfinder.full.js.Без названия"></script>
+<script type="text/javascript" src="./kLOUD-io _ Internal Auth_files/tiki-elfinder.js.Без названия"></script>
+<script type="text/javascript" src="./kLOUD-io _ Internal Auth_files/elfinder.ko.js.Без названия"></script>
+<script type="text/javascript" src="./kLOUD-io _ Internal Auth_files/tiki-jquery.js.Без названия"></script>
+<script type="text/javascript" src="./kLOUD-io _ Internal Auth_files/tiki-maps.js.Без названия"></script>
+<script type="text/javascript" src="./kLOUD-io _ Internal Auth_files/jquery.json-2.4.js.Без названия"></script>
+<script type="text/javascript" src="./kLOUD-io _ Internal Auth_files/jquery.zoom.js.Без названия"></script>
+<script type="text/javascript" src="./kLOUD-io _ Internal Auth_files/overlay.js.Без названия"></script>
+<script type="text/javascript" src="./kLOUD-io _ Internal Auth_files/codemirror_modes.js.Без названия"></script>
+<script type="text/javascript" src="./kLOUD-io _ Internal Auth_files/swfobject.js.Без названия"></script>
+<script type="text/javascript" src="./kLOUD-io _ Internal Auth_files/autosave.js.Без названия"></script>
+<script type="text/javascript" src="./kLOUD-io _ Internal Auth_files/jquery-ui-timepicker-addon.js.Без названия"></script>
+<script type="text/javascript" src="./kLOUD-io _ Internal Auth_files/jquery.cluetip.js.Без названия"></script>
+<script type="text/javascript" src="./kLOUD-io _ Internal Auth_files/superfish.js.Без названия"></script>
+<script type="text/javascript" src="./kLOUD-io _ Internal Auth_files/supersubs.js.Без названия"></script>
+<script type="text/javascript" src="./kLOUD-io _ Internal Auth_files/hoverIntent.js.Без названия"></script>
+<script type="text/javascript" src="./kLOUD-io _ Internal Auth_files/jquery.colorbox.js.Без названия"></script>
+<script type="text/javascript" src="./kLOUD-io _ Internal Auth_files/tiki-js-sorttable.js.Без названия"></script>
+<script type="text/javascript" src="./kLOUD-io _ Internal Auth_files/jquery.validate.js.Без названия"></script>
+<script type="text/javascript" src="./kLOUD-io _ Internal Auth_files/validator_required_in_group.js.Без названия"></script>
+<script type="text/javascript" src="./kLOUD-io _ Internal Auth_files/jquery.treetable.js.Без названия"></script>
+<script type="text/javascript" src="./kLOUD-io _ Internal Auth_files/tiki-trackers.js.Без названия"></script>
+<script type="text/javascript" src="./kLOUD-io _ Internal Auth_files/embedapi.js.Без названия"></script>
+<script type="text/javascript" src="./kLOUD-io _ Internal Auth_files/draw.js.Без названия"></script>
+<script type="text/javascript" src="./kLOUD-io _ Internal Auth_files/tiki-admin.js.Без названия"></script>
+<!-- jsfile dynamic -->
+<script type="text/javascript" src="./kLOUD-io _ Internal Auth_files/tiki-jsplugin.php"></script>
+<script type="text/javascript" src="./kLOUD-io _ Internal Auth_files/tiki-jsmodule.php"></script>
+<!-- jsfile 3 -->
+<script type="text/javascript" src="./kLOUD-io _ Internal Auth_files/searchcursor.js.Без названия"></script>
+<!-- jsfile 5 -->
+<script type="text/javascript" src="./kLOUD-io _ Internal Auth_files/codemirror_tiki.js.Без названия"></script>
+<!-- jsfile 10 -->
+<script type="text/javascript" src="./kLOUD-io _ Internal Auth_files/jquery.async.js.Без названия"></script>
+<!-- jsfile 25 -->
+<script type="text/javascript" src="./kLOUD-io _ Internal Auth_files/language.js.Без названия"></script>
+
+
+			
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+// js 0 
+tiki_cookie_jar=new Object();
+$.lang = 'ko';
+
+// JS Object to hold prefs for jq
+var jqueryTiki = new Object();
+jqueryTiki.ui = true;
+jqueryTiki.ui_theme = "cupertino";
+jqueryTiki.tooltips = true;
+jqueryTiki.autocomplete = true;
+jqueryTiki.superfish = true;
+jqueryTiki.reflection = false;
+jqueryTiki.tablesorter = false;
+jqueryTiki.colorbox = true;
+jqueryTiki.cboxCurrent = "{current} / {total}";
+jqueryTiki.sheet = false;
+jqueryTiki.carousel = false;
+jqueryTiki.validate = true;
+
+jqueryTiki.effect = "none";				// Default effect
+jqueryTiki.effect_direction = "vertical";	// "horizontal" | "vertical" etc
+jqueryTiki.effect_speed = "fast";	// "slow" | "normal" | "fast" | milliseconds (int) ]
+jqueryTiki.effect_tabs = "none";		// Different effect for tabs
+jqueryTiki.effect_tabs_direction = "vertical";
+jqueryTiki.effect_tabs_speed = "fast";
+jqueryTiki.home_file_gallery = "1";
+
+jqueryTiki.autosave = true;
+jqueryTiki.sefurl = false;
+jqueryTiki.ajax = true;
+jqueryTiki.syntaxHighlighter = true;
+jqueryTiki.chosen = false;
+jqueryTiki.selectmenu = false;
+jqueryTiki.selectmenuAll = false;
+jqueryTiki.mapTileSets = ["openstreetmap"];
+jqueryTiki.infoboxTypes = ["trackeritem"];
+jqueryTiki.googleStreetView = false;
+jqueryTiki.googleStreetViewOverlay = false;
+jqueryTiki.structurePageRepeat = false;
+jqueryTiki.mobile = false;
+jqueryTiki.jcapture = false;
+//do not fix following line for notices -  appropriately throws off a notice when user has not
+//flushed prefs cache after upgrading - i.e. not running the updater
+jqueryTiki.jcaptureFgal = 0;
+jqueryTiki.no_cookie = false;
+jqueryTiki.language = "ko";
+
+var zoomToFoundLocation = "street";
+$.service = function (controller, action, query) {
+		if (! query) {
+			query = {};
+		}
+		query.controller = controller;
+
+		if (action) {
+			query.action = action;
+		}
+
+		return "tiki-ajax_services.php?" + $.map(query, function (v, k) {
+			return k + "=" + tiki_encodeURIComponent(v);
+		}).join("&");
+	};
+
+function capLock(e, el){
+	kc = e.keyCode ? e.keyCode : e.which;
+	sk = e.shiftKey ? e.shiftKey : (kc == 16 ? true : false);
+	if ((kc >= 65 && kc <= 90 && !sk) || (kc >= 97 && kc <= 122 && sk)) {
+		$('.divCapson', $(el).parents('div:first')).show();
+	} else {
+		$('.divCapson', $(el).parents('div:first')).hide();
+	}
+}
+
+
+	$(document).ajaxComplete(function (e, jqxhr) {
+		var error = jqxhr.getResponseHeader("X-Tiki-Error");
+		if (error) {
+			if ($("ul", "#error_report").length === 0) {
+				$("#error_report").append($(error)[0].childNodes);
+			} else {
+				$("ul", "#error_report").append($(error).find("li"));
+			}
+		}
+	});
+	$("#error_report .clear").on("click", function () {
+		$("#error_report").empty();
+		return false;
+	});
+	
+
+function submitSearch1() {
+	var $f = $('#search-module-form1');
+	if ($f.attr('action') !== "tiki-editpage.php" && $f.data('page_selected') === $("#search_mod_input_1").val()) {
+		if ($f.find('input[name="find"]').length) {
+		    $f.find('input[name="find"]').val($f.data('page_selected'));
+		} else {
+		    $f.append($('<input name="find">').val($f.data('page_selected')));
+		}
+		$f.attr('action', 'tiki-listpages.php');
+	} else if ($f.attr('action') == "#") {
+		$f.attr('action', 'tiki-searchindex.php');
+	}
+	$exact = $f.find("input[name=exact_match]");
+	if ($exact.val() != "On") {
+		$exact.remove();		// seems exact_match is true even if empty
+	}
+	return true;
+}
+    
+// js 2 
+
+function inArray(item, array) {
+    for (var i in array) {
+        if (array[i] === item) {
+            return i;
+        }
+    }
+    return false;
+}
+var allTimeZoneCodes = ["ACST","ACT","ADDT","ADMT","ADT","AFT","AHDT","AHST","AKDT","AKST","AKTST","AKTT","ALMST","ALMT","AMST","AMT","ANAST","ANAT","ANT","AOT","APT","AQTST","AQTT","ARST","ART","ASHST","ASHT","AST","AWT","AZOMT","AZOST","AZOT","AZST","AZT","BAKST","BAKT","BDST","BDT","BEAT","BEAUT","BMT","BNT","BORTST","BORT","BOST","BOT","BRST","BRT","BST","BTT","BURT","CANT","CAPT","CAST","CAT","CAWT","CCT","CDDT","CDT","CEMT","CEST","CET","CGST","CGT","CHADT","CHAST","CHAT","CHDT","CHOST","CHOT","CIT","CJT","CKHST","CKT","CLST","CLT","CMT","COST","COT","CPT","CST","CUT","CVST","CVT","CWST","CWT","CXT","CHST","DACT","DAVT","DDUT","DMT","DUSST","DUST","EASST","EAST","EAT","ECT","EDDT","EDT","EEST","EET","EGST","EGT","EHDT","EIT","EMT","EPT","EST","EWT","FFMT","FJST","FJT","FKST","FKT","FMT","FNST","FNT","FORT","FRUST","FRUT","GALT","GAMT","GBGT","GEST","GET","GFT","GHST","GILT","GMT+10","GMT+11","GMT+12","GMT+1","GMT+2","GMT+3","GMT+4","GMT+5","GMT+6","GMT+7","GMT+8","GMT+9","GMT-10","GMT-11","GMT-12","GMT-13","GMT-14","GMT-1","GMT-2","GMT-3","GMT-4","GMT-5","GMT-6","GMT-7","GMT-8","GMT-9","GMT","GST","GYT","HADT","HAST","HDT","HKST","HKT","HMT","HOVST","HOVT","HPT","HST","HWT","ICT","IDDT","IDT","IHST","IMT","IOT","IRDT","IRKST","IRKT","IRST","ISST","IST","JAVT","JDT","JMT","JST","KART","KAST","KDT","KGST","KGT","KIZST","KIZT","KMT","KOST","KRAST","KRAT","KST","KUYST","KUYT","KWAT","LHST","LINT","LKT","LMT","LONT","LRT","LST","LOCAL TIME ZONE MUST BE SET--SEE ZIC MANUAL PAGE","MADMT","MADST","MADT","MAGST","MAGT","MALST","MALT","MART","MAWT","MDDT","MDST","MDT","MEST","MET","MHT","MMT","MOST","MOT","MPT","MSD","MSK","MST","MUST","MUT","MVT","MWT","MYT","NCST","NCT","NDDT","NDT","NEGT","NEST","NET","NFT","NMT","NOVST","NOVT","NPT","NRT","NST","NUT","NWT","NZDT","NZMT","NZST","OMSST","OMST","ORAST","ORAT","PDDT","PDT","PEST","PETST","PETT","PET","PGT","PHOT","PHST","PHT","PKST","PKT","PMDT","PMST","PMT","PNT","PONT","PPMT","PPT","PST","PWT","PYST","PYT","QMT","QYZST","QYZT","RET","RMT","ROTT","SAKST","SAKT","SAMST","SAMT","SAST","SBT","SCT","SDMT","SGT","SHEST","SHET","SJMT","SLST","SMT","SRT","SST","STAT","SVEST","SVET","SWAT","SYOT","TAHT","TASST","TAST","TBIST","TBIT","TBMT","TFT","TJT","TKT","TLT","TMT","TOST","TOT","TRST","TRT","TRUT","TSAT","TVT","UCT","ULAST","ULAT","URAST","URAT","URUT","UTC","UYHST","UYST","UYT","UZST","UZT","VET","VLASST","VLAST","VLAT","VOLST","VOLT","VOST","VUST","VUT","WAKT","WARST","WART","WAST","WAT","WEMT","WEST","WET","WFT","WGST","WGT","WIT","WMT","WSDT","WST","YAKST","YAKT","YDDT","YDT","YEKST","YEKT","YERST","YERT","YPT","YST","YWT","A","B","C","D","E","F","G","H","I","K","L","M","N","O","P","Q","R","S","T","U","V","W","X","Y","ZZZ","Z"];
+var now = new Date();
+var now_string = now.toString();
+var m = now_string.match(/[ \(]([A-Z]{3,6})[ \)]?[ \d]*$/);	// try three or more char tz first at the end or just before the year
+if (!m) {
+	m = now_string.match(/[ \(]([A-Z]{1,6})[ \)]?[ \d]*$/);	// might be a "military" one if not
+}
+if (m) {
+	m = m[1];
+} else {	// IE (sometimes) gives UTC +offset instead of the abbreviation
+	// sadly this workaround will fail for non-whole hour offsets
+	var hours = - now.getTimezoneOffset() / 60;
+	m = "GMT" + (hours > 0 ? "+" : "") + hours;
+}
+// Etc/GMT+ is equivalent to GMT-
+if (m.substring(0,4) == "GMT+") {
+	m = "Etc/GMT-" + m.substring(4);
+}
+if (m.substring(0,4) == "GMT-") {
+	m = "Etc/GMT+" + m.substring(4);
+}
+if (inArray(m, allTimeZoneCodes)) {
+	setCookie("local_tz", m);
+}
+
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+$(document).ready(function(){
+// jq_onready 0 
+$(".convert-mailto").removeClass("convert-mailto").each(function () {
+				var address = $(this).data("encode-name") + "@" + $(this).data("encode-domain");
+				$(this).attr("href", "mailto:" + address).text(address);
+			});
+
+//We were having problems with the menu disapearing when you selected an input, this prevents the menu from going away once you have put focus on an input
+var hasFocus = false;
+var loginPopup = $('.siteloginbar_popup .cssmenu_horiz')
+
+loginPopup.find('ul')
+	.mouseout(function() {
+		return !hasFocus;
+	});
+
+loginPopup.find(':input')
+	.focus(function() {
+		hasFocus = true;
+	})
+	.blur(function() {
+		hasFocus = false;
+	});
+
+
+$("#loginbox-1").submit( function () {
+	if ($("#login-user_1").val() && $("#login-pass_1").val()) {
+		return true;
+	} else {
+		$("#login-user_1").focus();
+		return false;
+	}
+});
+if (jqueryTiki.no_cookie) {
+	$('.box-login_box input').each(function(){
+		$(this).change(function() {
+			if (jqueryTiki.no_cookie && $(this).val()) {
+				alert(jqueryTiki.cookie_consent_alert);
+			}
+		});
+	});
+}
+
+
+if (jqueryTiki.tooltips) {
+	$('.login_link').cluetip({
+		activation: 'click',
+		arrows: false,
+		showTitle: false,
+		closePosition: 'bottom',
+		closeText: '닫기',
+		cluetipClass: 'transparent',
+		dropShadow: false,
+		hideLocal: true,
+		local: true,
+		leftOffset: -100,
+		positionBy: 'topBottom',
+		sticky: true,
+		topOffset: 10,
+		fx: {
+			open: 'fadeIn', // can be 'show' or 'slideDown' or 'fadeIn'
+			openSpeed: '200'
+		},
+		width: 'auto',
+		onShow: function() {
+			$('#main').one('mousedown',function() {
+				$(document).trigger('hideCluetip');
+			})
+		}
+	});
+}
+	
+$("#login-switchuser_1").tiki("autocomplete", "username");
+
+											$("#wiki_plugin_edit_view").click( function () {
+												var src = $("#wiki_plugin_edit_view img").attr("src");
+												if (src.indexOf("wiki_plugin_edit_view") > -1) {
+													$(".editplugin, .icon_edit_section").show();
+													$("#wiki_plugin_edit_view img").attr("src", src.replace("wiki_plugin_edit_view", "wiki_plugin_edit_hide"));
+													setCookieBrowser("wiki_plugin_edit_view", true);
+												} else {
+													$(".editplugin, .icon_edit_section").hide();
+													$("#wiki_plugin_edit_view img").attr("src", src.replace("wiki_plugin_edit_hide", "wiki_plugin_edit_view"));
+													deleteCookie("wiki_plugin_edit_view");
+												}
+												return false;
+											});
+											if (!getCookie("wiki_plugin_edit_view")) {$(".editplugin, .icon_edit_section").hide(); } else { $("#wiki_plugin_edit_view").click(); }
+										
+
+$('a.attach_detach_translation').click(function() {
+    var object_type = $(this).data('object_type');
+    var object_to_translate = $(this).data('object_id');
+	$(this).serviceDialog({
+		title: '번역 관리',
+		data: {
+			controller: 'translation',
+			action: 'manage',
+			type: object_type,
+			source: object_to_translate
+		}
+    });
+    return false;
+});
+
+$("#structure_add_page").tiki("autocomplete", "pagename");
+$("#search_mod_input_1").tiki("autocomplete", "pagename",{select: function(event, item) {
+	$('#search-module-form1').data('page_selected', item.item.value).find("input[name=exact_match]").val("On");
+}, open: function(event, item) {
+	$(".search_mod_buttons", "#search-module-form1").hide();
+}, close: function(event, item) {
+	$(".search_mod_buttons", "#search-module-form1").show();
+}});
+
+$('#listfilter_1').keyup( function() {
+	var criterias = this.value.toLowerCase().split( /\s+/ );
+
+	if (this.value.length) {
+		$(this).next('img.closeicon').css('visibility', '');
+	} else {
+		$(this).next('img.closeicon').css('visibility', 'hidden');
+	}
+	$('#errors>div').each( function() {
+		var text = $(this).text().toLowerCase();
+		for( i = 0; criterias.length > i; ++i ) {
+			word = criterias[i];
+			if ( word.length > 0 && text.indexOf( word ) == -1 ) {
+				$(this).not('').hide();	// don't search within excluded elements
+				return;
+			}
+		}
+		$(this).show();
+	} );
+
+} );	// end keyup
+
+});
+//--><!]]>
+</script>
+
+			
+
+<div id="cboxOverlay" style="display: none;"></div><div id="colorbox" class="" role="dialog" tabindex="-1" style="display: none;"><div id="cboxWrapper"><div><div id="cboxTopLeft" style="float: left;"></div><div id="cboxTopCenter" style="float: left;"></div><div id="cboxTopRight" style="float: left;"></div></div><div style="clear: left;"><div id="cboxMiddleLeft" style="float: left;"></div><div id="cboxContent" style="float: left;"><div id="cboxTitle" style="float: left;"></div><div id="cboxCurrent" style="float: left;"></div><button type="button" id="cboxPrevious"></button><button type="button" id="cboxNext"></button><button id="cboxSlideshow"></button><div id="cboxLoadingOverlay" style="float: left;"></div><div id="cboxLoadingGraphic" style="float: left;"></div></div><div id="cboxMiddleRight" style="float: left;"></div></div><div style="clear: left;"><div id="cboxBottomLeft" style="float: left;"></div><div id="cboxBottomCenter" style="float: left;"></div><div id="cboxBottomRight" style="float: left;"></div></div></div><div style="position: absolute; width: 9999px; visibility: hidden; display: none;"></div></div><ul class="ui-autocomplete ui-front ui-menu ui-widget ui-widget-content ui-corner-all" id="ui-id-1" tabindex="0" style="display: none;"></ul><ul class="ui-autocomplete ui-front ui-menu ui-widget ui-widget-content ui-corner-all" id="ui-id-2" tabindex="0" style="display: none;"></ul><ul class="ui-autocomplete ui-front ui-menu ui-widget ui-widget-content ui-corner-all" id="ui-id-3" tabindex="0" style="display: none;"></ul></body></html>
